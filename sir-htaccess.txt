@@ -1,0 +1,108 @@
+# BEGIN GD-SSL
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP_USER_AGENT} ^(.+)$
+RewriteCond %{SERVER_NAME} ^aspcares\.com$
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+Header add Strict-Transport-Security "max-age=300"
+</IfModule>
+# END GD-SSL
+
+# BEGIN DEFLATE COMPRESSION
+<IfModule mod_deflate.c>
+# Compress HTML, CSS, JavaScript, Text, XML and fonts
+ AddOutputFilterByType DEFLATE application/javascript
+ AddOutputFilterByType DEFLATE application/rss+xml
+ AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+ AddOutputFilterByType DEFLATE application/x-font
+ AddOutputFilterByType DEFLATE application/x-font-opentype
+ AddOutputFilterByType DEFLATE application/x-font-otf
+ AddOutputFilterByType DEFLATE application/x-font-truetype
+ AddOutputFilterByType DEFLATE application/x-font-ttf
+ AddOutputFilterByType DEFLATE application/x-javascript
+ AddOutputFilterByType DEFLATE application/xhtml+xml
+ AddOutputFilterByType DEFLATE application/xml
+ AddOutputFilterByType DEFLATE font/opentype
+ AddOutputFilterByType DEFLATE font/otf
+ AddOutputFilterByType DEFLATE font/ttf
+ AddOutputFilterByType DEFLATE image/svg+xml
+ AddOutputFilterByType DEFLATE image/x-icon
+ AddOutputFilterByType DEFLATE text/css
+ AddOutputFilterByType DEFLATE text/html
+ AddOutputFilterByType DEFLATE text/javascript
+ AddOutputFilterByType DEFLATE text/plain
+ AddOutputFilterByType DEFLATE text/xml
+</IfModule>
+# END DEFLATE COMPRESSION
+
+#BEGIN EXPIRES HEADERS
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType application/javascript "access 1 month"
+ExpiresByType application/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresByType image/bmp "access 1 month"
+ExpiresByType image/jp2 "access 1 month"
+ExpiresByType image/pipeg "access 1 month"
+ExpiresByType image/svg+xml "access 1 month"
+ExpiresByType image/tiff "access 1 month"
+ExpiresByType image/vnd.microsoft.icon "access 1 month"
+ExpiresByType image/ico "access 1 month"
+ExpiresByType image/icon "access 1 month"
+ExpiresByType text/ico "access 1 month"
+ExpiresByType application/ico "access 1 month"
+ExpiresByType font/truetype "access plus 1 month"
+ExpiresByType font/opentype "access plus 1 month"
+ExpiresByType application/x-font-woff "access plus 1 month"
+ExpiresByType image/svg+xml "access plus 1 month"
+ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
+ExpiresDefault "access 1 month"
+</IfModule>
+#END EXPIRES HEADERS
+
+# BEGIN GZIP COMPRESSION
+<IfModule mod_gzip.c>
+mod_gzip_on Yes
+mod_gzip_dechunk Yes
+mod_gzip_item_include file \.(html?|txt|css|js|php|pl)$
+mod_gzip_item_include handler ^cgi-script$
+mod_gzip_item_include mime ^text/.*
+mod_gzip_item_include mime ^application/x-javascript.*
+mod_gzip_item_exclude mime ^image/.*
+mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+</IfModule>
+# END GZIP COMPRESSION
+ 
+#BEGIN Cache-Control Headers
+<ifModule mod_headers.c>
+ <filesMatch "\.(ico|jpe?g|png|gif|swf)$">
+ Header set Cache-Control "public"
+ </filesMatch>
+ <filesMatch "\.(css)$">
+ Header set Cache-Control "public"
+ </filesMatch>
+ <filesMatch "\.(js)$">
+ Header set Cache-Control "private"
+ </filesMatch>
+ <filesMatch "\.(x?html?|php)$">
+ Header set Cache-Control "private, must-revalidate"
+ </filesMatch>
+</ifModule>
+# END Cache-Control Headers
+
+# TN – DISABLE IMAGE HOTLINKIING START
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?aspcares.com [NC]
+RewriteRule \.(jpg|jpeg|png|gif)$ – [NC,F,L]
+# TN – DISABLE IMAGE HOTLINKIING END
+# END WordPress

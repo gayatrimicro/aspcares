@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /blog1/ 
+Sitemap: https://www.aspcares.com/sitemap.xml

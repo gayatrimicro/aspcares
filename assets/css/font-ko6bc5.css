@@ -1,0 +1,53 @@
+/*
+ * Font         : NotoSansCJKkr-hinted
+ * License      :
+ * Subset Maker : Studio-jt (KMS)
+ * Version      : 1.0.0
+ * description  :
+ */
+
+
+
+/* ************************************** *
+ * NotoSansKR
+ * 참고) 본문의 포토샵 Medium 굵기는 웹 폰트 Regular와 매칭됩니다.
+ * ************************************** */
+@font-face {
+    font-family:'NotoSansKR';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Light.eot');
+    src: local("?"),
+         url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Light.woff') format('woff'),
+         url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family:'NotoSansKR';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Regular.eot');
+    src: local("?"),
+         url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Regular.woff') format('woff'),
+         url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family:'NotoSansKR';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Medium.eot');
+    src: local("?"),
+         url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Medium.woff') format('woff'),
+         url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Medium.html') format('truetype');
+}
+
+@font-face {
+    font-family:'NotoSansKR';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Bold.eot');
+    src: local("?"),
+         url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Bold.woff') format('woff'),
+         url('../fonts/NotoSansCJKkr-hinted/NotoSansCJKkr-Bold.otf') format('opentype');
+}

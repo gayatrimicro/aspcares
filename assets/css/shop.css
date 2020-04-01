@@ -1,0 +1,9 @@
+.container4{position:relative !important;text-align:center !important;color:white !important;}
+.centered{position:absolute;top:33%;left:50%;transform:translate(-50%, -50%)!important;}
+@media screen and (max-width:768px){.centered{position:absolute;top:34%;left:50%;transform:translate(-50%, -50%);}
+}
+.shop{color:#fff !important;font-size:55px !important;font-weight:bold !important;}
+@media screen and (max-width:768px){.shop{color:#fff !important;font-size:34px !important;font-weight:bold !important;}
+}
+@media screen and (max-width:768px){.size4{height:218px;width:422px;}
+}

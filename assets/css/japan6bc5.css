@@ -1,0 +1,209 @@
+@charset "utf-8";
+
+/*
+ * File       : japan.css
+ * Author     : STUDIO-JT (KMS)
+ * Guideline  : JTstyle.1.1
+ *
+ * Dependency : css/reset.css
+ *              css/jt-strap.css
+ *
+ * SUMMARY:
+ * 01) FONT
+ * 02) LAYOUT
+ * 03) MAIN
+ * 04) PHILOSOPHY
+ * 05) PRODUCT
+ * 06) COMMUNITY
+ * 07) SHOP
+ * 08) MEDIA
+ */
+
+
+
+/* **************************************** *
+ * FONT
+ * **************************************** */
+body.lang_jp {font-family: 'ヒラギノ明朝 ProN W3', 'Hiragino Mincho ProN', 'Yu Mincho', 'YuMincho', HG明朝E, 'ＭＳ Ｐ明朝', 'ＭＳ 明朝', sans-serif;}
+body.lang_jp [lang="en"] {font-family: 'Gotham', 'ヒラギノ明朝 ProN W3', 'Hiragino Mincho ProN', 'Yu Mincho', 'YuMincho', HG明朝E, 'ＭＳ Ｐ明朝', 'ＭＳ 明朝', sans-serif;}
+
+body.lang_jp ::-webkit-input-placeholder {font-family: 'ヒラギノ明朝 ProN W3', 'Hiragino Mincho ProN', 'Yu Mincho', 'YuMincho', HG明朝E, 'ＭＳ Ｐ明朝', 'ＭＳ 明朝', sans-serif;}
+body.lang_jp ::-moz-placeholder {font-family: 'ヒラギノ明朝 ProN W3', 'Hiragino Mincho ProN', 'Yu Mincho', 'YuMincho', HG明朝E, 'ＭＳ Ｐ明朝', 'ＭＳ 明朝', sans-serif;}
+body.lang_jp :-ms-input-placeholder {font-family: 'ヒラギノ明朝 ProN W3', 'Hiragino Mincho ProN', 'Yu Mincho', 'YuMincho', HG明朝E, 'ＭＳ Ｐ明朝', 'ＭＳ 明朝', sans-serif;}
+
+
+
+/* **************************************** *
+ * LAYOUT
+ * **************************************** */
+body.lang_jp #menu > li.menu-item-type-products > ul.sub-menu {width: 480px;margin-left: -240px;}
+
+body.lang_jp .footer_info * {font-family: 'Gotham', 'ヒラギノ明朝 ProN W3', 'Hiragino Mincho ProN', 'Yu Mincho', 'YuMincho', HG明朝E, 'ＭＳ Ｐ明朝', 'ＭＳ 明朝', sans-serif;}
+
+
+
+/* **************************************** *
+ * MAIN
+ * **************************************** */
+body.lang_jp .main_message_content b br {display: none;}
+
+body.lang_jp .main_information p {font-family: 'Gotham', sans-serif;font-weight: 300;}
+
+
+
+/* **************************************** *
+ * PHILOSOPHY
+ * **************************************** */
+body.lang_jp .message_sign {padding-left: 130px;}
+body.lang_jp .message_video p {font-family: 'Gotham', sans-serif;}
+
+
+
+/* **************************************** *
+ * PRODUCT
+ * **************************************** */
+body.lang_jp .product_btn .product_shop {font-family: 'Gotham', sans-serif;}
+
+body.lang_jp .product_step .product_section_title {font-family: 'Gotham', sans-serif;}
+body.lang_jp .product_step_use {padding-left: 60px;}
+
+
+
+/* **************************************** *
+ * COMMUNITY
+ * **************************************** */
+body.lang_jp .jt_press_list .jt_board_list th {font-family: 'Gotham', sans-serif;}
+
+
+
+/* **************************************** *
+ * SHOP
+ * **************************************** */
+body.lang_jp .store_info_small_br {display: none;}
+body.lang_jp .store_info_middle_br {display: block;}
+
+
+
+/* **************************************** *
+ * MEDIA
+ * **************************************** */
+@media (max-width: 1280px) {
+    /* MAIN */
+    body.lang_jp .main_philosophy_txt {padding: 0px 70px;}
+
+    /* BRAND */
+    body.lang_jp .rawmaterial_visual_table p {font-size: 14px;}
+
+    /* SHOP */
+    body.lang_jp .mou_section .inquiry_txt {padding: 60px 60px;}
+}
+
+@media (max-width: 1100px) {
+    /* SHOP */
+    body.lang_jp .store_info_small_br {display: block;}
+    body.lang_jp .store_info_middle_br {display: none;}
+}
+
+@media (max-width: 1024px) {
+    /* MAIN */
+    body.lang_jp .main_philosophy_txt {padding: 0px 50px;}
+}
+
+@media (max-width: 1023px) {
+    /* LAYOUT */
+    body.lang_jp #menu > li.menu-item-type-products > ul.sub-menu {width: 100%;margin: 0;}
+
+    /* BRAND */
+    body.lang_jp .ppm_example_card span {font-size: 14px;}
+
+    /* SHOP */
+    body.lang_jp .mou_section .inquiry_txt {padding: 6% 40px;}
+    body.lang_jp .inquiry_txt h2 br {display: none;}
+}
+
+@media (max-width: 1001px) {
+    /* MAIN */
+    body.lang_jp .main_information p {min-height: inherit;}
+}
+
+@media (max-width: 860px) {
+    /* BRAND */
+    body.lang_jp .innovation_title {padding-top: 115px;}
+}
+
+@media (max-width: 767px) {
+    /* MAIN */
+    body.lang_jp .main_philosophy_txt {padding: 7% 8%;}
+
+    /* BRAND */
+    body.lang_jp .innovation_title {padding-top: 90px;}
+
+    /* PRODUCT */
+    body.lang_jp .product_step_use {padding-left: 55px;}
+
+    /* SHOP */
+    body.lang_jp .b2b_section .inquiry_figure figcaption:before {content: '問い合わせ';}
+}
+
+@media (max-width: 640px) {
+    /* PHILOSOPHY */
+    body.lang_jp .message_sign {padding-left: 0;}
+
+    /* BRAND */
+    body.lang_jp .innovation_title {padding-top: 60px;}
+}
+
+@media (max-width: 540px) {
+    /* LAYOUT */
+    body.lang_jp .single_pagination_next, body.lang_jp .single_pagination_title_next {padding-left: 47px;padding-right: 12px;}
+    body.lang_jp .single_pagination_prev, body.lang_jp .single_pagination_title_prev {padding-right: 47px;padding-left: 12px;}
+
+    /* MAIN */
+    body.lang_jp .main_philosophy_txt {padding: 0;}
+    body.lang_jp .main_academy_content p br {display: none;}
+
+    /* PHILOSOPHY */
+    body.lang_jp .perfection_banner .full_section_content p {font-size: 15px;}
+
+    /* BRAND */
+    body.lang_jp .rawmaterial_visual_table p {font-size: 12px;}
+
+    body.lang_jp .ppm_example_card span {font-size: 12px;}
+
+    /* PRODUCT */
+    body.lang_jp .product_step_use {padding-left: 0;}
+
+    /* SHOP */
+    body.lang_jp .mou_section .inquiry_txt {padding: 8% 6%;}
+}
+
+@media (max-width: 450px) {
+    /* BRAND */
+    body.lang_jp .innovation_title {padding-top: 55px;}
+    body.lang_jp .innovation_title span {display: none;}
+}
+
+@media (max-width: 435px) {
+    /* MAIN */
+    body.lang_jp .main_message_content b br {display: block;}
+}
+
+@media (max-width: 393px) {
+    /* SHOP */
+    body.lang_jp .b2b_section .inquiry_txt {padding: 8% 6% -webkit-calc(8% + 135px);padding: 8% 6% calc(8% + 135px);}
+}
+
+@media (max-width: 369px) {
+    body.lang_jp .b2b_section .inquiry_txt {padding: 8% 6% -webkit-calc(8% + 155px);padding: 8% 6% calc(8% + 155px);}
+}
+
+@media (max-width: 365px) {
+    /* PHILOSOPHY */
+    body.lang_jp .perfection_banner .full_section_content p br {display: none;}
+}
+
+@media (max-width: 360px) {
+    /* BRAND */
+    body.lang_jp .innovation_title {padding-top: 45px;}
+    body.lang_jp .innovation_compare b {font-size: 11px;}
+}

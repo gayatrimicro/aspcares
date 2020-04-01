@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,700&display=swap');
+/* Remove jobid location etc from the job description page. */
+
+#gnewtonJobDescription #gnewtonJobPosition, #gnewtonJobDescription #gnewtonJobLocation, #gnewtonJobDescription #gnewtonJobID, #gnewtonJobDescription #gnewtonJobOpening, #gnewtonJobDescription hr, td#gnewtonJobLocationInfo {
+
+display: none;
+
+}
+
+/* Remove application code box for returning applicants to online form. */
+
+#gnewtonApplicationBox * {
+
+display: none;
+
+}
+
+/* Remove incorrect veteran status boxes on bottom of online application form. */
+
+#veteran31, #veteran32, #veteran33, #veteran34 {
+
+margin-left: 40px;
+
+}
+
+/* Make sure that images and labels display properly. */
+
+label {display: inline;}
+
+img {display: inline;}
+
+/* Increased spacing for generic resume submission. */
+
+#gnewtonGeneric td {
+
+padding-top: 20px !important;
+
+}
+
+/* Match fonts for the main page and submission page. */
+
+#gnewtonCareerBody * {
+
+color: #666 ;
+
+font-family: 'Noto Sans' ;
+
+font-size: 15px ;
+
+line-height:  25px ;
+
+}
+
+#gnewtonLandingArea * {
+
+color: ;
+
+font-family: ;
+
+font-size: ;
+
+line-height: ;
+
+}
+
+.gnewtonCareerGroupHeaderClass {
+
+color: rgb(34, 34, 34) !important;
+
+font-family: 'Noto Sans'  !important;
+
+font-size: 15px  !important;
+
+line-height:  25px  !important;
+
+font-weight: bold !important;
+
+}
+
+/* Match fonts for the links. */
+
+#gnewtonCareerBody a, #gnewtonLandingArea a, div#backToCareerHome a, #gnewtonLogo a.newton_policy {
+
+color:#1c62af ;
+
+text-decoration: none ;
+
+}
+
+#gnewtonCareerBody a:hover, #gnewtonLandingArea a:hover, div#backToCareerHome a:hover {
+
+color: #1c62af ;
+
+text-decoration: underline ;
+
+}
+
+/* Fix uploaded resume blue box. */
+
+#resumeDropped div.bar {
+
+padding-bottom: ;
+
+}
+
+/* Fix the Clear All Fields link. Set width to 100 or 115px if wrapping occurs. */
+
+.button.newtonStoreReset.block {
+
+color: rgb(52, 152, 219) !important;
+
+background-color: rgba(0,0,0,0);
+
+width: px; }
+
+.button.newtonStoreReset.block:hover {
+
+color: rgb(136, 189, 229) !important;
+
+}
+
+/* Fix Job Search Buttons */
+
+select#gnewtonLocation, select#gnewtonDepartment {
+
+width: 100%;
+
+}
+ 
+
+/* Fix Choose a File link. */
+
+label#resumeDropLocalFile {
+
+color: #3498db;
+
+}
+ 
+
+/* Fix filename in uploaded resume blue box. */
+
+#resumeDropped span.filename {
+
+color: white;
+
+}
+
+/* Hide department and location sort labels */
+
+.gnewtonSortByJob {
+
+display: none !important;
+
+}
+
+.gnewtonSortByLocationOrDepartment {
+
+display: none !important;
+
+}
+
+/* Fix remove link in uploaded resume blue box. */
+
+#resumeDropped .bar .closeBtn {
+
+color: #aed6f1 !important;
+
+text-decoration: none;
+
+}
+
+/* Bold section titles. */
+
+dt.gnewtonSectionTitleClass {
+
+font-weight: bold;
+
+}
+
+/* Bold all p inside the application. */
+
+#gnewtonResumeFormTable p {
+
+ font-size:  !important;
+
+ font-weight: bold;
+
+}
+
+/* Un-bold the Applicant's Statement section. */
+
+#gnewtonAppState p {
+
+ font-weight: normal;
+
+}
+
+/* Reposition the "Yes" and "No" inside the Min Qual buttons. */
+
+td.gnewtonQuestions div {
+
+line-height: 25px !important;
+
+color: !important;
+
+}
+
+/* Fix colors on attachment upload links. */
+
+label.emptyFileInput {
+
+   color: #3498db !important;
+
+}
+
+label.emptyFileInput:hover {
+
+   color: #88bde5 !important;
+
+}
+
+/* Bold uploaded attachment names. */
+
+div.filledFileInput span {
+
+   font-weight: bold;
+
+}
+
+/* Change Newton button colors to match. */
+
+#gnewtonCareerBody div.gnewtonBlueBtn, #gnewtonCareerBody button.gnewtonBlueBtn, div.gnewtonContinueBtn {
+
+   background-color: #ef363f !important;
+
+   font-family: 'Noto Sans' !important;
+
+   font-size: 16px !important;
+
+   font-weight: 700  !important;
+
+   line-height: 26px !important;
+
+   transition-delay: ;
+
+   transition-duration: ;
+
+   transition-property: ;
+
+   transition-timing-function: ;
+
+   text-align: center !important;
+
+	text-transform: uppercase !important; 
+}
+
+#gnewtonCareerBody div.gnewtonBlueBtn:hover, #gnewtonCareerBody button.gnewtonBlueBtn:hover, div.gnewtonContinueBtn:hover { 
+
+   background-color: #1c62af   !important;
+
+}
+
+#gnewtonCareerBody div.gnewtonBlueBtn.disabled, #gnewtonCareerBody button.gnewtonBlueBtn.disabled, #gnewtonCareerBody div.gnewtonBlueBtn[disabled], #gnewtonCareerBody button.gnewtonBlueBtn[disabled] {
+
+   background: #ccd3d8 !important;
+
+}
+
+/* Adjust Indeed button colors to match. */
+
+#gnewtonCareerBody #gnewtonJobDescriptionBtn > div > .indeed-apply-widget > a{
+
+background: #3498DB !important;
+
+}
+
+#gnewtonCareerBody #gnewtonJobDescriptionBtn > div > .indeed-apply-widget > a > span > span{
+
+color: white !important;
+
+font-size: !important;
+
+font-weight: !important;
+
+line-height: !important;
+
+font-family: !important;
+
+}
+
+/* hover */
+
+#gnewtonCareerBody #gnewtonJobDescriptionBtn > div > .indeed-apply-widget#indeed-apply-widget > a:hover{
+
+background: !important;
+
+}
+
+/* once candidate has applied*/
+
+#gnewtonCareerBody #gnewtonJobDescriptionBtn > div > .indeed-apply-widget.indeed-apply-status-applied > a{
+
+background: !important;
+
+}
+
+#gnewtonCareerBody #gnewtonJobDescriptionBtn > div > .indeed-apply-widget.indeed-apply-status-applied > a > span.indeed-apply-button-inner{
+
+color: !important;
+
+}
+
+#gnewtonCareerBody #gnewtonJobDescriptionBtn > div > .indeed-apply-widget.indeed-apply-status-applied#indeed-apply-widget > a:hover{
+
+background: #88bde5 !important;
+
+}
+
+/*Remove Department and Location sort options */
+
+.gnewtonSortByJob {
+
+}
+
+/* Adjust vertical alignment on EEO VEVRAA options. */
+
+form#gnewton-vevraa-form span.radio-label {
+
+    top: 0px !important;
+
+    position: relative;
+
+}
+
+/* Fix search button text alignment. */
+
+div#gnewtonSearchBtn {
+
+    line-height: 18px;
+
+}
+
+div#gnewtonCareerBody {
+
+margin: auto !important;
+
+}
+
+/* STYLING FOR MOBILE EXPERIENCE */
+
+@media only screen and (max-width: 500px) {
+
+table.gnewtonJobFilter tr, tbody, td {
+
+   display: block;
+
+}
+
+input#gnewtonKeyword {
+
+   margin-bottom: 5px !important;
+
+}}
+
+</style>
+</head>
+<body>
+  Hello World
+</body>
+</html>

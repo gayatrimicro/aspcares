@@ -1,0 +1,150 @@
+@charset "utf-8";
+
+/*
+ * File       : main.css
+ * Author     : STUDIO-JT (NICO, KMS)
+ * Guideline  : JTstyle.1.1
+ *
+ * Dependency : css/reset.css
+ *              css/jt-strap.css
+ *
+ * SUMMARY:
+ * 1) ANIMATION FROM ~ TO
+ * 2) MEDIAQUERIES
+ */
+
+
+
+/* **************************************** *
+ * ANIMATION FROM ~ TO
+ * **************************************** */
+/* Products */
+.product_header_img{opacity: 0;-webkit-transform: translate3d(0, 20px, 0);transform: translate3d(0, 20px, 0);-webkit-transition: opacity 500ms, -webkit-transform 500ms;transition: opacity 500ms, -webkit-transform 500ms;transition: opacity 500ms, transform 500ms;transition: opacity 500ms, transform 500ms, -webkit-transform 500ms;}
+.product_title, .product_desc, .product_meta{opacity: 0;-webkit-transform: translate3d(-30px, 0, 0);transform: translate3d(-30px, 0, 0);-webkit-transition: opacity 700ms, -webkit-transform 700ms;transition: opacity 700ms, -webkit-transform 700ms;transition: opacity 700ms, transform 700ms;transition: opacity 700ms, transform 700ms, -webkit-transform 700ms;}
+.product_btn a {opacity: 0;-webkit-transform: translate3d(0, 20px, 0);transform: translate3d(0, 20px, 0);-webkit-transition: opacity 700ms, color 300ms, background 300ms, border 300ms, -webkit-transform 700ms;transition: opacity 700ms, color 300ms, background 300ms, border 300ms, -webkit-transform 700ms;transition: opacity 700ms, transform 700ms, color 300ms, background 300ms, border 300ms;transition: opacity 700ms, transform 700ms, color 300ms, background 300ms, border 300ms, -webkit-transform 700ms;}
+
+.product_title{-webkit-transition-delay:150ms;transition-delay:150ms;}
+.product_desc{-webkit-transition-delay:300ms;transition-delay:300ms;}
+.product_meta{-webkit-transition-delay:450ms;transition-delay:450ms;}
+.product_btn a{-webkit-transition-delay: 600ms, 600ms, 0ms, 0ms, 0ms;transition-delay: 600ms, 600ms, 0ms, 0ms, 0ms;}
+.product_btn a:nth-child(2){-webkit-transition-delay: 750ms, 750ms, 0ms, 0ms, 0ms;transition-delay: 750ms, 750ms, 0ms, 0ms, 0ms;}
+
+.product_header_loaded .product_header_img,
+.product_header_loaded .product_title,
+.product_header_loaded .product_desc,
+.product_header_loaded .product_meta,
+.product_header_loaded .product_btn a{ opacity:1; -webkit-transform:translate3d(0,0,0); transform:translate3d(0,0,0)}
+
+.product_recommend{ background-attachment: fixed;}
+
+/* Full page */
+.full_section .full_section_content h3,
+.full_section .full_section_content h4,
+.full_section .full_section_content p,
+.full_section .full_section_content a,
+.full_section .full_section_content h2 span,
+.full_section .perfection_info_typo{ opacity:0; -webkit-transition:opacity 1200ms; transition:opacity 1200ms;-webkit-transition-delay:400ms;transition-delay:400ms;}
+
+.full_section .full_section_content p,
+.full_section .full_section_content h2 span:nth-child(2){-webkit-transition-delay:800ms;transition-delay:800ms;}
+
+.full_section .perfection_info_typo,
+.full_section.active .full_section_content a{-webkit-transition-delay:1200ms;transition-delay:1200ms;}
+
+.load .full_section .full_section_content h2 span,
+.full_section.active .full_section_content h3,
+.full_section.active .full_section_content h4,
+.full_section.active .full_section_content p,
+.full_section.active .full_section_content a,
+.full_section.active .perfection_info_typo { opacity:1;}
+
+.full_section .scroll_down {opacity: 0;-webkit-transition: opacity 1200ms;transition: opacity 1200ms;-webkit-transition-delay: 1200ms;transition-delay: 1200ms;}
+body.load .full_section_first .scroll_down,
+.full_section.active:not(.full_section_first) .scroll_down {opacity: 1;}
+
+
+
+/* **************************************** *
+ * SHOP - ONLINE SHOP
+ * **************************************** */
+.online_shop_item {opacity: 0;}
+
+
+
+/* **************************************** *
+ * MAIN
+ * **************************************** */
+.main_message_image_motion_wrap img {-webkit-transform: translateY(60px);-ms-transform: translateY(60px);transform: translateY(60px);opacity: 0;-webkit-transition: opacity 800ms, -webkit-transform 800ms;transition: opacity 800ms, -webkit-transform 800ms;transition: transform 800ms, opacity 800ms;transition: transform 800ms, opacity 800ms, -webkit-transform 800ms;}
+.main_message_caption {-webkit-transform: translateX(-10px);-ms-transform: translateX(-10px);transform: translateX(-10px);opacity: 0;-webkit-transition: opacity 500ms, -webkit-transform 500ms;transition: opacity 500ms, -webkit-transform 500ms;transition: transform 500ms, opacity 500ms;transition: transform 500ms, opacity 500ms, -webkit-transform 500ms;-webkit-transition-delay: 400ms;transition-delay: 400ms;}
+.main_message_container.animate .main_message_image_motion_wrap img {-webkit-transform: translateY(0);-ms-transform: translateY(0);transform: translateY(0);opacity: 1;}
+.main_message_container.animate .main_message_caption {-webkit-transform: translateX(0);-ms-transform: translateX(0);transform: translateX(0);opacity: 1;}
+
+.main_academy {background-attachment: fixed;}
+
+.main_meeting_list li {-webkit-transform: translateY(60px);-ms-transform: translateY(60px);transform: translateY(60px);opacity: 0;-webkit-transition: opacity 800ms, -webkit-transform 800ms;transition: opacity 800ms, -webkit-transform 800ms;transition: transform 800ms, opacity 800ms;transition: transform 800ms, opacity 800ms, -webkit-transform 800ms;}
+.main_meeting_list li:nth-child(1) {-webkit-transition-delay: 100ms;transition-delay: 100ms;}
+.main_meeting_list li:nth-child(2) {-webkit-transition-delay: 200ms;transition-delay: 200ms;}
+.main_meeting_list li:nth-child(3) {-webkit-transition-delay: 300ms;transition-delay: 300ms;}
+.main_meeting_list.animate li {-webkit-transform: translateY(0);-ms-transform: translateY(0);transform: translateY(0);opacity: 1;}
+
+
+
+/* **************************************** *
+ * PHILOSOPHY - LANNY’S MESSAGE
+ * **************************************** */
+.message_visual h2,
+.message_visual .scroll_down {opacity: 0;-webkit-transition: opacity 1200ms;transition: opacity 1200ms;}
+.message_visual .scroll_down {-webkit-transition-delay:500ms;transition-delay:500ms;}
+body.load .message_visual h2,
+body.load .message_visual .scroll_down {opacity: 1;}
+
+
+
+/* **************************************** *
+ * BRAND - 랑벨의 원료
+ * **************************************** */
+.rawmaterial_banner {background-attachment: fixed;}
+
+.rawmaterial_visual_cell {opacity: 0;-webkit-transform: translateY(20px);-ms-transform: translateY(20px);transform: translateY(20px);-webkit-transition: opacity 1000ms, -webkit-transform 1000ms;transition: opacity 1000ms, -webkit-transform 1000ms;transition: opacity 1000ms, transform 1000ms;transition: opacity 1000ms, transform 1000ms, -webkit-transform 1000ms;}
+.rawmaterial_visual_list li:nth-child(1) .rawmaterial_visual_cell {-webkit-transition-delay: 550ms;transition-delay: 550ms;}
+.rawmaterial_visual_list li:nth-child(2) .rawmaterial_visual_cell {-webkit-transition-delay: 750ms;transition-delay: 750ms;}
+.rawmaterial_visual_list li:nth-child(3) .rawmaterial_visual_cell {-webkit-transition-delay: 950ms;transition-delay: 950ms;}
+
+.rawmaterial_visual_list > li:after {height: 0;-webkit-transition: height 750ms;transition: height 750ms;}
+
+body.load .rawmaterial_visual_cell {-webkit-transform: translateY(0);-ms-transform: translateY(0);transform: translateY(0);opacity: 1;}
+body.load .rawmaterial_visual_list > li:after {height: 100%;}
+
+
+
+/* **************************************** *
+ * BRAND - 랑벨의 혁신
+ * **************************************** */
+.innovation_row .innovation_row_card h3,
+.innovation_row .innovation_row_card p {-webkit-transform: translateY(15px);-ms-transform: translateY(15px);transform: translateY(15px);opacity: 0;-webkit-transition: opacity 600ms, -webkit-transform 600ms;transition: opacity 600ms, -webkit-transform 600ms;transition: opacity 600ms, transform 600ms;transition: opacity 600ms, transform 600ms, -webkit-transform 600ms;}
+.innovation_row .innovation_row_card p {-webkit-transition-delay: 150ms;transition-delay: 150ms;}
+.innovation_row.animate .innovation_row_card h3,
+.innovation_row.animate .innovation_row_card p {-webkit-transform: translateY(0);-ms-transform: translateY(0);transform: translateY(0);opacity: 1;}
+
+
+
+/* **************************************** *
+ * BRAND - 랑벨의 기원
+ * **************************************** */
+.origin_full_image_02{ height:920px; max-width: 1743px; width:100%; margin: auto;  margin: auto; background: url(../images/sub/origin/origin-full-image-02.jpg) center center; background-size: cover;background-attachment: fixed;}
+.origin_full_image_02 img{ display:none}
+
+
+
+/* **************************************** *
+ * MEDIAQUERIES
+ * **************************************** */
+@media (min-width:1024px){
+	/* GLOBAL */
+	.card_motion {}
+	.card_motion figure {position: relative;overflow: hidden;}
+	.card_motion figure:after {content: '';display: block;width: 100%;height: 100%;position: absolute;top: 0;left: 0;background: #ededed;-webkit-transition: all 1.7s cubic-bezier(0.23, 1, 0.38, 1) .2s;transition: all 1.7s cubic-bezier(0.23, 1, 0.38, 1) .2s;}
+	.card_motion figure img {-webkit-transform: translate3d(-100px, 0, 0) rotate(0.0001deg);transform: translate3d(-100px, 0, 0) rotate(0.0001deg);-webkit-transition: all 1.6s cubic-bezier(0.23, 1, 0.38, 1) .2s;transition: all 1.6s cubic-bezier(0.23, 1, 0.38, 1) .2s;}
+	.card_motion.animate figure:after {-webkit-transform: translate3d(100%, 0, 0) rotate(0.0001deg);transform: translate3d(100%, 0, 0) rotate(0.0001deg);}
+	.card_motion.animate figure img {-webkit-transform: translate3d(0, 0, 0) rotate(0.0001deg);transform: translate3d(0, 0, 0) rotate(0.0001deg);}
+}

@@ -1,0 +1,149 @@
+@charset "utf-8";
+
+/*
+ * File       : china.css
+ * Author     : STUDIO-JT (KMS)
+ * Guideline  : JTstyle.1.1
+ *
+ * Dependency : css/reset.css
+ *              css/jt-strap.css
+ *
+ * SUMMARY:
+ * 01) FONT
+ * 02) COMPONENT
+ * 03) 404
+ * 04) MAIN
+ * 05) PHILOSOPHY
+ * 06) BRAND
+ * 07) PRODUCT
+ * 08) SHOP
+ * 09) SEARCH
+ * 10) MEDIA
+ */
+
+
+
+/* **************************************** *
+ * FONT
+ * **************************************** */
+body.lang_cn {font-family: 'STXiHei', 'Microsoft Yahei', 'ST Heiti', 'MS Hei', sans-serif;}
+body.lang_cn [lang="en"] {font-family: 'Gotham', 'STXiHei', 'Microsoft Yahei', 'ST Heiti', 'MS Hei', sans-serif;}
+
+body.lang_cn ::-webkit-input-placeholder {font-family: 'STXiHei', 'Microsoft Yahei', 'ST Heiti', 'MS Hei', sans-serif;}
+body.lang_cn ::-moz-placeholder {font-family: 'STXiHei', 'Microsoft Yahei', 'ST Heiti', 'MS Hei', sans-serif;}
+body.lang_cn :-ms-input-placeholder {font-family: 'STXiHei', 'Microsoft Yahei', 'ST Heiti', 'MS Hei', sans-serif;}
+
+
+
+/* **************************************** *
+ * COMPONENT
+ * **************************************** */
+body.lang_cn .jt_list_title {font-weight: 600;}
+body.lang_cn .jt_list_nothing_found b {font-weight: 600;}
+
+
+
+/* **************************************** *
+ * 404
+ * **************************************** */
+body.lang_cn .error_404_container b {font-weight: 600;}
+
+
+
+/* **************************************** *
+ * MAIN
+ * **************************************** */
+body.lang_cn .main_message_content b br {display: none;}
+
+body.lang_cn .main_meeting_txt h3 {font-family: 'Gotham', 'STXiHei', 'Microsoft Yahei', 'ST Heiti', 'MS Hei', sans-serif;letter-spacing: -0.025em;}
+body.lang_cn .main_meeting_txt h3 span {padding-bottom: 4px;}
+
+
+
+/* **************************************** *
+ * PHILOSOPHY
+ * **************************************** */
+body.lang_cn .perfection_banner .full_section_content p {letter-spacing: 0.1em;}
+
+
+
+/* **************************************** *
+ * BRAND
+ * **************************************** */
+body.lang_cn .innovation_compare b {font-weight: 600;}
+
+
+
+/* **************************************** *
+ * PRODUCT
+ * **************************************** */
+body.lang_cn .product_sense_txt b {font-weight: 600;}
+body.lang_cn .product_info_table th {font-weight: 600;}
+body.lang_cn .component_item_name {font-size: 14px;}
+
+
+
+/* **************************************** *
+ * SHOP
+ * **************************************** */
+body.lang_cn .store_info_middle_br {display: block;}
+
+body.lang_cn .popup_store .sub_page_section_title {margin-left: 0.2em;letter-spacing: 0.2em;}
+body.lang_cn .popup_store .sub_page_section_title span:after {width: -webkit-calc(100% - 0.2em);width: calc(100% - 0.2em);}
+
+
+
+/* **************************************** *
+ * SEARCH
+ * **************************************** */
+body.lang_cn .search_header h2,
+body.lang_cn .search_header b {font-weight: 600;}
+body.lang_cn .search_nodata p span {font-weight: 600;}
+
+
+
+/* **************************************** *
+ * MEDIA
+ * **************************************** */
+@media (max-width: 1023px) {
+    /* SHOP */
+    body.lang_cn .popup_store .sub_page_section_title {margin-left: 0.1em;letter-spacing: 0.1em;}
+    body.lang_cn .popup_store .sub_page_section_title span {padding-bottom: 2px;border-bottom: 1px solid #222;}
+    body.lang_cn .popup_store .sub_page_section_title span:after {display: none;}
+}
+
+@media (max-width: 768px) {
+    /* LAYOUT */
+    body.lang_cn {font-family: sans-serif;}
+}
+
+@media (max-width: 767px) {
+    /* MAIN */
+    body.lang_cn .main_sellers_txt p br {display: none;}
+
+    /* SHOP */
+    body.lang_cn .b2b_section .inquiry_figure figcaption:before {content: '询查';}
+}
+
+@media (max-width: 540px) {
+    /* LAYOUT */
+    body.lang_cn .footer_menu li {width: auto;}
+
+    body.lang_cn .footer_small_br {display: block;}
+
+    /* MAIN */
+    body.lang_cn .main_message_content b br {display: block;}
+
+    /* PRODUCT */
+    body.lang_cn .component_item_name {font-size: 12px;}
+}
+
+@media (max-width: 435px) {
+    /* LAYOUT */
+    body.lang_cn .footer_menu li {width: 100%;}
+}
+
+@media (max-width: 355px) {
+    /* PRODUCT */
+    body.lang_cn .component_item_name {font-size: 11px;}
+}
