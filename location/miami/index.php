@@ -413,7 +413,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <p class="product_desc">
                                     With a seasoned career that spans management roles at retail pharmacies at high-profile stores such as Giant Food Inc., Kmart and Walmart, Ben has also supported the development and management of an independent compounding pharmacy in Germantown, Maryland.</p>
                                     <p class="product_desc">
-                                   Ben received a Bachelor of Science degree from the University of Maryland School of Pharmacy. He is married with three children.
+                                   Ben received a Bachelor of Science degree from the University of Maryland School of Pharmacy.
                                     </p>
                          
                                     <br><br>

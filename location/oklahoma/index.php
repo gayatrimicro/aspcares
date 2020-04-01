@@ -342,10 +342,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h1>Store & Pharmacy Hours</h1>
                                 <!-- <br> -->
                                 <p>
-                                    Monday-Friday : &nbsp;&nbsp;9am to 5pm
-                                   <!--  <br> Saturday : &nbsp;&nbsp;9am to 2pm -->
+                                    Monday-Friday : &nbsp;&nbsp;9 am to 5 pm
+                                    <br> Saturday : &nbsp;&nbsp;9 am to 2 pm
                                     
-                                    <br> Saturday-Sunday : &nbsp;&nbsp;Closed
+                                    <br> Sunday : &nbsp;&nbsp;Closed
                                     <br> Holidays :&nbsp;&nbsp; Call store for details</h1>
                                 </p>
                                 <br>

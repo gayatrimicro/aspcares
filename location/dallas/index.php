@@ -14,18 +14,18 @@
       <meta charset="utf-8" />
       <meta name="format-detection" content="telephone=no" />
       <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-      <title>Specialty Pharmacy Lancaster | Pharmacy Lancaster | Asp Cares</title>
+      <title>Specialty Pharmacy Dallas | Pharmacy Lancaster | ASP Cares</title>
       <meta name="description" content="One of the branches of Asp Cares Specialty Pharmacy is located at Lancaster, Texas. Asp Cares offer medical products and services to help you and your family lead healthier, happier lives." />
       <meta property="og:locale" content="en_US" />
       <meta property="og:site_name" content="ASP Cares" />
-      <meta property="og:url" content="https://www.aspcares.com/location/lancaster/" />
+      <meta property="og:url" content="https://www.aspcares.com/location/dallas/" />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content="Specialty Pharmacy Lancaster | Pharmacy Lancaster | Asp Cares" />
+      <meta property="og:title" content="Specialty Pharmacy dallas | Pharmacy Lancaster | Asp Cares" />
       <meta property="og:description" content="One of the branches of Asp Cares Specialty Pharmacy is located at Lancaster, Texas. Asp Cares offer medical products and services to help you and your family lead healthier, happier lives." />
       <meta name="twitter:title" content="Specialty Pharmacy Lancaster | Pharmacy Lancaster | Asp Cares" />
       <meta name="twitter:description" content="One of the branches of Asp Cares Specialty Pharmacy is located at Lancaster, Texas. Asp Cares offer medical products and services to help you and your family lead healthier, happier lives." />
-      <link rel="canonical" href="https://www.aspcares.com/location/lancaster/" />
-      <link rel="alternate" href="https://www.aspcares.com/location/lancaster/" hreflang="en-us" />
+      <link rel="canonical" href="https://www.aspcares.com/location/dallas/" />
+      <link rel="alternate" href="https://www.aspcares.com/location/dallas/" hreflang="en-us" />
       <link rel='stylesheet' id='contact-form-7-css' href='../../assets/css/styles.css' type='text/css' media='all' />
       <link rel='stylesheet' id='sb_instagram_styles-css' href='../../assets/css/sb-instagram.css' type='text/css' media='' />
       <link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='../../assets/css/style.css' type='text/css' media='all' />
@@ -200,10 +200,10 @@
               "name" : "AspCares Texas",
                "address": {
                    "@type" : "PostalAddress",
-                   "streetAddress": "3250 W Pleasant Run Rd., Ste 165",
-                   "addressLocality": "Lancaster",
+                   "streetAddress": "4309 Lemmon Ave, Dallas TX 75219",
+                   "addressLocality": "Dallas",
                    "addressRegion": "Texas",
-                   "postalCode": "TX 75146",
+                   "postalCode": "TX 75219",
                    "telephone" : "214-331-4500"
                    },
                "openingHours": "",
@@ -229,7 +229,7 @@
                <div class="bread">
                   <ul class="breadcrumb">
                      <li><a href="https://aspcares.com/">Home</a></li>
-                     <li>Lancaster</li>
+                     <li>Dallas</li>
                   </ul>
                </div>
                <div class="article_header">
@@ -242,7 +242,7 @@
                          <h1 lang="en" class="article_title">Lancaster, TX</h1>
                      </div> -->
                   <!-- .wrap -->
-                  <h1 lang="en" class="article_title ct">Lancaster, TX</h1>
+                  <h1 lang="en" class="article_title ct">Dallas, TX</h1>
                </div>
                <div class="gap1">
                   <div class="wrap">
@@ -275,8 +275,8 @@
                                        <img src="../../assets/images/loc3.jpg" alt="discover-cafe-02" />
                                     </div>
                                     <div class="around_slider_item">
-                                       <a href="https://goo.gl/maps/qpUXsrJGyqB2" target="_blank">
-                                       <img src="../../assets/images/lancaster3.jpg" alt="discover-cafe-03" />
+                                       <a href="https://goo.gl/maps/qyd9J3gWJwXtrUps6" target="_blank">
+                                       <img src="../../assets/images/dallas-location.jpg" alt="discover-cafe-03" />
                                        </a>
                                     </div>
                                  </div>
@@ -298,7 +298,7 @@
                            <p>4309 Lemmon Ave
                               <br> Dallas TX 75219
                               <br>
-                              <a lang="en" href="https://goo.gl/maps/qpUXsrJGyqB2" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> <i class="fa fa-map-marker" aria-hidden="true"></i>
+                              <a lang="en" href="https://goo.gl/maps/NwnQEGyAL6YdByX87" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> <i class="fa fa-map-marker" aria-hidden="true"></i>
                               <span style="color: rgb(238, 42, 50);">DIRECTIONS</span></a>
                            </p>
                            <br>

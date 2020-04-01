@@ -19,7 +19,7 @@
                 <!-- <hr> -->
                 <nav class="footer_sns_wrap">
                     <ul class="footer_sns">
-                        <li><a href="https://www.facebook.com/aspcares/" target="_blank"> <img  src="/assets/images/ic-facebook.svg" alt="asp-facebook" data-pin-media="/assets/images/ic-facebook.svg" data-reactid="522" width="26" height="26"></a></li>
+                        <li><a href="https://www.facebook.com/ASPCaresPharmacy/" target="_blank"> <img  src="/assets/images/ic-facebook.svg" alt="asp-facebook" data-pin-media="/assets/images/ic-facebook.svg" data-reactid="522" width="26" height="26"></a></li>
                         <li><a href="https://twitter.com/aspcares?lang=en" target="_blank"><img  src="/assets/images/ic-twitter.svg" alt="asp-twitter" data-pin-media="/assets/images/ic-twitter.svg" data-reactid="530" width="26" height="26"></a></li>
                         <li><a href="https://www.instagram.com/aspcares/" target="_blank">
                                 <img class="amv_ang amv_anm" src="/assets/images/ic-instagram.svg" alt="asp-instagram" data-pin-media="/assets/images/ic-instagram.svg" data-reactid="534" width="26" height="26"></a></li>
