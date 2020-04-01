@@ -345,7 +345,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </li>
                             <li class="online_shop_item">
                                 <a href="https://nabp.pharmacy/programs/verified-pharmacy-program/" target="_blank" rel="nofollow">
-                                    <img src="../assets/images/logo10.jpg" alt="ASP Cares" />
+                                    <img src="../assets/images/logo11.jpg" alt="ASP Cares" />
                                 </a>
                             </li>
                         </ul>
@@ -379,7 +379,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </li> -->
                             <li class="online_shop_item">
                                 <a href="https://nabp.pharmacy/programs/vipps/vipps-accredited-pharmacies-list/" target="_blank" rel="nofollow">
-                                    <img src="../assets/images/logo8.jpg" alt="ASP Cares" />
+                                    <img src="../assets/images/logo11.jpg" alt="ASP Cares" />
                                 </a>
                             </li>
                             <li class="online_shop_item">
@@ -389,7 +389,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </li>
                             <li class="online_shop_item">
                                 <a href="https://nabp.pharmacy/programs/verified-pharmacy-program/" target="_blank" rel="nofollow">
-                                    <img src="../assets/images/logo10.jpg" alt="ASP Cares" />
+                                    <img src="../assets/images/logo11.jpg" alt="ASP Cares" />
                                 </a>
                             </li>
                         </ul>
