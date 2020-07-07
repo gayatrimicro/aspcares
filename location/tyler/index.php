@@ -339,8 +339,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h1>Store & Pharmacy Hours</h1>
                                 <!-- <br> -->
                                 <p>
-                                    Monday-Friday : &nbsp;&nbsp;9am to 5pm
-                         <!--            <br> Saturday :&nbsp;&nbsp; 10am to 5pm -->
+                                    Monday-Thursday : &nbsp;&nbsp;9am to 5pm
+                                    <br> Friday :&nbsp;&nbsp; 8am to 4pm
                                     <br>  Saturday-Sunday : &nbsp;&nbsp;Closed
                                     <br> Holidays :&nbsp;&nbsp; Call store for details</h1>
                                 </p>
