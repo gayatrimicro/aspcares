@@ -224,7 +224,7 @@
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/austin/"><span>Austin, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/corpuschristi/"><span>Corpus Christi, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li>
+                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
@@ -456,7 +456,7 @@
                                                         <option value="Dickson, TN">Dickson, TN</option>
 
                                                         <option  value="El Paso, TX">El Paso, TX</option>
-                                                        <option value="Farmers Branch, TX">Farmers Branch, TX</option>
+                                                        <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
                                                         <option value="Lancaster, TX">Lancaster, TX</option>
                                                         <option value="Houston, TX">Houston, TX</option>
                                                         <option value="Las Cruces, NM">Las Cruces, NM</option>
@@ -1094,10 +1094,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "El Paso, TX";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("farmers") == true){
-                    document.getElementById("selectlocation").value = "Farmers Branch, TX";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("farmers") == true){
+//                     document.getElementById("selectlocation").value = "Farmers Branch, TX";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("houston") == true){
                     document.getElementById("selectlocation").value = "Houston, TX";
 document.getElementById("selectlocation").disabled = true;

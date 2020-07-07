@@ -405,7 +405,7 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/austin/"><span>Austin, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/corpuschristi/"><span>Corpus Christi, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li>
+<!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/harlingen/"><span>Harlingen, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston-bellfort/"><span>Houston - Bellfort</span></a></li>
@@ -578,7 +578,7 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <option value="Corpus Christi, TX">Corpus Christi, TX</option>
 <option value="Dickson, TN">Dickson, TN</option>
 <option value="El Paso, TX">El Paso, TX</option>
-<option value="Farmers Branch, TX">Farmers Branch, TX</option>
+<!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
 <option value="Lancaster, TX">Lancaster, TX</option>
 <option value="Houston, TX">Houston, TX</option>
 <!-- <option value="Las Cruces, NM">Las Cruces, NM</option> -->
@@ -987,7 +987,7 @@ else if(location.includes("dickson")==true){document.getElementById("selectlocat
 else if(location.includes("austin")==true){document.getElementById("selectlocation").value="Austin, TX";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("corpuschristi")==true){document.getElementById("selectlocation").value="Corpus Christi, TX";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("el-Paso")==true){document.getElementById("selectlocation").value="El Paso, TX";document.getElementById("selectlocation").disabled=true;}
-else if(location.includes("farmers")==true){document.getElementById("selectlocation").value="Farmers Branch, TX";document.getElementById("selectlocation").disabled=true;}
+// else if(location.includes("farmers")==true){document.getElementById("selectlocation").value="Farmers Branch, TX";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("houston")==true){document.getElementById("selectlocation").value="Houston, TX";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("macallen")==true){document.getElementById("selectlocation").value="McAllen, TX";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("pasadena")==true){document.getElementById("selectlocation").value="Pasadena, TX";document.getElementById("selectlocation").disabled=true;}
@@ -1067,8 +1067,8 @@ else if(location.includes("corpuschristi")==true)
 {var pagelocation="Corpus Christi, TX";console.log("",pagelocation);}
 else if(location.includes("el-Paso")==true)
 {var pagelocation="El Paso, TX";console.log("",pagelocation);}
-else if(location.includes("farmers")==true)
-{var pagelocation="Farmers Branch, TX";console.log("",pagelocation);}
+// else if(location.includes("farmers")==true)
+// {var pagelocation="Farmers Branch, TX";console.log("",pagelocation);}
 else if(location.includes("houston")==true)
 {var pagelocation="Houston";console.log("",pagelocation);}
 else if(location.includes("lancaster")==true)

@@ -72,14 +72,15 @@ var LocsA = [{
     html: ['<a href="location/el-Paso/"><h3 style="font-size:15px;color:black">El Paso, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1015 N Zaragoza St., Suite C,<br>El Paso, TX 79907-1822 (El Paso County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(915) 860-7225" style="color: #1c61af;">(915) 860-7225</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(915) 860-7320">(915) 860-7320</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/el-Paso/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}, {
-    lat: 32.936199,
-    lon: -96.905956,
-    title: 'Farmers Branch, TX',
-    html: ['<a href="location/farmers/"><h3 style="font-size:15px;color:black">Farmers Branch, TX (Ste 100B)</h3></a>', '<p style="font-size:15px;margin-bottom:5px">13988 Diplomat Dr., Ste 100B,<br>Farmers Branch, TX 75234</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(214) 432-4422" style="color: #1c61af;">(214) 432-4422</a>, <a href="tel:(888) 495-8215" style="color: #1c61af;">(888) 495-8215</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:972-243-3260">972-243-3260</a>, <a style="color: #1c61af;" href="tel:(888) 495-8218">(888) 495-8218</a></p><p style="margin-bottom:5px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><br><h3 style="font-size:15px;color:black">Farmers Branch, TX (Ste 100A-1)</h3><p style="font-size:15px;margin-bottom:5px;">13988 Diplomat Dr., Ste 100A-1,<br>Farmers Branch, TX 75234</p><p style="margin-bottom:0px;font-size:15px">Phone : <a style="color: #1c61af;" href="tel:469-776-8575">469-776-8575</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:469-776-8579">469-776-8579</a></p><a lang="en" href="location/farmers/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-},
+}, 
+// {
+//     lat: 32.936199,
+//     lon: -96.905956,
+//     title: 'Farmers Branch, TX',
+//     html: ['<a href="location/farmers/"><h3 style="font-size:15px;color:black">Farmers Branch, TX (Ste 100B)</h3></a>', '<p style="font-size:15px;margin-bottom:5px">13988 Diplomat Dr., Ste 100B,<br>Farmers Branch, TX 75234</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(214) 432-4422" style="color: #1c61af;">(214) 432-4422</a>, <a href="tel:(888) 495-8215" style="color: #1c61af;">(888) 495-8215</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:972-243-3260">972-243-3260</a>, <a style="color: #1c61af;" href="tel:(888) 495-8218">(888) 495-8218</a></p><p style="margin-bottom:5px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><br><h3 style="font-size:15px;color:black">Farmers Branch, TX (Ste 100A-1)</h3><p style="font-size:15px;margin-bottom:5px;">13988 Diplomat Dr., Ste 100A-1,<br>Farmers Branch, TX 75234</p><p style="margin-bottom:0px;font-size:15px">Phone : <a style="color: #1c61af;" href="tel:469-776-8575">469-776-8575</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:469-776-8579">469-776-8579</a></p><a lang="en" href="location/farmers/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// },
 
 
 

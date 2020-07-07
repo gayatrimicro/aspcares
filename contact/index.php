@@ -337,7 +337,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <br>Fax : <a herf="tel:(305) 856-0072">(305) 856-0072</a>, <a herf="tel:305-397-2939">305-397-2939</a>
                                     </p>
                                 </div>
-                                <div>
+                                <!-- <div>
                                     <label class="proxi-th labelc">340B</label>
                                     <p class="proxi-th" style="color:#000">13988 Diplomat Dr. Ste 100  | Farmers,
                                         <br>Branch, TX 75234,
@@ -347,7 +347,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                         <br>Contact person - Rex Green,
                                         <br>Cell : <a herf="tel:281-739-4818 ">281-739-4818 </a>,
                                     </p>
-                                </div>
+                                </div> -->
                                 <!-- <div>
                                     <label class="proxi-th labelc">America</label>
                                     <p class="proxi-th" style="color:#000">2700 W. Pleasant Run Road, 
