@@ -377,11 +377,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <img src="../assets/images/logo2.jpg" alt="ASP Cares" />
                                 </a>
                             </li> -->
-                            <li class="online_shop_item">
+                            <!-- <li class="online_shop_item">
                                 <a href="https://nabp.pharmacy/programs/vipps/vipps-accredited-pharmacies-list/" target="_blank" rel="nofollow">
                                     <img src="../assets/images/logo11.jpg" alt="ASP Cares" />
                                 </a>
-                            </li>
+                            </li> -->
                             <li class="online_shop_item">
                                 <a href="https://www.achc.org/" target="_blank" rel="nofollow">
                                     <img src="../assets/images/logo1.jpg" alt="ASP Cares" />

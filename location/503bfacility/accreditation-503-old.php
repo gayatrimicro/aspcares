@@ -65,7 +65,7 @@
                                         
                                         
                                     </div>
-                                 <div class="product_slider_item">
+                                 <!-- <div class="product_slider_item">
                                      
                                             <div class="products_slider_list_image_box">
                                                 <div class="products_slider_list_image">
@@ -74,7 +74,7 @@
                                             </div>
                                       
                                        
-                                    </div> 
+                                    </div>  -->
                                     <div class="product_slider_item">
                                         
                                             <div class="products_slider_list_image_box">

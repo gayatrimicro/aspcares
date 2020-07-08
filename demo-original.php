@@ -1823,13 +1823,13 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 </div>
 </div>
 </div>
-<div class=product_slider_item>
+<!-- <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
 <a href="https://nabp.pharmacy/programs/vipps/vipps-accredited-pharmacies-list/" target=_blank rel=nofollow> <img src="/assets/images/f6.png" alt=logo /></a>
 </div>
 </div>
-</div>
+</div> -->
 <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
