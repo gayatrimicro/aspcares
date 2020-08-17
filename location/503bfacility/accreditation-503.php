@@ -58,7 +58,7 @@
                                         
                                             <div class="products_slider_list_image_box">
                                                 <div class="products_slider_list_image">
-                                                   <a href="https://accreditnet2.urac.org//uracportal/Directory/CompanyView/10950" target="_blank">
+                                                   <a href="https://accreditnet2.urac.org/uracportal/Directory/CompanyView/12461" target="_blank">
                                      <img src="http://spacegm.com/aspcare/v3/assets/images/t1.png"  alt="CLEANSING GEL" /></a>
                                                 </div>
                                             </div>

@@ -63,11 +63,11 @@
                                         
                                             <div class="products_slider_list_image_box">
                                                 <div class="products_slider_list_image">
-                                                   <a href="https://accreditnet2.urac.org//uracportal/Directory/CompanyView/10950" target="_blank" rel="nofollow">
+                                                   <a href="https://accreditnet2.urac.org/uracportal/Directory/CompanyView/12461" target="_blank" rel="nofollow">
                                      <img src="/assets/images/t1.png"  alt="logo" /></a>
                                                 </div>
                                             </div>
-                                        
+                                         
                                         
                                     </div>
                                  

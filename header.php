@@ -675,7 +675,7 @@
                                    
                                 </ul>
                             </li>
- <li id="menu-item-1257" class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>JOIN OUR TEAM</span></a>
+                            <li id="menu-item-1257" class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>JOIN OUR TEAM</span></a>
                                 <ul class="sub-menu">
                                     <li id="menu-item-2883" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883 n1"><a href="/career/"><span>Careers</span></a></li>
                                     <li id="menu-item-2884" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884 n1"><a href="/team/culture/"><span>Company Culture</span></a></li>
@@ -686,12 +686,12 @@
                          
                         </ul>
                     </nav>
-                   
+
                     <!-- .lang_container -->
                    
                 </div>
             </div>
-            
+            <div class="row" id="corona" style="background-color:#0d4786"><div class="column" style="padding:10px;float:none;margin-bottom: 0px;padding-bottom: 5px;"><marquee><a href="https://aspcaresathomecovid.azova.com" style="font-size:15px;color:#fff;text-decoration:underline;font-weight: 700"><i class="fa fa-exclamation-triangle" style="padding:0px 10px;"></i>COVID-19 : GET AT HOME COVID-19 TESTING&nbsp;&nbsp;<i class="fa fa-arrow-right"></i></a></marquee></div></div>
         </header>
          
 <div class="popup" id="pop1" data-popup="popup-1">
