@@ -470,7 +470,7 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 </div>
 
 </div>
-<div class="row" id="corona" style="background-color:#0d4786"><div class="column" style="padding:10px;float:none;margin-bottom: 0px;padding-bottom: 5px;"><marquee><a href="https://aspcaresathomecovid.azova.com" style="font-size:15px;color:#fff;text-decoration:underline;font-weight: 700"><i class="fa fa-exclamation-triangle" style="padding:0px 10px;"></i>COVID-19 : GET AT HOME COVID-19 TESTING&nbsp;&nbsp;<i class="fa fa-arrow-right"></i></a></marquee></div></div>
+<div class="row" id="corona" style="background-color:#0d4786"><div class="column" style="padding:10px;float:none;margin-bottom: 0px;text-align: center;"><a target="_blank" href="https://aspcaresathomecovid.azova.com" style="font-size:15px;color:#fff;text-decoration:underline;font-weight: 700"><i class="fa fa-exclamation-triangle" style="padding:0px 10px;"></i>COVID-19 : GET AT HOME COVID-19 TESTING&nbsp;&nbsp;<i class="fa fa-arrow-right"></i></a></div></div>
 </header>
 <div class=popup id=pop1 data-popup=popup-1>
 <div class=popup-inner>
