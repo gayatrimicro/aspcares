@@ -1623,7 +1623,7 @@ Learn more about the value-added services we provide to our customers.
 </div><br>
 <br>
 <div style="text-align: center;">
-<a class="jt_btn jt_underline_btn jt_underline_btn_primary u1" href="http://503bfacility.com/order-now/" lang=en><span style="color: #ee2a32; text-transform: uppercase;">View catalogue</span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="jt_btn jt_underline_btn jt_underline_btn_primary u1" href="http://503bfacility.com/register/" lang=en><span style="color: #1c62af; text-transform: uppercase;">Register</span></a>
+<a class="jt_btn jt_underline_btn jt_underline_btn_primary u1" href="http://503bfacility.com/catalog-2/" lang=en><span style="color: #ee2a32; text-transform: uppercase;">View catalogue</span></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a class="jt_btn jt_underline_btn jt_underline_btn_primary u1" href="http://503bfacility.com/register/" lang=en><span style="color: #1c62af; text-transform: uppercase;">Register</span></a>
 </div>
 </div>
 </div>
