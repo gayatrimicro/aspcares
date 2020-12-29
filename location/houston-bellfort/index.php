@@ -367,7 +367,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <br> Sunday-Saturday : &nbsp;&nbsp;Closed
                                     <br> Holidays :&nbsp;&nbsp; Call store for details</h1>
                                 </p>
-                                <p>phone:&nbsp;&nbsp;713-568-2756 
+                                <p>phone:&nbsp;&nbsp;<!-- 713-568-2756 --> <a herf="tel:+1 214-475-6078" id="call">214-475-6078</a>
                                 <br>
                                 Fax: 281-371-6853</p>
                                 <br>

@@ -25,6 +25,21 @@
     color: #ee2832;
  }
 }
+a{
+    cursor: pointer;
+}
+#call{
+    font-size: 16px !important;
+    letter-spacing: 0.2px !important;
+    line-height: 1.86 !important;
+    color: #666 !important;
+}
+#call:hover{
+    font-size: 16px !important;
+    letter-spacing: 0.2px !important;
+    line-height: 1.86 !important;
+    color: red !important;
+}
  </style>
   <!-- Css for Adding Textfield  -->
                                                         <style type="text/css">
