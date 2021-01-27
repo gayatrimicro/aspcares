@@ -229,7 +229,7 @@
                <div class="bread">
                   <ul class="breadcrumb">
                      <li><a href="https://aspcares.com/">Home</a></li>
-                     <li>Lancaster</li>
+                     <li>Dallas</li>
                   </ul>
                </div>
                <div class="article_header">
@@ -242,7 +242,7 @@
                          <h1 lang="en" class="article_title">Lancaster, TX</h1>
                      </div> -->
                   <!-- .wrap -->
-                  <h1 lang="en" class="article_title ct">Lancaster, TX</h1>
+                  <h1 lang="en" class="article_title ct">Dallas, TX</h1>
                </div>
                <div class="gap1">
                   <div class="wrap">
@@ -295,7 +295,11 @@
                         </figure>
                         <div class="academy_intro_txt">
                            <h1>Address   </h1>
-                           <p>4309 Lemmon Ave
+                           
+                           <!-- <p> 3250 W Pleasant Run Rd,
+                              <br> ste 265, Lancaster TX
+                              <br> -->
+                              <p>4309 Lemmon Ave
                               <br> Dallas TX 75219
                               <br>
                               <a lang="en" href="https://goo.gl/maps/qpUXsrJGyqB2" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> <i class="fa fa-map-marker" aria-hidden="true"></i>
