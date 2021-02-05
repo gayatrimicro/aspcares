@@ -575,6 +575,7 @@ a{
                                         <ul class="sub-menu-inner">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/austin/"><span>Austin, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/corpuschristi/"><span>Corpus Christi, TX</span></a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/dallas/"><span>Dallas, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li>
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/harlingen/"><span>Harlingen, TX</span></a></li>
@@ -582,7 +583,7 @@ a{
 
                                              <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston-bellfort/"><span>Houston - Bellfort</span></a></li>
 
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li>
+                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li>
