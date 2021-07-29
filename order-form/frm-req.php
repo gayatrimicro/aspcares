@@ -56,17 +56,17 @@
  	$stb93  = $_POST["ordtbl93"];
  	$stb94  = $_POST["ordtbl94"];
 
- 	$sdte  = $_POST["odte"]
+ 	$sdte  = $_POST["odte"];
 
 	 $subject ="ASP Cares Order Form ";
 	$headers  = 'MIME-Version: 1.0' . "\r\n";
 	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-	$headers .= 'From: <' . $semail .">" ."\r\n";
+	$headers .= "From: <" . $semail .">" ."\r\n";
 	
 	
 	   	$message= "<table border='0' cellpadding='4' cellspacing='4' width='100%'>
 
-	   			  <tr><td style='font-size:1.3em;' colspan='2'><strong>Teleconsultation Details</strong></td></tr>
+	   			  <tr><td style='font-size:1.3em;' colspan='2'><strong>Order Details</strong></td></tr>
 	   			   	<tr>
 	                   <td align='left' width='35%'><strong>Order Date :</strong></td>
 	                   <td align='left' width='60%'>
@@ -90,9 +90,8 @@
 	                   <td align='left' width='60%'>
 	                   ".  $scid ."</td>
 	                </tr>
-	                <tr><td style='font-size:1.3em;' colspan='2'><strong>BILL TO :</strong></td></tr>
 	   			   	<tr>
-	                   <td align='left' width='35%'><strong>What is the nature of your injury? :</strong></td>
+	                   <td align='left' width='35%'><strong>BILL TO :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ".  $sbillto ."</td>
 	                </tr>
