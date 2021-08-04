@@ -68,7 +68,7 @@
 	 $subject ="ASP Cares Nutrition Order Form ";
 	$headers  = 'MIME-Version: 1.0' . "\r\n";
 	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-	$headers .= "From: <" . $semail .">" ."\r\n";
+	// $headers .= "From: <" . $semail .">" ."\r\n";
 	
 	
 	   	$message= "<table border='0' cellpadding='4' cellspacing='4' width='100%'>

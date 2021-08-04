@@ -588,7 +588,7 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <option value="Dickson, TN">Dickson, TN</option>
 <option value="El Paso, TX">El Paso, TX</option>
 <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
-<option value="Lancaster, TX">Lancaster, TX</option>
+<option value="Dallas, TX">Dallas, TX</option>
 <option value="Houston, TX">Houston, TX</option>
 <option value="Las Cruces, NM">Las Cruces, NM</option>
 <option value="Las Vegas, NV">Las Vegas, NV</option>
