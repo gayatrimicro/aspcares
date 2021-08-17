@@ -356,12 +356,12 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/columbia/"><span>Columbia, MD</span></a></li>
 </ul>
 </li>
-<li id=menu-item-2885 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2885">
+<!-- <li id=menu-item-2885 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2885">
 <a href="#"><span>Michigan</span></a>
 <ul class=sub-menu-inner>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/clawson/"><span>Clawson, MI</span></a></li>
 </ul>
-</li>
+</li> -->
 <li id=menu-item-2886 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2886">
 <a href="#"><span>Nevada</span></a>
 <ul class=sub-menu-inner>
@@ -393,12 +393,12 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/oklahoma/"><span>Oklahoma City, OK</span></a></li>
 </ul>
 </li>
-<li id=menu-item-2884 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884">
+<!-- <li id=menu-item-2884 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884">
 <a href="#"><span>Tennessee</span></a>
 <ul class=sub-menu-inner>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/dickson/"><span>Dickson, TN</span></a></li>
 </ul>
-</li>
+</li> -->
 <li id=menu-item-2889 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2885">
 <a href="#"><span>Texas</span></a>
 <ul class=sub-menu-inner>
