@@ -37,14 +37,15 @@ var LocsA = [{
     zoom: 8,
     icon: 'assets/images/map.svg'
 }, 
+// {
+//     lat: 42.533870,
+//     lon: -83.155111,
+//     title: 'Clawson, MI',
+//     html: ['<a href="location/clawson/"><h3 style="font-size:15px;color:black">Clawson, MI</h3></a>', '<p style="font-size:15px;margin-bottom:5px">560 W. 14 Mile Rd,<br>Clawson, MI 48017-1930 (Oakland County)/p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:248-397-8677" style="color: #1c61af;">248-397-8677</a>, <a href="tel:888-709-9801" style="color: #1c61af;">888-709-9801</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:248-397-8679">248-397-8679</a>, <a style="color: #1c61af;" href="tel:888-706-6697">888-706-6697</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/clawson/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 {
-    lat: 42.533870,
-    lon: -83.155111,
-    title: 'Clawson, MI',
-    html: ['<a href="location/clawson/"><h3 style="font-size:15px;color:black">Clawson, MI</h3></a>', '<p style="font-size:15px;margin-bottom:5px">560 W. 14 Mile Rd,<br>Clawson, MI 48017-1930 (Oakland County)/p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:248-397-8677" style="color: #1c61af;">248-397-8677</a>, <a href="tel:888-709-9801" style="color: #1c61af;">888-709-9801</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:248-397-8679">248-397-8679</a>, <a style="color: #1c61af;" href="tel:888-706-6697">888-706-6697</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/clawson/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-}, {
     lat: 27.779102,
     lon: -97.396287,
     title: 'Corpus Christi, TX',
@@ -58,21 +59,31 @@ var LocsA = [{
     html: ['<a href="location/corpuschristi/"><h3 style="font-size:15px;color:black">Columbia, MD</h3></a>', '<p style="font-size:15px;margin-bottom:5px">5500 Knoll North Dr., Ste 140<br>Columbia, MD 21045-2360<br>(Howard County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:410-964-5500" style="color: #1c61af;">410-964-5500</a>, <a href="tel:877-683-4512" style="color: #1c61af;">877-683-4512</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:410-964-5511">410-964-5511</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/columbia/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}, {
-    lat: 36.073193,
-    lon: -87.384758,
-    title: 'Dickson, TN',
-    html: ['<a href="location/dickson/"><h3 style="font-size:15px;color:black">Dickson, TN</h3></a>', '<p style="font-size:15px;margin-bottom:5px">318 E College Street, Ste 102<br>Dickson, TN, 37055</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:615-682-8472" style="color: #1c61af;">615-682-8472</a>, <a href="tel:866-422-7940" style="color: #1c61af;">866-422-7940</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:615-988-6790">615-988-6790</a>, <a style="color: #1c61af;" href="tel:866-422-8619">866-422-8619</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/dickson/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-}, {
-    lat: 31.712132,
-    lon: -106.311804,
-    title: 'El Paso, TX',
-    html: ['<a href="location/el-Paso/"><h3 style="font-size:15px;color:black">El Paso, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1015 N Zaragoza St., Suite C,<br>El Paso, TX 79907-1822 (El Paso County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(915) 860-7225" style="color: #1c61af;">(915) 860-7225</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(915) 860-7320">(915) 860-7320</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/el-Paso/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+}, 
+{
+    lat: 32.8168038,
+    lon: -96.8142746,
+    title: 'Dallas, TX',
+    html: ['<a href="location/dallas/"><h3 style="font-size:15px;color:black">Dallas, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">4309 Lemmon Ave<br>Dallas TX 75219</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:214-331-4500" style="color: #1c61af;">214-331-4500</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:214-331-4507">214-331-4507</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/dallas/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
 }, 
+// {
+//     lat: 36.073193,
+//     lon: -87.384758,
+//     title: 'Dickson, TN',
+//     html: ['<a href="location/dickson/"><h3 style="font-size:15px;color:black">Dickson, TN</h3></a>', '<p style="font-size:15px;margin-bottom:5px">318 E College Street, Ste 102<br>Dickson, TN, 37055</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:615-682-8472" style="color: #1c61af;">615-682-8472</a>, <a href="tel:866-422-7940" style="color: #1c61af;">866-422-7940</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:615-988-6790">615-988-6790</a>, <a style="color: #1c61af;" href="tel:866-422-8619">866-422-8619</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/dickson/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
+// {
+//     lat: 31.712132,
+//     lon: -106.311804,
+//     title: 'El Paso, TX',
+//     html: ['<a href="location/el-Paso/"><h3 style="font-size:15px;color:black">El Paso, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1015 N Zaragoza St., Suite C,<br>El Paso, TX 79907-1822 (El Paso County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(915) 860-7225" style="color: #1c61af;">(915) 860-7225</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(915) 860-7320">(915) 860-7320</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/el-Paso/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 // {
 //     lat: 32.936199,
 //     lon: -96.905956,
@@ -124,14 +135,15 @@ var LocsA = [{
     html: ['<a href="location/houston-bellfort/"><h3 style="font-size:15px;color:black">Houston - Bellfort</h3></a>', '<p style="font-size:15px;margin-bottom:5px">8785 Bellfort, Ste A,<br>Houston, TX 770321 </p><a lang="en" href="location/houston-bellfort/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}, {
-    lat: 32.603141,
-    lon: -96.820951,
-    title: 'Lancaster, TX',
-    html: ['<a href="location/lancaster/"><h3 style="font-size:15px;color:black">Lancaster, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">3250 W Pleasant Run Rd., Ste 165<br>Lancaster, TX 75146</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:214-331-4500" style="color: #1c61af;">214-331-4500</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:214-331-4507">214-331-4507</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/lascruces/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
 }, 
+// {
+//     lat: 32.603141,
+//     lon: -96.820951,
+//     title: 'Lancaster, TX',
+//     html: ['<a href="location/lancaster/"><h3 style="font-size:15px;color:black">Lancaster, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">3250 W Pleasant Run Rd., Ste 165<br>Lancaster, TX 75146</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:214-331-4500" style="color: #1c61af;">214-331-4500</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:214-331-4507">214-331-4507</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/lascruces/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 // {
 //     lat: 32.324740,
 //     lon: -106.725912,
@@ -147,14 +159,16 @@ var LocsA = [{
     html: ['<a href="location/lasvegas/"><h3 style="font-size:15px;color:black">Las Vegas, NV</h3></a>', '<p style="font-size:15px;margin-bottom:5px">501 S. Rancho Dr. G46<br>Las Vegas, NV 89106-4828<br>(Clark County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:702-912-4844" style="color: #1c61af;">702-912-4844</a>, <a href="tel:866-532-5638" style="color: #1c61af;">866-532-5638</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:702-912-4846">702-912-4846</a>, <a style="color: #1c61af;" href="tel:866-532-5647">866-532-5647</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/lasvegas/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}, {
-    lat: 40.770931,
-    lon: -74.299717,
-    title: 'Livingston, NJ',
-    html: ['<a href="location/livingston/"><h3 style="font-size:15px;color:black">Livingston, NJ</h3></a>', '<p style="font-size:15px;margin-bottom:5px">365 E Northfield Rd<br>Livingston, NJ 07039</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:973-535-0900" style="color: #1c61af;">973-535-0900</a>, <a href="tel:888-622-9332" style="color: #1c61af;">888-622-9332</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:973-535-3404">973-535-3404</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/livingston/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-}, {
+}, 
+// {
+//     lat: 40.770931,
+//     lon: -74.299717,
+//     title: 'Livingston, NJ',
+//     html: ['<a href="location/livingston/"><h3 style="font-size:15px;color:black">Livingston, NJ</h3></a>', '<p style="font-size:15px;margin-bottom:5px">365 E Northfield Rd<br>Livingston, NJ 07039</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:973-535-0900" style="color: #1c61af;">973-535-0900</a>, <a href="tel:888-622-9332" style="color: #1c61af;">888-622-9332</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:973-535-3404">973-535-3404</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/livingston/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
+{
     lat: 25.794744,
     lon: -80.239254,
     title: 'Miami, FL',
@@ -175,14 +189,16 @@ var LocsA = [{
     html: ['<a href="location/oklahoma/"><h3 style="font-size:15px;color:black">Oklahoma City</h3></a>', '<p style="font-size:15px;margin-bottom:5px">3405 NW Expwy, Oklahoma City,<br> OK 73112-4419 (Oklahoma County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:405-607-3995" style="color: #1c61af;">405-607-3995</a>, <a href="tel:888-507-0673" style="color: #1c61af;">888-507-0673</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:405-607-3998">405-607-3998</a>, <a style="color: #1c61af;" href="tel:888-507-0693">888-507-0693</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/oklahoma/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}, {
-    lat: 28.366770,
-    lon: -81.425909,
-    title: 'Orlando, FL',
-    html: ['<a href="location/orlando/"><h3 style="font-size:15px;color:black">Orlando, FL</h3></a>', '<p style="font-size:15px;margin-bottom:5px">13651 Hunters Oak Drive, Ste 101<br>Orlando, FL 32837-7681<br>(Orange County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:407-730-5998" style="color: #1c61af;">407-730-5998</a>, <a href="tel:407-730-5999" style="color: #1c61af;">407-730-5999</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:407-730-5999">407-730-5999</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/orlando/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-}, {
+}, 
+// {
+//     lat: 28.366770,
+//     lon: -81.425909,
+//     title: 'Orlando, FL',
+//     html: ['<a href="location/orlando/"><h3 style="font-size:15px;color:black">Orlando, FL</h3></a>', '<p style="font-size:15px;margin-bottom:5px">13651 Hunters Oak Drive, Ste 101<br>Orlando, FL 32837-7681<br>(Orange County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:407-730-5998" style="color: #1c61af;">407-730-5998</a>, <a href="tel:407-730-5999" style="color: #1c61af;">407-730-5999</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:407-730-5999">407-730-5999</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/orlando/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
+{
     lat: 29.639266,
     lon: -95.163664,
     title: 'Martin Luther King, TX',

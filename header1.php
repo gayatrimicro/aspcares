@@ -195,7 +195,7 @@
                                     <li id="menu-item-2883" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883">
                                         <a><span>Florida</span></a>
                                         <ul class="sub-menu-inner">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/orlando/"><span>Orlando, FL</span></a></li>
+                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/orlando/"><span>Orlando, FL</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/miami/"><span>Miami, FL</span></a></li>
                                         </ul>
                                     </li>
@@ -255,7 +255,7 @@
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/austin/"><span>Austin, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/corpuschristi/"><span>Corpus Christi, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/dallas/"><span>Dallas, TX</span></a></li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li>
+                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li> -->
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/harlingen/"><span>Harlingen, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
@@ -493,7 +493,7 @@
                                                         <option value="Corpus Christi, TX">Corpus Christi, TX</option>
                                                         <option value="Dickson, TN">Dickson, TN</option>
 
-                                                        <option  value="El Paso, TX">El Paso, TX</option>
+                                                        <!-- <option  value="El Paso, TX">El Paso, TX</option> -->
                                                         <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
                                                         <option value="Dallas, TX">Dallas, TX</option>
                                                         <option value="Houston, TX">Houston, TX</option>
@@ -503,7 +503,7 @@
                                                         <option value="McAllen, TX">McAllen, TX</option>
                                                         <option value="Miami, FL">Miami, FL</option>
                                                         <option value="Oklahoma City, OK">Oklahoma City, OK</option>
-                                                        <option value="Orlando, FL">Orlando, FL</option>
+                                                        <!-- <option value="Orlando, FL">Orlando, FL</option> -->
 
                                                         <option value="Pasadena, TX">Pasadena, TX</option>
 
@@ -568,7 +568,7 @@
                                                 <div class="contact_form_column">
                                                     <label for="your_mail" class="contact_form_label">Locations</label>
                                                     <select class="wpcf7-text" onchange="selectPDF(this);">
-                                                        <option value="pdf/QUESTION 3.pdf">El Paso, TX </option>
+                                                        <!-- <option value="pdf/QUESTION 3.pdf">El Paso, TX </option> -->
                                                         <option value="pdf/QUESTION 4.pdf">San Antonio, TX</option>
                                                         <option value="pdf/QUESTION 5.pdf">Miami, FL</option>
                                                         <option value="pdf/QUESTION 6.pdf">Tyler, TX</option>
@@ -1080,10 +1080,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "Miami, FL";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("orlando") == true){
-                    document.getElementById("selectlocation").value = "Orlando, FL";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("orlando") == true){
+//                     document.getElementById("selectlocation").value = "Orlando, FL";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("clawson") == true){
                     document.getElementById("selectlocation").value = "Clawson, MI";
 document.getElementById("selectlocation").disabled = true;
@@ -1128,14 +1128,14 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "Corpus Christi, TX";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("el-Paso") == true){
-                    document.getElementById("selectlocation").value = "El Paso, TX";
+                // else if(location.includes("el-Paso") == true){
+                //     document.getElementById("selectlocation").value = "El Paso, TX";
 // document.getElementById("selectlocation").disabled = true;
 //                 }
 //                 else if(location.includes("farmers") == true){
 //                     document.getElementById("selectlocation").value = "Farmers Branch, TX";
-document.getElementById("selectlocation").disabled = true;
-                }
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("houston") == true){
                     document.getElementById("selectlocation").value = "Houston, TX";
 document.getElementById("selectlocation").disabled = true;
@@ -1160,10 +1160,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "Clawson, MI";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("lancaster") == true){
-                    document.getElementById("selectlocation").value = "Lancaster, TX";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("lancaster") == true){
+//                     document.getElementById("selectlocation").value = "Lancaster, TX";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("oklahoma") == true){
                     document.getElementById("selectlocation").value = "Oklahoma City, OK";
 document.getElementById("selectlocation").disabled = true;
@@ -1412,12 +1412,12 @@ document.getElementById("asksuccess").style.display = "block";
                     var location = window.location.href;
 
                     //console.log(location);
-                   if(location.includes("orlando") == true)
-                    {
-                        var pagelocation = "Orlando, FL";
-                        console.log("",pagelocation);
-                    }
-                    else if(location.includes("columbia") == true)
+                   // if(location.includes("orlando") == true)
+                   //  {
+                   //      var pagelocation = "Orlando, FL";
+                   //      console.log("",pagelocation);
+                   //  }
+                    if(location.includes("columbia") == true)
                     {
                         var pagelocation = "Columbia, MD";
                         console.log("",pagelocation);
@@ -1477,11 +1477,11 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "Corpus Christi, TX";
                         console.log("",pagelocation);
                     }
-                    else if(location.includes("el-Paso") == true)
-                    {
-                        var pagelocation = "El Paso, TX";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("el-Paso") == true)
+                    // {
+                    //     var pagelocation = "El Paso, TX";
+                    //     console.log("",pagelocation);
+                    // }
                     // else if(location.includes("farmers") == true)
                     // {
                     //     var pagelocation = "Farmers Branch, TX";
@@ -1492,11 +1492,11 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "Houston";
                         console.log("",pagelocation);
                     }
-                    else if(location.includes("lancaster") == true)
-                    {
-                        var pagelocation = "Lancaster, TX";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("lancaster") == true)
+                    // {
+                    //     var pagelocation = "Lancaster, TX";
+                    //     console.log("",pagelocation);
+                    // }
                     // Location
                     else if(location.includes("macallen") == true)
                     {
