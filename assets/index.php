@@ -406,12 +406,12 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/corpuschristi/"><span>Corpus Christi, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li>
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
-<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/harlingen/"><span>Harlingen, TX</span></a></li>
+<!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/harlingen/"><span>Harlingen, TX</span></a></li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston-bellfort/"><span>Houston - Bellfort</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li>
+<!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Grayson</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/503bfacility/"><span>503B Facility SA, TX</span></a></li>

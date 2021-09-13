@@ -213,12 +213,12 @@
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/lasvegas/"><span>Las Vegas, NV</span></a></li>
                                         </ul>
                                     </li>
-                                    <li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887">
+                                    <!-- <li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887">
                                         <a href="#"><span>New Jersey</span></a>
                                         <ul class="sub-menu-inner">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/livingston/"><span>Livingston, NJ</span></a></li>
                                         </ul>
-                                    </li>
+                                    </li> -->
                                     <li id="menu-item-2888" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2888">
                                         <a href="#"><span>New Mexico</span></a>
                                         <ul class="sub-menu-inner">
@@ -921,10 +921,10 @@
                                                         <option value="Albuquerque, NM">Albuquerque, NM</option>
                                                         <option value="Astoria, NY">Astoria, NY</option>   
                                                         <option value="Austin, TX">Austin, TX</option>
-                                                        <option value="Clawson, MI">Clawson, MI</option>
+                                                        <!-- <option value="Clawson, MI">Clawson, MI</option> -->
                                                         <option value="Columbia, MD">Columbia, MD</option>
                                                         <option value="Corpus Christi, TX">Corpus Christi, TX</option>
-                                                        <option value="Dickson, TN">Dickson, TN</option>
+                                                        <!-- <option value="Dickson, TN">Dickson, TN</option> -->
 
                                                         <!-- <option value="El Paso, TX">El Paso, TX</option> -->
                                                         <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
@@ -934,7 +934,7 @@
                                                         
                                                         <option value="Las Cruces, NM">Las Cruces, NM</option>
                                                         <option value="Las Vegas, NV">Las Vegas, NV</option>
-                                                        <option value="Livingston, NJ">Livingston, NJ</option>
+                                                        <!-- <option value="Livingston, NJ">Livingston, NJ</option> -->
                                                         <option value="McAllen, TX">McAllen, TX</option>
                                                         <option value="Miami, FL">Miami, FL</option>
                                                         <option value="Oklahoma City, OK">Oklahoma City, OK</option>
@@ -1519,18 +1519,18 @@ document.getElementById("selectlocation").disabled = true;
 //                     document.getElementById("selectlocation").value = "Orlando, FL";
 // document.getElementById("selectlocation").disabled = true;
 //                 }
-                else if(location.includes("clawson") == true){
-                    document.getElementById("selectlocation").value = "Clawson, MI";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("clawson") == true){
+//                     document.getElementById("selectlocation").value = "Clawson, MI";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("columbia") == true){
                     document.getElementById("selectlocation").value = "Columbia, MD";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("livingston") == true){
-                    document.getElementById("selectlocation").value = "Livingston, NJ";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("livingston") == true){
+//                     document.getElementById("selectlocation").value = "Livingston, NJ";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("albuquerque") == true){
                     document.getElementById("selectlocation").value = "Albuquerque, NM";
 document.getElementById("selectlocation").disabled = true;
@@ -1551,10 +1551,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "SA, Stone Oak";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("dickson") == true){
-                    document.getElementById("selectlocation").value = "Dickson, TN";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("dickson") == true){
+//                     document.getElementById("selectlocation").value = "Dickson, TN";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("austin") == true){
                     document.getElementById("selectlocation").value = "Austin, TX";
 document.getElementById("selectlocation").disabled = true;
@@ -1591,10 +1591,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "Tyler, TX";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("clawson") == true){
-                    document.getElementById("selectlocation").value = "Clawson, MI";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("clawson") == true){
+//                     document.getElementById("selectlocation").value = "Clawson, MI";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
 //                 else if(location.includes("lancaster") == true){
 //                     document.getElementById("selectlocation").value = "Lancaster, TX";
 // document.getElementById("selectlocation").disabled = true;
@@ -1857,11 +1857,11 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "Columbia, MD";
                         console.log("",pagelocation);
                     }
-                    else if(location.includes("clawson") == true)
-                    {
-                        var pagelocation = "Clawson, MI";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("clawson") == true)
+                    // {
+                    //     var pagelocation = "Clawson, MI";
+                    //     console.log("",pagelocation);
+                    // }
                     else if(location.includes("miami") == true)
                     {
                         var pagelocation = "Miami, FL";
@@ -1897,11 +1897,11 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "Oklahoma City";
                         console.log("",pagelocation);
                     }
-                    else if(location.includes("dickson") == true)
-                    {
-                        var pagelocation = "Dickson, TN";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("dickson") == true)
+                    // {
+                    //     var pagelocation = "Dickson, TN";
+                    //     console.log("",pagelocation);
+                    // }
                     else if(location.includes("austin") == true)
                     {
                         var pagelocation = "Austin, TX";

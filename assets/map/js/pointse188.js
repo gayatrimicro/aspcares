@@ -97,14 +97,14 @@ var LocsA = [{
 
 
 
-{
-    lat: 26.192820,
-    lon: -97.673870,
-    title: 'Harlingen, TX',
-    html: ['<a href="location/houston/"><h3 style="font-size:15px;color:black">Harlingen, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px"> 201 E Jackson St Ste B,<br>Harlingen, TX 78550</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(956) 267-4131" style="color: #1c61af;">(956) 267-4131</a>,</p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(956) 246-4709">(956) 246-4709</a>,</p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/harlingen/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-},
+// {
+//     lat: 26.192820,
+//     lon: -97.673870,
+//     title: 'Harlingen, TX',
+//     html: ['<a href="location/houston/"><h3 style="font-size:15px;color:black">Harlingen, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px"> 201 E Jackson St Ste B,<br>Harlingen, TX 78550</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(956) 267-4131" style="color: #1c61af;">(956) 267-4131</a>,</p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(956) 246-4709">(956) 246-4709</a>,</p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/harlingen/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// },
 
 
 
@@ -198,14 +198,15 @@ var LocsA = [{
 //     zoom: 8,
 //     icon: 'assets/images/map.svg'
 // }, 
+// {
+//     lat: 29.639266,
+//     lon: -95.163664,
+//     title: 'Martin Luther King, TX',
+//     html: ['<a href="location/martin-luther-king/"><h3 style="font-size:15px;color:black">Martin Luther King, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">8610 Martin Luther King Blvd., Ste A<br>Houston, TX 77033 </p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:832-500-3575" style="color: #1c61af;">832-500-3575</a>, <a href="tel:888-249-1312" style="color: #1c61af;">888-249-1312</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:832-500-3576">832-500-3576</a>, <a style="color: #1c61af;" href="tel:888-249-1989">888-249-1989</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/martin-luther-king/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 {
-    lat: 29.639266,
-    lon: -95.163664,
-    title: 'Martin Luther King, TX',
-    html: ['<a href="location/martin-luther-king/"><h3 style="font-size:15px;color:black">Martin Luther King, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">8610 Martin Luther King Blvd., Ste A<br>Houston, TX 77033 </p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:832-500-3575" style="color: #1c61af;">832-500-3575</a>, <a href="tel:888-249-1312" style="color: #1c61af;">888-249-1312</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:832-500-3576">832-500-3576</a>, <a style="color: #1c61af;" href="tel:888-249-1989">888-249-1989</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/martin-luther-king/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-}, {
     lat: 29.514265,
     lon: -98.586167,
     title: 'San Antonio, TX',

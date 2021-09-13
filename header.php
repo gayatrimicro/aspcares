@@ -578,14 +578,14 @@ a{
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/dallas/"><span>Dallas, TX</span></a></li>
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li> -->
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/harlingen/"><span>Harlingen, TX</span></a></li>
+                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/harlingen/"><span>Harlingen, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
 
                                              <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston-bellfort/"><span>Houston - Bellfort</span></a></li>
 
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li>
+                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Grayson</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/503bfacility/"><span>503B Facility SA, TX</span></a></li>
@@ -938,10 +938,10 @@ a{
                                                         <!-- <option value="Albuquerque, NM">Albuquerque, NM</option> -->
                                                         <option value="Astoria, NY">Astoria, NY</option>   
                                                         <option value="Austin, TX">Austin, TX</option>
-                                                        <option value="Clawson, MI">Clawson, MI</option>
+                                                        <!-- <option value="Clawson, MI">Clawson, MI</option> -->
                                                         <option value="Columbia, MD">Columbia, MD</option>
                                                         <option value="Corpus Christi, TX">Corpus Christi, TX</option>
-                                                        <option value="Dickson, TN">Dickson, TN</option>
+                                                        <!-- <option value="Dickson, TN">Dickson, TN</option> -->
 
                                                         <!-- <option value="El Paso, TX">El Paso, TX</option> -->
                                                         <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
@@ -951,7 +951,7 @@ a{
                                                         
                                                         <option value="Las Cruces, NM">Las Cruces, NM</option>
                                                         <option value="Las Vegas, NV">Las Vegas, NV</option>
-                                                        <option value="Livingston, NJ">Livingston, NJ</option>
+                                                        <!-- <option value="Livingston, NJ">Livingston, NJ</option> -->
                                                         <option value="McAllen, TX">McAllen, TX</option>
                                                         <option value="Miami, FL">Miami, FL</option>
                                                         <option value="Oklahoma City, OK">Oklahoma City, OK</option>
@@ -1536,18 +1536,18 @@ document.getElementById("selectlocation").disabled = true;
 //                     document.getElementById("selectlocation").value = "Orlando, FL";
 // document.getElementById("selectlocation").disabled = true;
 //                 }
-                else if(location.includes("clawson") == true){
-                    document.getElementById("selectlocation").value = "Clawson, MI";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("clawson") == true){
+//                     document.getElementById("selectlocation").value = "Clawson, MI";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("columbia") == true){
                     document.getElementById("selectlocation").value = "Columbia, MD";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("livingston") == true){
-                    document.getElementById("selectlocation").value = "Livingston, NJ";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("livingston") == true){
+//                     document.getElementById("selectlocation").value = "Livingston, NJ";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("albuquerque") == true){
                     document.getElementById("selectlocation").value = "Albuquerque, NM";
 document.getElementById("selectlocation").disabled = true;
@@ -1568,10 +1568,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "SA, Stone Oak";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("dickson") == true){
-                    document.getElementById("selectlocation").value = "Dickson, TN";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("dickson") == true){
+//                     document.getElementById("selectlocation").value = "Dickson, TN";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("austin") == true){
                     document.getElementById("selectlocation").value = "Austin, TX";
 document.getElementById("selectlocation").disabled = true;
@@ -1609,10 +1609,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "Tyler, TX";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("clawson") == true){
-                    document.getElementById("selectlocation").value = "Clawson, MI";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("clawson") == true){
+//                     document.getElementById("selectlocation").value = "Clawson, MI";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
 //                 else if(location.includes("lancaster") == true){
 //                     document.getElementById("selectlocation").value = "Lancaster, TX";
 // document.getElementById("selectlocation").disabled = true;
@@ -1875,11 +1875,11 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "Columbia, MD";
                         console.log("",pagelocation);
                     }
-                    else if(location.includes("clawson") == true)
-                    {
-                        var pagelocation = "Clawson, MI";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("clawson") == true)
+                    // {
+                    //     var pagelocation = "Clawson, MI";
+                    //     console.log("",pagelocation);
+                    // }
                     else if(location.includes("miami") == true)
                     {
                         var pagelocation = "Miami, FL";
@@ -1915,11 +1915,11 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "Oklahoma City";
                         console.log("",pagelocation);
                     }
-                    else if(location.includes("dickson") == true)
-                    {
-                        var pagelocation = "Dickson, TN";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("dickson") == true)
+                    // {
+                    //     var pagelocation = "Dickson, TN";
+                    //     console.log("",pagelocation);
+                    // }
                     else if(location.includes("austin") == true)
                     {
                         var pagelocation = "Austin, TX";
