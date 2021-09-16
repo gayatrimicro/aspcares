@@ -1140,8 +1140,18 @@ hr{opacity:0;}
 .search_container{visibility:visible;opacity:1;background-color:#fff;}
 }
 @media only screen and (min-device-width:320px) and (max-device-width:480px)
-and (orientation:portrait){.wrap>div{max-width:calc(100% - 0px) !important;padding-left:0px !important;}
+and (orientation:portrait)
+{.wrap>div{max-width:calc(100% - 0px) !important;
+	/*padding-left:0px !important;*/
+	padding: 20px  !important;
+}
+
 .product_header .wrap{margin-right:0px;margin-left:0px;}
+.htwo{
+	margin-top: 20px !important;
+	margin-bottom: 10px !important;
+
+}
 }
 @media only screen
 and (min-device-width:565px)

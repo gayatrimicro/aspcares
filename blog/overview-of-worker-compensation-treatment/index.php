@@ -841,7 +841,8 @@ So let's know the types of accidents- </h2></p>
 </ul>
 
 
-<p class="product_desc"><b>Thinking about whether your desk job is safe? </b><br>
+<p class="product_desc"><b>Thinking about whether your desk job is safe? </b></p><br>
+<p class="product_desc">
 Workers' compensation isn't just limited to high-risk jobs. Repetitive-motion injuries (i.e., carpal tunnel), slip-and-fall accidents, and strains are more common than you would possibly think at relatively safe desk jobs.
 <br>
 For example, if an important beam lands on a construction worker’s foot and causes an open fracture,<a href="https://www.aspcares.com/worker-comp/"> workers’ compensation</a> can cover medical expenses and lost wages during the recovery. Without insurance, the employer might be liable for all related costs, which could add up to ten thousand dollars.
