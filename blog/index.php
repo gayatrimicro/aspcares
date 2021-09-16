@@ -555,17 +555,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
 
                         <!-- jan start -->
- <div class="product_header_table blog">
+                            <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/overview-workers-compensation.jpg" alt="Workers’ Compensation" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">An Overview of Worker Compensation Treatment</h2>
+                                        <p class="product_desc">Employees are no longer a cost to the Company. Your employees are your assets which give strength to the business and are great pillars of your organization’s  foundation. This helps in running a successful business. Every company or organization wants employees to be productive at work. Quality time and quality work is appreciated by organizations and companies. This quality time and work should be gifted with quality healthcare today.  </p>
+                                    
+                                        <br>
+                                        <a lang="en" href="overview-of-worker-compensation-treatment/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                   
+                                </div>
+                <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/PrEP.jpg" alt="The One Pill That Saved Thousands of Lives" />
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
-                                        <h2 class="product_title">The One Pill That Saved Thousands of Lives
-
-</h2>
-                                        <p class="product_desc">As people, we do not know when we are born until after the fact; the birth certificate tells us the date.  We do not know when we are going to die, the death certificate tells the date, which is meaningless to the person that died.  I was looking at my parent’s headstone and reflected on the little dash between their birth and death.  Much has been written about that dash, which signifies our goals, dreams, successes, and failures, the dash is the summation of our life.  Death is imminent, no one can deny this fact. 
-</p>
+                                        <h2 class="product_title">The One Pill That Saved Thousands of Lives</h2>
+                                        <p class="product_desc">As people, we do not know when we are born until after the fact; the birth certificate tells us the date.  We do not know when we are going to die, the death certificate tells the date, which is meaningless to the person that died.  I was looking at my parent’s headstone and reflected on the little dash between their birth and death.  Much has been written about that dash, which signifies our goals, dreams, successes, and failures, the dash is the summation of our life.  Death is imminent, no one can deny this fact.</p>
                                     
                                         <br>
                                         <a lang="en" href="the-story-of-PrEP" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
