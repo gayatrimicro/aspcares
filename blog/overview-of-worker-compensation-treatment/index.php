@@ -812,15 +812,14 @@ So let's know the types of accidents- </h2></p>
 </ul>
    
 <br>
-    <h1>Let us look at the categories of reportable accidents and understand them in detail.</h1>
+    <h2>Let us look at the categories of reportable accidents and understand them in detail.</h2>
 
+<p class="product_desc"><b>A. First Aid Case(FAC)-</b></p>
+ 
 
-
-<p class="product_desc"><b class="find">Best supplement for adrenal fatigue</b><br>
-The best treatment for adrenal fatigue is stress management and eating bulletproof diet.  However, If you are getting tired frequently, be sure to consult your physician to understand the cause of it. </p>
-
-<p class="product_desc">
-ASP Cares is a market-leading specialty pharmacy focused on providing care for rare conditions and disorders, as well as treat adrenal fatigue. Our Pharmacists understand very well that Hormonal balance is a key factor in optimizing adrenal function and can assist you to take the right supplements. Walk to ASP Cares today and get the best Adrenal support supplements.  </p>
+<ul style="margin-left: 30px;list-style-type: disc;" class="product_desc">
+     <li>From the point of view, if a person gets hurt a little, and after giving first aid, he returns to work again at the same time. Such accidents are kept in the category of first aid cases.</li>
+ </ul>
  
             <br>                                                               
   <img src="../../assets/images/Workers-Comp.jpg" alt="Workers's Comp"  style="width: 100%;">
@@ -829,9 +828,8 @@ ASP Cares is a market-leading specialty pharmacy focused on providing care for r
    <div class="product_header_cell product_header_img">
        <img src="../../assets/images/Workers_Comp_Process.jpg" alt="Workers_Comp_Process" />
 
-<p class="product_desc"><b>A. First Aid Case(FAC)-</b></p>
- <ul style="margin-left: 30px;list-style-type: disc;" class="product_desc">
-     <li>From the point of view, if a person gets hurt a little, and after giving first aid, he returns to work again at the same time. Such accidents are kept in the category of first aid cases.</li>
+<ul style="margin-left: 30px;list-style-type: disc;" class="product_desc">
+
      <li>First aid must be provided by a specialized doctor with expertise to reduce any kind of further complication. </li>
      <li>Do not neglect such cases. Taking an expert opinion in such cases is a must. </li>
  </ul>
