@@ -24,7 +24,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <!-- Open Graph data -->
     <meta property="og:title" content="Learn About Worker’s Compensation Treatment & Benefits | ASPCares" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.aspcares.com/blog/overview-of-worker-compensation-treatment/" />    
+    <meta property="og:url" content="https://www.aspcares.com/blog/overview-worker-compensation/" />    
     <meta property="og:image" content="" />
     <meta property="og:description" content="Workers' compensation treatment covers your quality treatment,  medical expenses, lost wages & other costs after a workplace injury. To know more about benefits of worker's comp treatment, call us at 469-545-9983." />
     <meta property="og:locale" content="en_US" />
