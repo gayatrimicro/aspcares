@@ -734,7 +734,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                        
   
                                          <p class="product_desc">
-The most ignored part of the skeleton of the human body is the scapula. Wondering what scapula is? Yes, it's your shoulder blade. This is the most neglected part of the body. Many of us tend to ignore shoulder pain, thinking it's just joint pain. Remember, don't forget this shoulder blade of the scapula.  </p>
+The most ignored part of the skeleton of the human body is the scapula. Wondering what scapula is? Yes, it's your shoulder blade. This is the most neglected part of the body. Many of us tend to ignore shoulder pain, thinking it's just joint pain.<br> Remember, don't forget this shoulder blade of the scapula.  </p>
 
 
  <p class="product_desc"><b class="find">
@@ -754,9 +754,10 @@ It is named after a part of the skeleton. Shovel means flat bone. It consists of
 Scapula Strain – What is Shoulder Pain?
 </b></p>
 <p class="product_desc">
-Pain in the scapula or shoulder blade is extremely common and is often the result of excessive physical activity.
-</b><br>
-Incidence of Scapular fracture </p>
+Pain in the scapula or shoulder blade is extremely common and is often the result of excessive physical activity.<br>
+<br>
+<b class="find">
+Incidence of Scapular fracture</b><br> </p>
 
 
 <p class="product_desc">
@@ -796,7 +797,7 @@ Mild strains of the scapula heal in 1-2 weeks, severe strains take 1-2 months.
 •  Movement of the affected arm is difficult, and there is a sharp pain while trying to pick it up<br>
 •  In some cases, there is bruising at the site of the injury. They often appear in 2-3 days.<br>
  •  The recognizable symptom is swelling in the shape of a triangle. 
-<br>
+<br><br>
 Based on this, the doctor quickly determined the diagnosis. Depending on the type of fracture, symptoms may appear to change or at least in manifestation.
 
 </p>  
@@ -821,18 +822,18 @@ Based on this, the doctor quickly determined the diagnosis. Depending on the typ
  • This injury is most often caused by a strong blow directly to the shoulder from top to bottom. Fractures can lead to them and other complications.
 </p>           
       
-      <p class="product_desc">
-<b class="find">Test and Diagnosis 
-<br>
-</b>The disease is determined by physical examination and medical history. To find out the underlying cause, an X-ray or an MRI scan of the shoulder blade is advised.
-
-</p>                                  
+                               
                                                 </div>
                                                 <div class="product_header_cell product_header_img">
                                                     <img src="../../assets/images/fracture1.jpg" alt="Right Shoulder Fractures" class="no">
                             
 
+      <p class="product_desc">
+<b class="find">Test and Diagnosis 
+<br>
+</b>The disease is determined by physical examination and medical history. To find out the underlying cause, an X-ray or an MRI scan of the shoulder blade is advised.
 
+</p>   
 <p class="product_desc"><b class="find">Shoulder Blade Fracture Process<br>
 </b>
 
@@ -891,7 +892,7 @@ Any type of scapular injury requires admission into the hospital and immediate t
 Symptoms then gradually reduce over time and a person walks with a bruise on until they face complications of the disease. Therefore, if you suspect a fracture, get medical help right away.
 <br><br>
 Get immediate medical help from our expert at <a href="https://www.aspcares.com/"> ASP Cares,</a> who have the expertise and rich clinical experience in treating such types of cases. 
-<br>
+<br><br>
 Remember, every injury cause and impact is different and needs specialized expert care under a super-specialist. 
 
 </p>
