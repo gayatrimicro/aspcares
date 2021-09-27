@@ -557,7 +557,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                            <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
-                                        <img src="../assets/images/fracture1.jpg" alt="An Overview of Scapula Fractures" />
+                                        <img src="../assets/images/fracture2.jpg" alt="An Overview of Scapula Fractures" />
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
