@@ -632,6 +632,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    <!--/ new css  -->
    <link rel='stylesheet' href='../../assets/css/blog.css' type='text/css' media='all' />
   <style>
+  .no{
+    display: none;
+  }
     .cal-div{
       display:inline-block;float:left;width:20%;
 
@@ -752,7 +755,7 @@ Scapula Strain – What is Shoulder Pain?
 </b></p>
 <p class="product_desc">
 Pain in the scapula or shoulder blade is extremely common and is often the result of excessive physical activity.
-</b>
+</b><br>
 Incidence of Scapular fracture </p>
 
 
@@ -800,7 +803,7 @@ Based on this, the doctor quickly determined the diagnosis. Depending on the typ
 <p class="product_desc"><b class="find">When to see a doctor- Symptoms of scapular fracture 
 </b>
 <br>
- • severe pain<br>
+ • Severe pain<br>
  • Inability to rotate your shoulder.<br>
  • Fever, chest pain, or shortness of breath.<br>
  • Prolonged rubbing and bruising.<br>
@@ -811,8 +814,8 @@ Based on this, the doctor quickly determined the diagnosis. Depending on the typ
 </p>
 <p class="product_desc">
     <b class="find">How to determine the fracture of the scapula?
-</b>
- • sObserved with this form of injury of scapular fracture is girdle deformation. <br>
+</b><br>
+ • Observed with this form of injury of scapular fracture is girdle deformation. <br>
  • The fracture can be determined by the doctor through the process of palpation.<br>
  • He sets the pieces easily through the skin. <br>
  • This injury is most often caused by a strong blow directly to the shoulder from top to bottom. Fractures can lead to them and other complications.
@@ -826,10 +829,8 @@ Based on this, the doctor quickly determined the diagnosis. Depending on the typ
 </p>                                  
                                                 </div>
                                                 <div class="product_header_cell product_header_img">
-                                                    <img src="../../assets/images/fracture1.jpg" alt="Right Shoulder Fractures" />
-                                                    
-
-
+                                                    <img src="../../assets/images/fracture1.jpg" alt="Right Shoulder Fractures" class="no">
+                            
 
 
 <p class="product_desc"><b class="find">Shoulder Blade Fracture Process<br>
@@ -841,7 +842,7 @@ Based on this, the doctor quickly determined the diagnosis. Depending on the typ
 • When trying to move one arm causes pain in action <br>
 • Shoulder blade fracture can be displaced. <br>
 • The tendon and clavicle ligaments rupture.<br>
- Dislocation of the shoulder blade <br>
+ • Dislocation of the shoulder blade <br>
  • Injury to shoulder blade <br>
 • Treatment for the first 7-14 days takes place in the hospital.
 </p>
@@ -852,7 +853,7 @@ Based on this, the doctor quickly determined the diagnosis. Depending on the typ
 • The patient does not feel pain in the moving forearm region without flexing the neck. 
 </p>
 <p class="product_desc"><b class="find">Blade Neck Fracture</b><br>
- •   In the case when there is a scapular fracture with displacement, there are several other symptoms:<br>
+ In the case when there is a scapular fracture with displacement, there are several other symptoms:<br>
 • Hands movable and not retracted;<br>
 • The shoulder joint becomes a circular shape;<br>
 • On palpation, the patient complains of pain at the site of effect,<br>
@@ -865,7 +866,7 @@ Based on this, the doctor quickly determined the diagnosis. Depending on the typ
 • Diets rich in omega-3 fatty acids such as fish, walnuts, sea kelp, and soybeans.<br>
 • Use olive oil instead of vegetable oil or butter when cooking because olive oil contains oleocanthal, a natural substance that helps prevent inflammation.
 </b></p>
-<p class="product_desc"><b class="find">Avoid these foods in your diet 
+<p class="product_desc"><b class="find">Avoid these foods in your diet <br>
 </b>
 • Trans-saturated fat.<br>
 • Deep-fried food.<br>
@@ -884,17 +885,17 @@ Based on this, the doctor quickly determined the diagnosis. Depending on the typ
 • Massage of the area of the scapula with essential oils relieves spasms and spasms of the muscles attached to the scapula. <br>
 • In addition to exercises for scapula pain, to reduce shoulder blade pain, sitting and sleeping in proper posture is very important in preventing scapula pain.
 
-<br>
+<br><br>
 Any type of scapular injury requires admission into the hospital and immediate treatment. The patient feels sharp pain when there is a fracture of the scapula. 
-<br>
+<br><br>
 Symptoms then gradually reduce over time and a person walks with a bruise on until they face complications of the disease. Therefore, if you suspect a fracture, get medical help right away.
-<br>
+<br><br>
 Get immediate medical help from our expert at <a href="https://www.aspcares.com/"> ASP Cares,</a> who have the expertise and rich clinical experience in treating such types of cases. 
 <br>
 Remember, every injury cause and impact is different and needs specialized expert care under a super-specialist. 
 
 </p>
-<p class="product_desc"><b>Call ASP Cares at (210)-417-4567, to book an appointment.
+<p class="product_desc"><b>Call ASP Cares at<a href="tel:2104174567"> (210)-417-4567,</a> to book an appointment.
 </b></p>
 
 
