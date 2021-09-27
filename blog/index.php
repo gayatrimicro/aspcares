@@ -555,6 +555,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
 
                         <!-- jan start -->
+                           <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/fracture1.jpg" alt="An Overview of Scapula Fractures" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">An Overview of Scapula Fractures</h2>
+                                        <p class="product_desc">The most ignored part of the skeleton of the human body is the scapula. Wondering what scapula is? Yes, it's your shoulder blade. This is the most neglected part of the body. Many of us tend to ignore shoulder pain, thinking it's just joint pain. Remember, don't forget this shoulder blade of the scapula.   </p>
+                                    
+                                        <br>
+                                        <a lang="en" href="overview-of-worker-compensation-treatment/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                   
+                                </div>
                             <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/overview-workers-compensation.jpg" alt="Workers’ Compensation" />
