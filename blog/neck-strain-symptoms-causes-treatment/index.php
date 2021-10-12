@@ -730,13 +730,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <div class="product_header_cell product_header_txt">
                                        
   <style type="text/css">
-    ul{
+    .product_header ul{
       list-style: circle;
       margin-left: 20px;
     }
+    ul li p{
+      margin-top: 0px !important;
+    }
   </style>
 <p class="product_desc">Neck strain can occur due to many reasons in our day-to-day life. So, let us take a sneak peek into the causes, reasons, and grades of neck pain.</p>
-
+<br>
+ <div class="product_header_cell product_header_img">
+ <img src="../../assets/images/neck-strain-symptoms-causes-treatment.jpg" alt="Neck Pain">
+ 
+<br>
+      </div> 
 <p class="product_desc"><b class="find">What Is Neck Strain?</b></p>
 <p class="product_desc">Neck strain occurs when one or more fibers or tendons in the neck muscles are overstretched and tear. It is a type of injury that is also called a pulled muscle.</p>
 
@@ -744,6 +752,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <p class="product_desc"><b class="find">Grade of neck strain - </b></p>
+<br>
 <ul>
   <li><p class="product_desc">A strain or tear in certain fibers of the neck muscles is classified as grade one.</p></li>
   <li><p class="product_desc">At the same time, when 90% of the muscle fibers are stretched, it is kept in grade-2 injury.</p></li>
@@ -759,6 +768,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
      <p class="product_desc"><b class="find">What Are The Symptoms Of Neck Strain?</b></p>
 <p class="product_desc">The symptoms of neck strain are pain and decreased range of motion of the neck. Pain occurs after an injury. It is not an unusual situation for a person to not feel any discomfort in the initial stages. Since most inflammatory changes come slowly.</p>
+<br>
 <ul>
   <li><p class="product_desc">Feeling severe pain immediately after an injury can be a danger signal, in which the injury may be more serious than you think.</p></li>
   <li><p class="product_desc">Usually, the patient feels fine after a neck injury. The next morning, the patient experiences neck pain and loss of range of motion.</p></li>
@@ -769,59 +779,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <p class="product_desc">Apart from the above symptoms, there may be some other symptoms of neck strain, which are not listed above. If you are concerned about the symptoms of a neck strain, consult a doctor for more details.</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
       
                                
   </div>
   <div class="product_header_cell product_header_img">
-      <img src="../../assets/images/neck-strain-symptoms-causes-treatment.jpg" alt="Neck Pain">
+     
                             
 
 
 
 <p class="product_desc"><b class="find">Causes Of Neck Strain</b></p>
+<br>
 <ul>
   <li><p class="product_desc">An injury to the neck can lead to a strain. This type of injury often results when the head is pulled backward (hyperextension) or forward when trauma occurs. </p></li>
   <li><p class="product_desc">Injury from rotation and compression can lead to neck strain and soft tissue injury. </p></li>
