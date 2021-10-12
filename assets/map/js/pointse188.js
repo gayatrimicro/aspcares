@@ -160,6 +160,16 @@ var LocsA = [{
     zoom: 8,
     icon: 'assets/images/map.svg'
 }, 
+
+
+{
+    lat: 36.2333403,
+    lon: -115.1612953,
+    title: 'Las Vegas, MLK, NV',
+    html: ['<a href="location/lasvegas/"><h3 style="font-size:15px;color:black">Las Vegas, MLK, NV</h3></a>', '<p style="font-size:15px;margin-bottom:5px">4040 N Martin Luther King Blvd.<br> North Las Vegas, NV 89032.</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:7026256624" style="color: #1c61af;">7026256624</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="fax:7026256628">7026256628</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/lasvegas-mlk/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+    zoom: 8,
+    icon: 'assets/images/map.svg'
+}, 
 // {
 //     lat: 40.770931,
 //     lon: -74.299717,

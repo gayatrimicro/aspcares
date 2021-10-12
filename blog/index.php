@@ -557,6 +557,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                            <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/neck-strain-symptoms-causes-treatment.jpg" alt="Neck Pain" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Neck Strain Symptoms, Causes and Treatment</h2>
+                                        <p class="product_desc">A neck strain occurs when one or more neck muscles, ligaments or tendons are injured. Read our blog about Neck Strain. Learn more about its Symptoms, Causes and Treatment.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="neck-strain-symptoms-causes-treatment/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                   
+                                </div>
+
+
+
+                                <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/fracture2.jpg" alt="An Overview of Scapula Fractures" />
                                     </div>
                                     <!-- .product_header_cell -->
