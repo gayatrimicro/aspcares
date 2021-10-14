@@ -557,6 +557,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                            <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/different-types-bone-fractures-and-treatment.jpg" alt="Neck Pain" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">The Different Types of Bone Fractures And Treatments</h2>
+                                        <p class="product_desc">Fracture that occurs when an injury causes the bone to break. Understand the different types of bone fractures and its treatment from our expert orthopedic surgeon. Contact ASP Cares Today.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="different-types-bone-fractures-and-treatment/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                   
+                                </div>
+
+                                
+                           <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/neck-strain-symptoms-causes-treatment.jpg" alt="Neck Pain" />
                                     </div>
                                     <!-- .product_header_cell -->
