@@ -557,6 +557,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                            <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/wound-care-complications5.jpg" alt="Neck Pain" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Wound Care Complications</h2>
+                                        <p class="product_desc">Non-healing wounds require specialist treatment and Know more about Wound Care Complications. Call us at (210)-417-4567 to book an appointment.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="wound-care-complications/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                   
+                                </div>
+
+
+
+                                <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/different-types-bone-fractures-and-treatment.jpg" alt="Neck Pain" />
                                     </div>
                                     <!-- .product_header_cell -->
