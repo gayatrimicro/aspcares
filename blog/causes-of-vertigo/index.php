@@ -773,7 +773,7 @@ Vertigo is a symptom of a disorder in the body, it is not a disease. Vertigo can
                             <br>
 <br>
       </div> 
-<p class="product_desc"><b class="find">Causes of vertigo </b></p>
+<p class="product_desc"><b class="find">Causes of Vertigo </b></p>
 
 <br>
 <ul>
