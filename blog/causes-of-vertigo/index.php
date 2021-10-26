@@ -738,8 +738,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       margin-top: 0px !important;
     }
   </style>
-  <h2>What is vertigo?</h2>
-<p class="product_desc">The word “Vertigo'' originates from the Latin language Verto. It means to roam. Vertigo is a feeling of spinning or a feeling of imbalance. The patient suffers from this when there is dizziness or imbalance. </p><br>
+  <h2>What is Vertigo?</h2>
+<p class="product_desc">The word “Vertigo'' originates from the Latin language Verto. It means to roam. Vertigo is a feeling of spinning or a feeling of imbalance. The patient suffers from this when there is dizziness or imbalance. </p>
 <p class="product_desc"> This imbalance can cause nausea, vomiting, excessive sweating, or a feeling of unsteadiness in walking. Dizziness may increase when the head is moved or shaken. </p>
 <p class="product_desc">Vertigo is a common complaint about doctors in all fields and can affect people of all age groups. In reality, 20 to 40 percent of people suffer from vertigo at some point in their lives, of which 15 percent have diabetes.</p>
 <p class="product_desc">
@@ -799,7 +799,7 @@ Vertigo is a symptom of a disorder in the body, it is not a disease. Vertigo can
 
   
   <li>
-    <p class="product_desc"><b>Vestibular Migraine:</b>Vestibular migraines are one of the most common causes. Headache and dizziness are very common which are common symptoms in all age groups. It is important to determine whether the two symptoms are associated or independent of each other or caused by a migraine. <br>
+    <p class="product_desc"><b>Vestibular Migraine:</b> Vestibular migraines are one of the most common causes. Headache and dizziness are very common which are common symptoms in all age groups. It is important to determine whether the two symptoms are associated or independent of each other or caused by a migraine. <br>
 These patients usually do not have hearing problems and often cannot tolerate loud sounds or bright light. Treatment is controlled by lifestyle changes, dietary changes, and medicines. Treatment usually takes several months.
 </p>
 
@@ -864,16 +864,18 @@ These patients usually do not have hearing problems and often cannot tolerate lo
   <li>
     <p class="product_desc"><b>Perilymph fistula:</b> It is caused by abnormal contact between the fluid in the inner ear and the air in the outer ear. Inner ear fluid perilymph fluid leaks out of the middle ear and flows into the middle ear, causing hearing loss, a feeling of heaviness in the ear, and dizziness. These symptoms worsen with coughing, sneezing, and lifting heavyweights. </p><br>
     <p class="product_desc">Fistulas are most commonly caused by sudden changes in pressure while driving, in flight, or during childbirth, although the most common trauma occurs when lifting heavyweights. Its diagnosis is dependent on the patient's history. It is diagnosed by vestibular examination and symptoms. For the treatment, correction of perilymph fistula is done by telescopic operation. After the operation, the patient has to take bed rest for a few days. </p>
+    <br>
 
 <li>
-  <p class="product_desc"><b>Vestibular Paroxysmia:</b>This is due to the pressure of the balance nerve inside the bone. In this, there is a feeling of sharp vertigo and imbalance in short intervals. Spontaneous nystagmus with hyperventilation has been highly recommended for the diagnosis of vestibular paroxysms. </p><br>
+  <p class="product_desc"><b>Vestibular Paroxysmia:</b> This is due to the pressure of the balance nerve inside the bone. In this, there is a feeling of sharp vertigo and imbalance in short intervals. Spontaneous nystagmus with hyperventilation has been highly recommended for the diagnosis of vestibular paroxysms. </p><br>
   <p class="product_desc">In addition, 95% of the condition can be diagnosed with an MRI. This disease has to be differentiated from a seizure disorder. Initially, medical management can be done with carbamazepine or oxcarbazepine. If adequate control with medications is not possible, surgical microvascular decompression of the vestibular nerve may be performed. This allows the balance vein to be released from pressure.</p>
 </li><br>
   <li>
-  <p class="product_desc"><b>Mal Debarquement Syndrome (MDDS):</b>Mal Debarquement syndrome (MDDS) is an unusual condition in which the patient feels like walking on a boat or walking on foam. This usually happens after a long boat trip or a long flight. However, it is not necessary that this situation should happen only after the journey. Sitting in a car or driving a car reduces the symptoms of this disease temporarily. This disease is more prevalent in women than in men. These patients benefit from optokinetic visual stimulation and inclusion in a specialized rehabilitation program.</p>
+  <p class="product_desc"><b>Mal Debarquement Syndrome (MDDS):</b> Mal Debarquement syndrome (MDDS) is an unusual condition in which the patient feels like walking on a boat or walking on foam. This usually happens after a long boat trip or a long flight. However, it is not necessary that this situation should happen only after the journey. Sitting in a car or driving a car reduces the symptoms of this disease temporarily. This disease is more prevalent in women than in men. These patients benefit from optokinetic visual stimulation and inclusion in a specialized rehabilitation program.</p>
   </li><br>
 <li>
-  <p class="product_desc"><b>Acoustic Neuroma:</b>The acoustic neuroma occurs as a tumor in the balance vein, causing symptoms of increased instability, hearing loss in one ear, and ringing in the ear. This tumor usually grows slowly. It is diagnosed by audiological tests such as pure tone audiometry and ABR, vestibular test, and MRI.</p>
+  <p class="product_desc"><b>Acoustic Neuroma:</b> The acoustic neuroma occurs as a tumor in the balance vein, causing symptoms of increased instability, hearing loss in one ear, and ringing in the ear. This tumor usually grows slowly. It is diagnosed by audiological tests such as pure tone audiometry and ABR, vestibular test, and MRI.</p>
+  <br>
   <p class="product_desc">So, now that you need the reasons behind vertigo, you get to approach us at <b>ASP Cares.</b> With the special expertise of our doctors, we can help to treat your vertigo. You can consult your doctor for more information about this at <a href="https://www.aspcares.com/">ASP Cares</a>, who can guide you with the best available treatment.
   </li><br>
 </ul>
