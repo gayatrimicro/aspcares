@@ -749,7 +749,7 @@ Vertigo is a symptom of a disorder in the body, it is not a disease. Vertigo can
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/causes-of-vertigo-2.jpg" alt="Causes of Vertigo">
+ <img src="../../assets/images/causes-of-vertigo-2.jpg" alt="What is Vertigo? ">
 <br>
 <br>
 <br>
@@ -843,7 +843,7 @@ These patients usually do not have hearing problems and often cannot tolerate lo
   <div class="product_header_cell product_header_img">
 <br>
      
- <img src="../../assets/images/causes-of-vertigo-1.jpg" alt="Causes of vertigo">
+ <img src="../../assets/images/causes-of-vertigo-1.jpg" alt=" Symptoms of Vertigo">
 <br>
 <br>
  
