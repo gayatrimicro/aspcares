@@ -820,24 +820,7 @@ These patients usually do not have hearing problems and often cannot tolerate lo
  
 
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
+    
                                
   </div>
   <div class="product_header_cell product_header_img">

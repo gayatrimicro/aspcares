@@ -555,13 +555,29 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
 
                         <!-- jan start -->
+                         <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/types-workout-injuries1.jpg" alt="Causes of Vertigo" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Top 5 Types of Workout Injuries  </h2>
+                                        <p class="product_desc">Sports and athletic activities like working out in the gym can cause injuries. Understand the different types of workout injuries from our expert surgeons. Contact ASP Cares Today.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="top-5-types-workout-injuries/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                   
+                                </div>
                         <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/causes-of-vertigo-1.jpg" alt="Causes of Vertigo" />
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
-                                        <h2 class="product_title">Vertigo - Causes, Symptoms & Treatment  | AspCares </h2>
+                                        <h2 class="product_title">Vertigo - Causes, Symptoms & Treatment   </h2>
                                         <p class="product_desc">With the special expertise of our doctors, we can help to treat your vertigo. You can consult our doctor for more information about this at 210 417 4567, who can guide you with the best available treatment.</p>
                                     
                                         <br>
