@@ -263,7 +263,7 @@
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/pasadena/"><span>Pasadena, TX</span></a></li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li>
+                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Cinnamon Creek, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/503bfacility/"><span>503B Facility SA, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/tyler/"><span>Tyler, TX</span></a></li>
@@ -1154,10 +1154,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "Pasadena, TX";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("sanantonio") == true){
-                    document.getElementById("selectlocation").value = "San Antonio, TX";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("sanantonio") == true){
+//                     document.getElementById("selectlocation").value = "San Antonio, TX";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("tyler") == true){
                     document.getElementById("selectlocation").value = "Tyler, TX";
 document.getElementById("selectlocation").disabled = true;
@@ -1519,11 +1519,11 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "Pasadena, TX";
                         console.log("",pagelocation);
                     }
-                    else if(location.includes("sanantonio") == true)
-                    {
-                        var pagelocation = "San Antonio";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("sanantonio") == true)
+                    // {
+                    //     var pagelocation = "San Antonio";
+                    //     console.log("",pagelocation);
+                    // }
                     else if(location.includes("sa-stoneoak") == true)
                     {
                         var pagelocation = "SA - Stone Oak";
