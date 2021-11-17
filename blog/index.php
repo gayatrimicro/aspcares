@@ -557,6 +557,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                         <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/effects-of-covid-19-and-its-impacts-on-hiv-patients1.jpg" alt="How can people living with HIV prevent COVID-19 infection?" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">COVID effect on HIV Patients</h2>
+                                        <p class="product_desc">If you are living with HIV, what are the risks? HIV has a higher risk of becoming seriously ill from COVID-19. Learn about COVID-19 and how it affects people with HIV.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="effects-of-covid-19-and-its-impacts-on-hiv-patients/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                        <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/viral-hepatitis-causes-and-symptoms1.jpg" alt="Stomach Pain is a sign of Viral Hepatitis" />
                                     </div>
                                     <!-- .product_header_cell -->
