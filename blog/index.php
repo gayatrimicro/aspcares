@@ -557,6 +557,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                         <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/viral-hepatitis-causes-and-symptoms1.jpg" alt="Stomach Pain is a sign of Viral Hepatitis" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Viral Hepatitis: What Is It? Causes and Symptoms of Acute Hepatitis</h2>
+                                        <p class="product_desc">Viral hepatitis is a serious, preventable public health threat caused by a few  viruses that primarily attack the liver. Call us at (210)-417-4567 to book an appointment.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="viral-hepatitis-causes-and-symptoms/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                   
+                                </div>
+                        <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/causes-symptoms-treatment-of-diabetic-nephropathy3.jpg" alt="Diabetic Nephropathy Treatment" />
                                     </div>
                                     <!-- .product_header_cell -->
