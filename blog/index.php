@@ -557,7 +557,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                         <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
-                                        <img src="../assets/images/effects-of-covid-19-and-its-impacts-on-hiv-patients1.jpg" alt="How can people living with HIV prevent COVID-19 infection?" />
+                                        <img src="../assets/images/effects-of-covid-19-and-its-impacts-on-hiv-patients2.jpg" alt="How can people living with HIV prevent COVID-19 infection?" />
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
