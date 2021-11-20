@@ -557,6 +557,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                         <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/early-multiple-sclerosis-symptoms-causes-and-types3.jpg" alt="Affected areas in Multiple Sclerosis" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Multiple Sclerosis (MS): Early Warning Symptoms, Causes, and Types</h2>
+                                        <p class="product_desc">Multiple sclerosis is a disease which affects the central nervous system, which is the brain, spinal cord, and optic nerves. Call us at (210)-417-4567 to book an appointment.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="early-multiple-sclerosis-symptoms-causes-and-types/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                        <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/7-top-causes-of-upper-back-pain-while-breathing3.jpg" alt="Diagnosis of Upper back pain while breathing" />
                                     </div>
                                     <!-- .product_header_cell -->
