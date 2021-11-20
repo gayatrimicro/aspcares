@@ -557,6 +557,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                         <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/7-top-causes-of-upper-back-pain-while-breathing3.jpg" alt="Diagnosis of Upper back pain while breathing" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">7 Top Causes of Upper Back Pain When Breathing</h2>
+                                        <p class="product_desc">Pain while breathing can occur due to a “catch” or “muscle strain”. Understand the different types of causes to rule out any serious hidden medical condition in case of upper back pain while breathing. Contact ASP Cares Today.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="7-top-causes-of-upper-back-pain-while-breathing/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                        <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/effects-of-covid-19-and-its-impacts-on-hiv-patients2.jpg" alt="How can people living with HIV prevent COVID-19 infection?" />
                                     </div>
                                     <!-- .product_header_cell -->
