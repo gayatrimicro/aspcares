@@ -557,6 +557,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                         <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/reasons-and-tips-to-prevent-hip-pain1.jpg" alt="Symptoms of Hip pain " />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Reasons and Tips to Prevent Hip Pain</h2>
+                                        <p class="product_desc">Hip pain is a common problem and is usually associated with radiating nerve pain. If you are facing some problem with hip pain, contact ASP Cares at (210)-417-4567.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="reasons-and-tips-to-prevent-hip-pain/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                        <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/early-multiple-sclerosis-symptoms-causes-and-types3.jpg" alt="Affected areas in Multiple Sclerosis" />
                                     </div>
                                     <!-- .product_header_cell -->
