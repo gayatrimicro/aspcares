@@ -557,6 +557,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <!-- jan start -->
                         <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/telehealth-for-pain-management-and-the-advantages-of-telemedicine1.jpg" alt="Telehealth Service " />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Telemedicine Pain Management </h2>
+                                        <p class="product_desc">ASP Cares solves the problem of healthcare being accessible to all with telehealth for pain management. Fill the telehealth consultation form to setup your appointment. </p>
+                                    
+                                        <br>
+                                        <a lang="en" href="telehealth-for-pain-management-and-the-advantages-of-telemedicine/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                        <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/reasons-and-tips-to-prevent-hip-pain1.jpg" alt="Symptoms of Hip pain " />
                                     </div>
                                     <!-- .product_header_cell -->
