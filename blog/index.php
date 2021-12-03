@@ -554,6 +554,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
 
+                              <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/osteoporosis1.jpg" alt="Telehealth Service " />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Osteoporosis in Elderly Women</h2>
+                                        <p class="product_desc">Fracture that occurs due to osteoporosis causes the bone to break. Understanding osteoporosis in elderly patients is important. Start their treatment with our expert orthopedic surgeon. Contact ASP Cares Today. </p>
+                                    
+                                        <br>
+                                        <a lang="en" href="osteoporosis-in-elderly-women/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                         <!-- jan start -->
                         <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
