@@ -553,7 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
-
+                              <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/lumbago.jpg" alt="Understanding Lower Back Pain or Lumbago" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Lumbago or Lower Back Pain Symptoms, Diagnosis, and Treatment</h2>
+                                        <p class="product_desc">What is lumbago? It is a common disorder involving the muscles, nerves, and bones of the back. To know more about the treatment options call us at (210)-417-4567. </p>
+                                    
+                                        <br>
+                                        <a lang="en" href="osteoporosis-in-elderly-women/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                               <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/osteoporosis1.jpg" alt="Telehealth Service " />
