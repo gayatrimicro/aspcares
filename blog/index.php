@@ -553,6 +553,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+
+                    <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/treatment-for-broken-ribs1.jpg" alt="Injury to ribs" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Treatment for Broken Ribs </h2>
+                                        <p class="product_desc">Broken ribs can cause difficulty in breathing especially when healing or recovery takes place. Know the different types of treatment for broken ribs from our expert orthopedic surgeon for faster recovery. Contact ASP Cares Today.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="treatment-for-broken-ribs/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                               <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/lumbago.jpg" alt="Understanding Lower Back Pain or Lumbago" />
