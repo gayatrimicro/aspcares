@@ -553,7 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
-
+                    <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/know-about-medicare-insurance-and-types-of-insurance-benefits3.jpg" alt="Find the Right Medicare Insurance Plan " />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">What is Medicare Insurance? </h2>
+                                        <p class="product_desc">Medicare Insurance helps pay for services from doctors and other health care providers, outpatient care, etc. It covers hospital, medical and prescription drug coverage.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="know-about-medicare-insurance-and-types-of-insurance-benefits/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                     <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/treatment-for-broken-ribs1.jpg" alt="Injury to ribs" />
