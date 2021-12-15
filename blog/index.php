@@ -553,6 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                           <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/cervical-dystonia.jpg" alt="Symptoms of Cervical Dystonia" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Causes, Symptoms, and Treatment of Cervica</h2>
+                                        <p class="product_desc">Cervical Dystonia is a neurological disorder where you can lose control over nerves. Understand the different types of dystonia and its treatment from our expert surgeons and doctors. Contact ASP Cares Today.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="causes-symptoms-treatment-of-cervical-dystonia/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                     <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/know-about-medicare-insurance-and-types-of-insurance-benefits3.jpg" alt="Find the Right Medicare Insurance Plan " />
