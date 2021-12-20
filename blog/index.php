@@ -553,6 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                          <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/overactive-bladder-syndrome.jpg" alt="Symptoms of Cervical Dystonia" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Causes, Symptoms, and Treatment of Cervica</h2>
+                                        <p class="product_desc">An Overactive Bladder Syndrome is a group of bladder symptoms including the urgency to pass urine frequently. Learn about Overactive Bladder Syndrome causes and treatments.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="how-to-treat-and-prevent-overactive-bladder-syndrome/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                            <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/cervical-dystonia.jpg" alt="Symptoms of Cervical Dystonia" />

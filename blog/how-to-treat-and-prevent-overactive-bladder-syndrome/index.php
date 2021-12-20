@@ -16,21 +16,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta charset="utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-    <title>Causes, Symptoms, and Treatment of Cervical Dystonia | ASP Cares
+    <title>Overactive Bladder Syndrome: What Is It? Causes, Symptoms, and Treatment
 </title>
     <meta name="author" content="Valerie Watson"> 
-    <meta name="description" content="Cervical Dystonia is a neurological disorder where you can lose control over nerves. Understand the different types of dystonia and its treatment from our expert surgeons and doctors. Contact ASP Cares Today.">
+    <meta name="description" content="An Overactive Bladder Syndrome is a group of bladder symptoms including the urgency to pass urine frequently. Learn about Overactive Bladder Syndrome causes and treatments.">
     <!-- Open Graph data -->
-    <meta property="og:title" content="Causes, Symptoms, and Treatment of Cervical Dystonia | ASP Cares" />
+    <meta property="og:title" content="Overactive Bladder Syndrome: What Is It? Causes, Symptoms, and Treatment" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.aspcares.com/blog/causes-symptoms-treatment-of-cervical-dystonia/" />    
+    <meta property="og:url" content="https://www.aspcares.com/blog/how-to-treat-and-prevent-overactive-bladder-syndrome/" />    
     <meta property="og:image" content="https://www.aspcares.com/assets/images/cervical-dystonia.jpg" />
-    <meta property="og:description" content="Cervical Dystonia is a neurological disorder where you can lose control over nerves. Understand the different types of dystonia and its treatment from our expert surgeons and doctors. Contact ASP Cares Today." />
+    <meta property="og:description" content="An Overactive Bladder Syndrome is a group of bladder symptoms including the urgency to pass urine frequently. Learn about Overactive Bladder Syndrome causes and treatments." />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="AspCares" />
-    <meta name="twitter:title" content="Causes, Symptoms, and Treatment of Cervical Dystonia | ASP Cares" />
-    <meta name="twitter:description" content="Cervical Dystonia is a neurological disorder where you can lose control over nerves. Understand the different types of dystonia and its treatment from our expert surgeons and doctors. Contact ASP Cares Today." />
-    <link rel="canonical" href="https://www.aspcares.com/blog/causes-symptoms-treatment-of-cervical-dystonia/" />
+    <meta name="twitter:title" content="Overactive Bladder Syndrome: What Is It? Causes, Symptoms, and Treatment" />
+    <meta name="twitter:description" content="An Overactive Bladder Syndrome is a group of bladder symptoms including the urgency to pass urine frequently. Learn about Overactive Bladder Syndrome causes and treatments." />
+    <link rel="canonical" href="https://www.aspcares.com/blog/how-to-treat-and-prevent-overactive-bladder-syndrome/" />
     <meta name="twitter:card" content="summary" />
     
     <link rel="alternate" href="" hreflang="en-us" />
@@ -685,7 +685,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <ul class="breadcrumb">
                                     <li><a href="https://aspcares.com/">Home</a></li>
                                     <!--  <li><a href="https://www.aspcares.com/blog/">Blogs</a></li> -->
-                                    <li>Causes, Symptoms, and Treatment of Cervical Dystonia </li>
+                                    <li>Overactive Bladder Syndrome </li>
                                 </ul>
                             </div>
                     <div class="article_header">
@@ -697,7 +697,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </ul>
                             </div> -->
 
-                            <h1 lang="en" class="article_title find">Causes, Symptoms, and Treatment of Cervical Dystonia</h1>
+                            <h1 lang="en" class="article_title find">Overactive Bladder Syndrome</h1>
                             <div class="article_social">
                                 <nav class="footer_sns_wrap">
                                     <ul class="footer_sns">
@@ -737,22 +737,50 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       margin-top: 0px !important;
     }
   </style>
-<!--   <p class="product_desc"><b class="find"> </b></p>
- -->  <p class="product_desc">Till today we have heard about the biggest diseases and many types of disorders, but today we will tell you about one such disorder which very few people are probably aware of. That is cervical dystonia.</p>
-  <p class="product_desc">Our body maintains blood supply to every organ through the blood vessels which helps in various functions like the blinking of eyes, digestion, etc., in the right manner. It is a miracle that all these activities of the body continue all our life, but a small disturbance can badly disrupt the well-organized system of our bodily processes. Due to this disruption, many problems and disabilities can emerge. Dystonia is one such neurological disorder. It thrives due to improper functioning of our neurological function affecting muscles and majorly nerves. </p>
-  <p class="product_desc"><b class="find">What is Cervical Dystonia?</b></p>
-<p class="product_desc">Cervical dystonia is a dreaded condition in which the muscles of the neck become stiff. Even after trying a lot, you cannot move your neck as desired. All the control of the neck is lost, just like a newborn does not have control over the neck in a similar fashion, an adult suffers the same.</p>
-  <p class="product_desc"><b class="find">What are the causes for Cervical Dystonia?</b></p>
-<p  class="product_desc">Little is known about the causes of dystonia so far. Symptoms of dystonia are seen in specific tasks, such as writing, which is called writer's cramp. Well, it can also be genetic. In some people, the symptoms of dystonia also arise due to certain medicines or certain diseases such as lung cancer.</p>
-  <p class="product_desc"><b class="find">Symptoms of Cervical Dystonia </b></p>
-<bR>
+  <p class="product_desc"><b class="find">What is Overactive Bladder Syndrome? </b></p>
+  <p class="product_desc">You normally use the bathroom throughout the day. However, it is scary when you always want to be near a bathroom or are worried about leaking urine if you don’t go in time. Overactive Bladder or OAB syndrome affects your normal daily activities such as work, going out with friends, exercising, and sleeping.</p>
+  <p class="product_desc">An overactive bladder syndrome is a group of bladder symptoms that may include a feeling to pass urine urgently, the need to pass urine often (day and night), and urine leaks with the “gotta go” feeling. The OAB syndrome is very common and having any of these symptoms can make it hard to get through the day without going to the bathroom many times.</p>
+  <p class="product_desc">OAB syndrome is more common in women than in men. It is sometimes also referred to as detrusor instability or an irritable bladder.</p>
+  <p class="product_desc"><b class="find">What Causes Overactive Bladder Syndrome?</b></p>
+<p class="product_desc">In the case of a healthy bladder, when your bladder filters the water and is full of urine waste, your brain signals the bladder. The signals from the brain cause the bladder muscles to squeeze forcing the urine out through the urethra. The urine flows out when the sphincter in the urethra opens. The bladder is relaxed when your bladder is not full.</p>
+<p class="product_desc">For a healthy bladder, you can wait to go to the bathroom when the brain signals that your bladder is getting full or is full. OAB syndrome results from an early, uncontrolled contraction or spasms of the bladder or detrusor muscle, resulting in an urge to urinate. This problem of the nerves and muscles of the bladder causes early contraction during the normal relaxation phase of bladder filling. The contraction of the bladder in response to filling with urine is part of the normal process of urination. Our nervous system regulates the contraction and relaxation of the detrusor muscles.</p>
+<p class="product_desc">Numerous situations may result in signs and symptoms of overactive bladder, including:</p>
 <ul>
-<li><p class="product_desc">There are frequent jerks in the neck </p></li>
-<li><p class="product_desc">The neck tends to tilt in one direction</p></li>
+    <li><p class="product_desc">Neurological disorders include stroke and multiple sclerosis.</p></li>
+    <li><p class="product_desc">Diabetes.</p></li>
+    <li><p class="product_desc">Urinary tract infections have symptoms similar to overactive bladder.</p></li>
+    <li><p class="product_desc">Hormonal changes during menopause in women.</p></li>
+    <li><p class="product_desc">Abnormalities in the bladder like tumors or bladder stones.</p></li>
+    <li><p class="product_desc">Factors obstructing bladder outflow such as enlarged prostate, constipation, or previous operations to treat other forms of incontinence.</p></li>
+</ul>
+  <br>
+<br>
+<br>
+ <div class="product_header_cell product_header_img">
+ <img src="../../assets/images/overactive-bladder-syndrome.jpg" alt="Diagnostic Sonography for  Overactive Bladder">
+ <br>
+<br>
 
+<br>
+</div>
+<p class="product_desc">Some other factors may also result in symptoms including:</p>
+<ul>
+    <li><p class="product_desc">Medications cause a rapid increase in urine production.</p></li>
+    <li><p class="product_desc">Medications that require you to take lots of fluids with them.</p></li>
+    <li><p class="product_desc"><p class="product_desc">Excess consumption of caffeine or alcohol.</p></li>
+    <li><p class="product_desc">Aging results in a decline in cognitive function that may impact the brain signals to reach the bladder.</p></li>
+    <li><p class="product_desc">Difficulty walking causes bladder urgency as you're unable to get to the bathroom quickly.</p></li>
+    <li><p class="product_desc">Incomplete bladder emptying causes symptoms of overactive bladder, as you have little urine storage space left.</p></li>
+</ul>
+  <p class="product_desc"><b class="find">Symptoms of Overactive Bladder Syndrome</b></p>
+<p  class="product_desc">Experiencing occasional incontinence is not always the symptom of an overactive bladder. Leakage of urine can be caused by other reasons, like laughing too hard or you’ve been fighting the urge to urinate for an extended time.</p>
+ <p class="product_desc">The doctor would confirm an overactive bladder if you have:</p>
+<ul>
+<li><p class="product_desc"><b>Urgency:</b> If you have a sudden urgent desire to pass urine and you are not able to put off going to the toilet. This is sometimes also referred to as latch key urgency.</p></li>
+<li><p class="product_desc"><b>Frequency:</b> You visit the toilet more often than normal - usually more than eight times a day. In severe cases, it may be more than eight times a day.</p></li>
 
-<li><p class="product_desc">Physical abnormality </p></li>
-<li><p class="product_desc">The person who struggles with this problem cannot lead a normal life.</p></li>
+<li><p class="product_desc"><b>Nocturia:</b> You may wake up more than once at night to go to the toilet. </p></li>
+<li><p class="product_desc"><b>Urge incontinence:</b> This is a leaking of urine, sometimes in large amounts, before you can get to the toilet when you have a feeling of urgency.</p></li>
 
 </ul>
 
@@ -761,28 +789,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/cervical-dystonia.jpg" alt="Symptoms of Cervical Dystonia">
+ <img src="../../assets/images/overactive-bladder-syndrome1.png" alt="What is Overactive Bladder Syndrome?
+">
  <br>
 <br>
 
 <br>
 </div>
-<p class="product_desc">This disorder can occur at any age. If cervical dystonia is not taken care of at the initial stages, this disorder can be frightening. There is no evidence-based cure for it but symptomatic relief can be given. The reasons behind this are mainly nerve compression or loss of control over nerves. 
-</p>
-<p class="product_desc"><b class="find"> Different types of Dystonia</b></p>
-<p class="product_desc">Symptoms of childhood dystonia first appear in the feet and hands. After that these symptoms spread very fast to other parts of the body. In adolescence, it starts especially in the upper parts of the body and then its spread slows down. Dystonia that begins in adolescence tends to focus on a single area. Focal dystonia and segmental dystonia are two types of dystonia.
-</p>
-<ul>
-<li><p class="product_desc">Focal Dystonia affects only one part of the body  </p></li>
-<li><p class="product_desc">Segmental Dystonia affects multiple parts of the body
-</p></li>
-</ul>   
+<p class="product_desc">Sometimes, even if you can get to the toilet in time as you sense an urge to urinate, unexpected frequent urination and nighttime urination can disrupt the quality of your life.</p>
+
+  
     <br>
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/cervical-dystonia1.jpg"
-  alt="Avoid Cervical Dystonia">
+ <img src="../../assets/images/overactive-bladder-syndrome2.png"
+  alt="Common Symptoms of Overactive Bladder (OAB)">
  <br>
 <br>
 
@@ -796,32 +818,70 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <br>
       <div class="product_header_cell product_header_img">
- <img src="../../assets/images/cervical-dystonia2.jpg" alt="Prevention of Cervical Dystonia">
+ <img src="../../assets/images/overactive-bladder-syndrome3.jpg" alt="How can you Treat and Prevent Overactive Bladder Syndrome?">
 <br>
 
 <br>
 <br>
-<p class="product_desc"><b class="find">What happens in Dystonia?</b></p>
-<p class="product_desc">In this disease, our brain forgets to give the signal in order to relax the muscles. Due to this type of disrupted communication with the brain, the muscles of the affected area keep working abruptly. Because of this, the muscles that resist these movements also start working together with them.</p>
+<p class="product_desc"><b class="find"> How do Doctors confirm Overactive Bladder Syndrome?</b></p>
+<p class="product_desc">The doctor would perform a check history, physical examination, and urinalysis initially. Recommend urine culture or postvoid residual assessment, along with the use of bladder diaries or symptom questionnaires.</p>
+<p class="product_desc">The physical examination for OAB syndrome includes:</p>
+<ul>
+<li><p class="product_desc">Pulmonary and<a href="https://www.aspcares.com/speciality/cardiovascular-disease/"><b> cardiovascular evaluation</b></a> </p></li>
+<li><p class="product_desc">Abdominal examination</p></li>
+<li><p class="product_desc">Pelvic examination and rectal examination</p></li>
+<li><p class="product_desc">Neurologic examination</p></li>
+<li><p class="product_desc">Urinalysis</p></li>
+<li><p class="product_desc">Urine culture in case of infection</p></li>
+<li><p class="product_desc">Postvoid residual testing</p></li>
+<li><p class="product_desc">Cystometry</p></li>
+<li><p class="product_desc">Urodynamic study</p></li>
+</ul> 
+<p class="product_desc"><b class="find">How can you Treat and Prevent Overactive Bladder Syndrome?</b></p>
+<p class="product_desc">Overactive Bladder syndrome can be treated with various treatment options, such as:</p>
+<ul>
+    <li>
+<p class="product_desc"> <b>   Pelvic Floor Physical Therapy:</b> Physical therapists work on the muscles of the pelvis through targeted muscle exercises and strengthening. This helps in managing a variety of urinary problems, including urgency, frequency, and nighttime symptoms.</p></li>
+ <li>
+<p class="product_desc"> <b> Medication:</b> The doctor will prescribe medicines that focus on two effects: relieving symptoms and reducing episodes of the urge as well as incontinence. The medicines will include tolterodine (Detrol, Detrol LA), trospium (Sanctura), and mirabegron (Myrbetriq).</p></li>
+<p class="product_desc"> <b>    Botox:</b> Small dose of botox temporarily paralyze or weaken the bladder muscles. This helps in reducing the symptoms of OAB syndrome as it stops them from contracting too often. The effect of Botox may last six to eight months.</p></li>
+<p class="product_desc"> <b>      Nerve Stimulation:</b> This procedure involves changing the electrical signal of the nerves that carry impulses to the bladder. The electrical stimulation is provided using a small wire that is inserted into the low back or a small needle through the skin of the lower leg. This procedure helps relieve the frequency and urgency of an overactive bladder.</p></li>
+<p class="product_desc"> <b>      Surgery:</b> The surgery is recommended if the above treatments do not provide good results. Some of the surgery options include:
+    <ul>
+        <li><p class="product_desc"> <b>     Augmentation cystoplasty –</b> This procedure involves a small piece of tissue from the intestine to be added to the wall of the bladder to increase the size of the bladder. Sometimes you may need to insert a catheter into your bladder to empty it after the surgery</p></li>
+        <li><p class="product_desc"> <b>     Urinary diversion –</b> This involves the tubes from the kidneys to the bladder (the ureters) routed directly to the outside of your body. After the surgery urine does not flow into the bladder. This procedure is opted when all other options have failed to treat your OAB syndrome.
+</p></li>
+    </ul>
+</p></li>
+</ul>
 
-<p class="product_desc">In medical science, this disease is called Cervical Dystonia. In some cases, the disease passes into the newborn and may be genetic. But the surprising thing is when patients suffer from dystonia suddenly at the age of 10 or 12 years, which may be alarming. The case of dystonia is rare and cannot be neglected. Dystonia can affect any part of the body. This can drastically reduce your general abilities. Dystonia can impair general health and may also reduce the productivity of the sufferer.</p>
-<p class="product_desc"><b class="find">How is Identity Dystonia?</b> </p>
-<p class="product_desc">Dystonia is characterized by an unwanted strain on the muscles. Because of this, there are twists and repetitions in their movements or unusual gestures, which seem painful and clumsy. </p>
-<p class="product_desc"><b class="find">What is its treatment for Dystonia?</b> </p>
-<p class="product_desc">There is no cure for dystonia so far. This is due to a lack of understanding of its pathophysiology, so treatment focuses only on the symptoms. The treatment helps in reducing unwanted movements, improving abnormal gestures, and improving pain to give relief to patients.</p>
-<p class="product_desc">Although there is no exact treatment, its effects can be reduced by botulinum toxin injection. But, this injection is out of reach of a normal person. The cost of one injection is high and the dosage is once every six months for the entire life. Gradually, the effect of injection also decreases. Therefore it can be said that this disease may be incurable.</p>
+<br>
+      <div class="product_header_cell product_header_img">
+ <img src="../../assets/images/overactive-bladder-syndrome4.jpg" alt="Bladder Kidney Ureter Female">
+<br>
 
-<p class="product_desc"><b class="find">Benefits of botox</b></p>
-<p class="product_desc">Botulinum toxin (BTX) therapy involves intravenous injection of onabotulinum A, a neurotoxin compound protein derived from the bacterium Clostridium botulinum. </p>
- 
+<br>
+<br></div>
+<p class="product_desc"><b>Changes in lifestyle helps in reducing as well as preventing the symptoms of OAB syndrome.</b> </p>
+<p class="product_desc">These healthy lifestyle choices may reduce your risk of overactive bladder:
+ </p>
+ <ul>
+     <li><p class="product_desc">Maintain a healthy weight.</p></li>
+     <li><p class="product_desc">Involve in regular, daily physical activity and exercise.</p></li>
+     <li><p class="product_desc">Limiting the consumption of caffeine and alcohol.</p></li>
+     <li><p class="product_desc">Quitting smoking.</p></li>
+     <li><p class="product_desc">Managing chronic conditions, such as diabetes.</p></li>
+     <li><p class="product_desc">Strengthening the pelvic floor muscles by doing Kegel exercises.</p></li>
+ </ul>
+<p class="product_desc"><b class="find">Outlook</b> </p>
+<p class="product_desc">OAB syndrome impacts the quality of life and might even lead to depression and anxiety. A combined approach of behavioral modifications and medications you help you significantly improve bladder urgency, and the quality of life.</p>
 
-<p class="product_desc">Dystonia affects nerves negatively. Its patients often become incapable of even doing their daily activities. If not treated on time, the condition can worsen and make you dependent.</p>
-<p class="product_desc">We have given you all the information related to the treatment of different types of dystonia. </p>
-
-</p>
 
 
-<p class="product_desc">If you want to get treated for any neurological disorder, then you can opt for<b> ASP cares</b>, which ensures the best possible treatment for nerve-related problems with good expertise. </p>
+
+<p class="product_desc">If you or anyone you know is suffering from urinary problems, our expert providers at<a href="https://www.aspcares.com/"> <b> ASP cares</b></a>  will take care of your health and help you recover. 
+ </p>
+ <p class="product_desc">Call us on<a href="tel:(210)-417-4567"><b> (210)-417-4567</b></a> to<a href="https://www.aspcares.com/"><b> book an appointment</b></a> with our specialists.</p>
 <!-- 
 <p class="product_desc"><b class="find">Outlook</b></p>
 
