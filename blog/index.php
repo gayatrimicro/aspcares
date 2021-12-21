@@ -559,7 +559,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
-                                        <h2 class="product_title">Overactive Bladder Syndrom</h2>
+                                        <h2 class="product_title">Overactive Bladder Syndrome</h2>
                                         <p class="product_desc">An Overactive Bladder Syndrome is a group of bladder symptoms including the urgency to pass urine frequently. Learn about Overactive Bladder Syndrome causes and treatments.</p>
                                     
                                         <br>
