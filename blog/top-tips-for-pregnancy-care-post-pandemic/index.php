@@ -769,7 +769,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </p>
 
   <p class="product_desc"><b class="find">How to avoid these infections during pregnancy?</b></p>
-
+<br>
 <ul>
 <li><p class="product_desc">During pregnancy, women need to take extra precautions. That is why you should also try to stay away from such infections by taking care of yourself.</p></li>
 <li><p class="product_desc">Do not eat undercooked meat and stale fish.</p></li>
@@ -835,7 +835,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-<p class="product_desc">So, now embrace the healthy lifestyle to keep infections at bay. If you have tried everything to avoid infections, and still you are prone to infections and stress, reach out to us. Consult our doctors at<a href="https://postcovidcenters.com/"><b> Post Covid Centers</b></a>, who will provide you their expertise in avoiding and treating infections and stress during pregnancy.</p>
+<p class="product_desc">So, now embrace the healthy lifestyle to keep infections at bay. If you have tried everything to avoid infections, and still you are prone to infections and stress, reach out to us. Consult our doctors at<a href="https://postcovidcenters.com/" target="_blanks"><b> Post Covid Centers</b></a>, who will provide you their expertise in avoiding and treating infections and stress during pregnancy.</p>
 
 
 <!-- 
