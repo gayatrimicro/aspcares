@@ -553,6 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                            <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/pregnancy-care-post-pandemic.jpg" alt="Healthy Pregnancy" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Top Tips For Pregnancy Care Post Pandemic</h2>
+                                        <p class="product_desc">The problem of infections has become common in pregnant women who have recovered from covid-19. At Post Covid Centers, get effective care for pregnancy to protect your unborn child for a healthy future.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="top-tips-for-pregnancy-care-post-pandemic/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                           <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/overactive-bladder-syndrome.jpg" alt="Symptoms of Cervical Dystonia" />
