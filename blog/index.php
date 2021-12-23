@@ -553,6 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                              <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/take-care-post-heart-attack.jpg" alt="Healthy Heart" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">How To Take Care Post Heart Attack?</h2>
+                                        <p class="product_desc">A heart attack can occur due to stress and cause many complications. Understand the need for special care and supervision from experts to avoid the second episode of a heart attack. Contact ASP Cares Today.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="how-to-take-care-post-heart-attack/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                         
                           <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
