@@ -553,6 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                            <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/substance-use-disorder.png" alt="Criteria for Substance Abuse Disorders" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Substance Use Disorder: Behavioral Pattern, Stages, and Treatment </h2>
+                                        <p class="product_desc">Substance Use Disorder (SUD) occurs when the recurrent use of alcohol and/or drugs causes clinically impairment. Discover about its behavioral pattern and treatments.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="substance-use-disorder-and-its-treatments-that-are-proven-successful/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                               <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/take-care-post-heart-attack.jpg" alt="Healthy Heart" />
