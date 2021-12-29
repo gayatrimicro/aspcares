@@ -24,7 +24,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta property="og:title" content="Overactive Bladder Syndrome: What Is It? Causes, Symptoms, and Treatment" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://www.aspcares.com/blog/how-to-treat-and-prevent-overactive-bladder-syndrome/" />    
-    <meta property="og:image" content="https://www.aspcares.com/assets/images/cervical-dystonia.jpg" />
+    <meta property="og:image" content="https://www.aspcares.com/assets/images/overactive-bladder-syndrome.jpg" />
     <meta property="og:description" content="An Overactive Bladder Syndrome is a group of bladder symptoms including the urgency to pass urine frequently. Learn about Overactive Bladder Syndrome causes and treatments." />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="AspCares" />
