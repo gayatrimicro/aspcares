@@ -555,6 +555,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
                             <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/hiv-aids.jpg" alt="Physical or Body therapies for HIV Treatment" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Alternative Treatments for HIV </h2>
+                                        <p class="product_desc">With the side effects of medicines, it is advisable to use alternative or complementary health treatments and therapies along with side effects medical care. Visit us now</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="alternative-and-complementary-treatments-therapies-for-hiv-aids/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                            <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/substance-use-disorder.png" alt="Criteria for Substance Abuse Disorders" />
                                     </div>
                                     <!-- .product_header_cell -->
