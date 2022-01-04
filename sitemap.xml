@@ -22,16 +22,16 @@
   <lastmod>2019-11-27T12:35:26+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
+<!-- <url>
   <loc>https://www.aspcares.com/location/miami/</loc>
   <lastmod>2019-11-27T12:35:26+00:00</lastmod>
   <priority>0.80</priority>
-</url>
-<url>
+</url> -->
+<!-- <url>
   <loc>https://www.aspcares.com/location/columbia/</loc>
   <lastmod>2019-11-27T12:35:26+00:00</lastmod>
   <priority>0.80</priority>
-</url>
+</url> -->
 <url>
   <loc>https://www.aspcares.com/location/clawson/</loc>
   <lastmod>2019-11-27T12:35:26+00:00</lastmod>
@@ -72,7 +72,7 @@
   <lastmod>2019-11-27T12:35:26+00:00</lastmod>
   <priority>0.80</priority>
 </url> -->
-<url>
+<!-- <url>
   <loc>https://www.aspcares.com/location/houston/</loc>
   <lastmod>2019-11-27T12:35:26+00:00</lastmod>
   <priority>0.80</priority>
@@ -81,7 +81,7 @@
   <loc>https://www.aspcares.com/location/houston-bellfort/</loc>
   <lastmod>2019-11-27T12:35:26+00:00</lastmod>
   <priority>0.80</priority>
-</url>
+</url> -->
 <url>
   <loc>https://www.aspcares.com/location/lancaster/</loc>
   <lastmod>2019-11-27T12:35:26+00:00</lastmod>

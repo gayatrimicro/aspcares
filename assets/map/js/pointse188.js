@@ -52,14 +52,16 @@ var LocsA = [{
     html: ['<a href="location/columbia/"><h3 style="font-size:15px;color:black">Corpus Christi, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1300 3rd Street,<br>Corpus Christi, TX 78404-2108</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:361-452-8141" style="color: #1c61af;">361-452-8141</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:361-452-8151">361-452-8151</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/corpuschristi/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}, {
-    lat: 39.224883,
-    lon: -76.840884,
-    title: 'Columbia, MD',
-    html: ['<a href="location/corpuschristi/"><h3 style="font-size:15px;color:black">Columbia, MD</h3></a>', '<p style="font-size:15px;margin-bottom:5px">5500 Knoll North Dr., Ste 140<br>Columbia, MD 21045-2360<br>(Howard County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:410-964-5500" style="color: #1c61af;">410-964-5500</a>, <a href="tel:877-683-4512" style="color: #1c61af;">877-683-4512</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:410-964-5511">410-964-5511</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/columbia/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
 }, 
+// {
+   
+//     lat: 39.224883,
+//     lon: -76.840884,
+//     title: 'Columbia, MD',
+//     html: ['<a href="location/corpuschristi/"><h3 style="font-size:15px;color:black">Columbia, MD</h3></a>', '<p style="font-size:15px;margin-bottom:5px">5500 Knoll North Dr., Ste 140<br>Columbia, MD 21045-2360<br>(Howard County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:410-964-5500" style="color: #1c61af;">410-964-5500</a>, <a href="tel:877-683-4512" style="color: #1c61af;">877-683-4512</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:410-964-5511">410-964-5511</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/columbia/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 {
     lat: 32.8168038,
     lon: -96.8142746,
@@ -114,28 +116,28 @@ var LocsA = [{
 
 
 
- {
-    lat: 29.742161,
-    lon: -95.375206,
-    title: 'Houston, TX',
-    html: ['<a href="location/houston/"><h3 style="font-size:15px;color:black">Houston, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">3009 Fannin Street,<br>Houston, TX 77004</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:832-500-3565" style="color: #1c61af;">832-500-3565</a>, <a href="tel:888-724-6522" style="color: #1c61af;">888-724-6522</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:832-500-3566">832-500-3566</a>, <a style="color: #1c61af;" href="tel:888-724-9210">888-724-9210</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/houston/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-},
+//  {
+//     lat: 29.742161,
+//     lon: -95.375206,
+//     title: 'Houston, TX',
+//     html: ['<a href="location/houston/"><h3 style="font-size:15px;color:black">Houston, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">3009 Fannin Street,<br>Houston, TX 77004</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:832-500-3565" style="color: #1c61af;">832-500-3565</a>, <a href="tel:888-724-6522" style="color: #1c61af;">888-724-6522</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:832-500-3566">832-500-3566</a>, <a style="color: #1c61af;" href="tel:888-724-9210">888-724-9210</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/houston/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// },
 
 
 
 
 
 
- {
-    lat: 29.656040,
-    lon: -95.531290,
-    title: 'Houston - Bellfort',
-    html: ['<a href="location/houston-bellfort/"><h3 style="font-size:15px;color:black">Houston - Bellfort</h3></a>', '<p style="font-size:15px;margin-bottom:5px">8785 Bellfort, Ste A,<br>Houston, TX 770321 </p><a lang="en" href="location/houston-bellfort/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-}, 
+//  {
+//     lat: 29.656040,
+//     lon: -95.531290,
+//     title: 'Houston - Bellfort',
+//     html: ['<a href="location/houston-bellfort/"><h3 style="font-size:15px;color:black">Houston - Bellfort</h3></a>', '<p style="font-size:15px;margin-bottom:5px">8785 Bellfort, Ste A,<br>Houston, TX 770321 </p><a lang="en" href="location/houston-bellfort/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 // {
 //     lat: 32.603141,
 //     lon: -96.820951,
@@ -178,14 +180,15 @@ var LocsA = [{
 //     zoom: 8,
 //     icon: 'assets/images/map.svg'
 // }, 
+// {
+//     lat: 25.794744,
+//     lon: -80.239254,
+//     title: 'Miami, FL',
+//     html: ['<a href="location/miami/"><h3 style="font-size:15px;color:black">Miami, FL</h3></a>', '<p style="font-size:15px;margin-bottom:5px">2657 NW 20th Street, Miami, FL 33142-7105<br>(Miami-Dade County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(305) 856-0070" style="color: #1c61af;">(305) 856-0070</a>, <a href="tel:888-984-7155" style="color: #1c61af;">888-984-7155</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(305) 856-0072">(305) 856-0072</a>, <a style="color: #1c61af;" href="tel:305-397-2939 DOC FAX">305-397-2939 DOC FAX</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/miami/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 {
-    lat: 25.794744,
-    lon: -80.239254,
-    title: 'Miami, FL',
-    html: ['<a href="location/miami/"><h3 style="font-size:15px;color:black">Miami, FL</h3></a>', '<p style="font-size:15px;margin-bottom:5px">2657 NW 20th Street, Miami, FL 33142-7105<br>(Miami-Dade County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(305) 856-0070" style="color: #1c61af;">(305) 856-0070</a>, <a href="tel:888-984-7155" style="color: #1c61af;">888-984-7155</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(305) 856-0072">(305) 856-0072</a>, <a style="color: #1c61af;" href="tel:305-397-2939 DOC FAX">305-397-2939 DOC FAX</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/miami/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-}, {
     lat: 26.184486,
     lon: -98.207657,
     title: 'McAllen, TX',

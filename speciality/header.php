@@ -160,20 +160,20 @@
                             </li>
                                
                             <li id="menu-item-1259" class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>LOCATIONS</span></a>
-                                <ul class="sub-menu n1">
+                                <ul class="sub-menu n1"><!-- 
                                 <li id="menu-item-2883" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883">
                                         <a><span>FLORIDA</span></a>
                                         <ul>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/orlando/"><span>Orlando, FL</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/miami/"><span>Miami, FL</span></a></li>
                                         </ul>
-                                    </li>
-                                    <li id="menu-item-2884" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884">
+                                    </li> -->
+                                  <!--   <li id="menu-item-2884" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884">
                                         <a href="#"><span>MARYLAND</span></a>
                                         <ul>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/columbia/"><span>Columbia, MD</span></a></li>
                                         </ul>
-                                    </li>
+                                    </li> -->
                                     <!-- <li id="menu-item-2885" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2885">
                                         <a href="#"><span>MICHIGAN</span></a>
                                         <ul>
@@ -225,7 +225,7 @@
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/corpuschristi/"><span>Corpus Christi, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li>
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
+                                           <!--  <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li>
@@ -451,20 +451,20 @@
                                                         <option value="Astoria, NY">Astoria, NY</option>   
                                                         <option value="Austin, TX">Austin, TX</option>
                                                         <option value="Clawson, MI">Clawson, MI</option>
-                                                        <option value="Columbia, MD">Columbia, MD</option>
+                                                       <!--  <option value="Columbia, MD">Columbia, MD</option> -->
                                                         <option value="Corpus Christi, TX">Corpus Christi, TX</option>
                                                         <option value="Dickson, TN">Dickson, TN</option>
 
                                                         <option  value="El Paso, TX">El Paso, TX</option>
                                                         <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
                                                         <option value="Lancaster, TX">Lancaster, TX</option>
-                                                        <option value="Houston, TX">Houston, TX</option>
-                                                        <option value="Las Cruces, NM">Las Cruces, NM</option>
+<!--                                                         <option value="Houston, TX">Houston, TX</option>
+ -->                                                        <option value="Las Cruces, NM">Las Cruces, NM</option>
                                                         <option value="Las Vegas, NV">Las Vegas, NV</option>
                                                         <option value="Livingston, NJ">Livingston, NJ</option>
                                                         <option value="McAllen, TX">McAllen, TX</option>
-                                                        <option value="Miami, FL">Miami, FL</option>
-                                                        <option value="Oklahoma City, OK">Oklahoma City, OK</option>
+<!--                                                         <option value="Miami, FL">Miami, FL</option>
+ -->                                                        <option value="Oklahoma City, OK">Oklahoma City, OK</option>
                                                         <option value="Orlando, FL">Orlando, FL</option>
 
                                                         <option value="Pasadena, TX">Martin Luther King, TX</option>
@@ -532,7 +532,7 @@
                                                     <select class="wpcf7-text" onchange="selectPDF(this);">
                                                         <option value="pdf/QUESTION 3.pdf">El Paso, TX </option>
                                                         <option value="pdf/QUESTION 4.pdf">San Antonio, TX</option>
-                                                        <option value="pdf/QUESTION 5.pdf">Miami, FL</option>
+                                                      <!--   <option value="pdf/QUESTION 5.pdf">Miami, FL</option> -->
                                                         <option value="pdf/QUESTION 6.pdf">Tyler, TX</option>
                                                         <option value="pdf/QUESTION 7.pdf">San Antonio, TX </option>
 
@@ -1038,10 +1038,10 @@
                     var selectlocation = "San Antonio, TX";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("miami") == true){
-                    document.getElementById("selectlocation").value = "Miami, FL";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("miami") == true){
+//                     document.getElementById("selectlocation").value = "Miami, FL";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("orlando") == true){
                     document.getElementById("selectlocation").value = "Orlando, FL";
 document.getElementById("selectlocation").disabled = true;
@@ -1050,10 +1050,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "Clawson, MI";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("columbia") == true){
-                    document.getElementById("selectlocation").value = "Columbia, MD";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("columbia") == true){
+//                     document.getElementById("selectlocation").value = "Columbia, MD";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("livingston") == true){
                     document.getElementById("selectlocation").value = "Livingston, NJ";
 document.getElementById("selectlocation").disabled = true;
@@ -1098,10 +1098,10 @@ document.getElementById("selectlocation").disabled = true;
 //                     document.getElementById("selectlocation").value = "Farmers Branch, TX";
 // document.getElementById("selectlocation").disabled = true;
 //                 }
-                else if(location.includes("houston") == true){
-                    document.getElementById("selectlocation").value = "Houston, TX";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("houston") == true){
+//                     document.getElementById("selectlocation").value = "Houston, TX";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("macallen") == true){
                     document.getElementById("selectlocation").value = "McAllen, TX";
 document.getElementById("selectlocation").disabled = true;

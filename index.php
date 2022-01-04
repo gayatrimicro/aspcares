@@ -343,19 +343,19 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 </li>
 <li id=menu-item-1259 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>LOCATIONS</span></a>
 <ul class="sub-menu n1">
-<li id=menu-item-2883 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883">
+<!-- <li id=menu-item-2883 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883">
 <a><span>Florida</span></a>
 <ul class=sub-menu-inner>
-<!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/orlando/"><span>Orlando, FL</span></a></li> -->
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/orlando/"><span>Orlando, FL</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/miami/"><span>Miami, FL</span></a></li>
 </ul>
-</li>
-<li id=menu-item-2884 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884">
+</li> -->
+<!-- <li id=menu-item-2884 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884">
 <a href="#"><span>Maryland</span></a>
 <ul class=sub-menu-inner>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/columbia/"><span>Columbia, MD</span></a></li>
 </ul>
-</li>
+</li> -->
 <!-- <li id=menu-item-2885 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2885">
 <a href="#"><span>Michigan</span></a>
 <ul class=sub-menu-inner>
@@ -409,8 +409,8 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/harlingen/"><span>Harlingen, TX</span></a></li> -->
-<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston-bellfort/"><span>Houston - Bellfort</span></a></li>
+<!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston-bellfort/"><span>Houston - Bellfort</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li> -->
@@ -579,19 +579,19 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <option value="Astoria, NY">Astoria, NY</option>
 <option value="Austin, TX">Austin, TX</option>
 <!-- <option value="Clawson, MI">Clawson, MI</option> -->
-<option value="Columbia, MD">Columbia, MD</option>
-<option value="Corpus Christi, TX">Corpus Christi, TX</option>
+<!-- <option value="Columbia, MD">Columbia, MD</option>
+ --><option value="Corpus Christi, TX">Corpus Christi, TX</option>
 <!-- <option value="Dickson, TN">Dickson, TN</option> -->
 <!-- <option value="El Paso, TX">El Paso, TX</option> -->
 <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
 <option value="Dallas, TX">Dallas, TX</option>
-<option value="Houston, TX">Houston, TX</option>
-<!-- <option value="Las Cruces, NM">Las Cruces, NM</option> -->
+<!-- <option value="Houston, TX">Houston, TX</option>
+ --><!-- <option value="Las Cruces, NM">Las Cruces, NM</option> -->
 <option value="Las Vegas, NV">Las Vegas, NV</option>
 <option value="Las Vegas, MLK, NV">Las Vegas, MLK, NV</option>
 <!-- <option value="Livingston, NJ">Livingston, NJ</option> -->
 <option value="McAllen, TX">McAllen, TX</option>
-<option value="Miami, FL">Miami, FL</option>
+<!-- <option value="Miami, FL">Miami, FL</option> -->
 <option value="Oklahoma City, OK">Oklahoma City, OK</option>
 <!-- <option value="Orlando, FL">Orlando, FL</option> -->
 <option value="Pasadena, TX">Pasadena, TX</option>
@@ -979,10 +979,10 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 jQuery('[data-popup-open]').on('click',function(e){var targeted_popup_class=jQuery(this).attr('data-popup-open');jQuery('[data-popup="'+targeted_popup_class+'"]').fadeIn(350);e.preventDefault();});jQuery('[data-popup-close]').on('click',function(e){var targeted_popup_class=jQuery(this).attr('data-popup-close');jQuery('[data-popup="'+targeted_popup_class+'"]').fadeOut(350);e.preventDefault();});});</script>
 <script type="text/javascript">jQuery(document).ready(function($){var location=window.location.href;if(location.includes("503bfacility")==true)
 {document.getElementById("selectlocation").value="503B Facility";var selectlocation="San Antonio, TX";document.getElementById("selectlocation").disabled=true;}
-else if(location.includes("miami")==true){document.getElementById("selectlocation").value="Miami, FL";document.getElementById("selectlocation").disabled=true;}
+// else if(location.includes("miami")==true){document.getElementById("selectlocation").value="Miami, FL";document.getElementById("selectlocation").disabled=true;}
 // else if(location.includes("orlando")==true){document.getElementById("selectlocation").value="Orlando, FL";document.getElementById("selectlocation").disabled=true;}
 // else if(location.includes("clawson")==true){document.getElementById("selectlocation").value="Clawson, MI";document.getElementById("selectlocation").disabled=true;}
-else if(location.includes("columbia")==true){document.getElementById("selectlocation").value="Columbia, MD";document.getElementById("selectlocation").disabled=true;}
+// else if(location.includes("columbia")==true){document.getElementById("selectlocation").value="Columbia, MD";document.getElementById("selectlocation").disabled=true;}
 // else if(location.includes("livingston")==true){document.getElementById("selectlocation").value="Livingston, NJ";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("albuquerque")==true){document.getElementById("selectlocation").value="Albuquerque, NM";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("lascruces")==true){document.getElementById("selectlocation").value="Las Cruces, NM";document.getElementById("selectlocation").disabled=true;}
@@ -995,7 +995,7 @@ else if(location.includes("austin")==true){document.getElementById("selectlocati
 else if(location.includes("corpuschristi")==true){document.getElementById("selectlocation").value="Corpus Christi, TX";document.getElementById("selectlocation").disabled=true;}
 // else if(location.includes("el-Paso")==true){document.getElementById("selectlocation").value="El Paso, TX";document.getElementById("selectlocation").disabled=true;}
 // else if(location.includes("farmers")==true){document.getElementById("selectlocation").value="Farmers Branch, TX";document.getElementById("selectlocation").disabled=true;}
-else if(location.includes("houston")==true){document.getElementById("selectlocation").value="Houston, TX";document.getElementById("selectlocation").disabled=true;}
+// else if(location.includes("houston")==true){document.getElementById("selectlocation").value="Houston, TX";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("macallen")==true){document.getElementById("selectlocation").value="McAllen, TX";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("pasadena")==true){document.getElementById("selectlocation").value="Pasadena, TX";document.getElementById("selectlocation").disabled=true;}
 // else if(location.includes("sanantonio")==true){document.getElementById("selectlocation").value="San Antonio, TX";document.getElementById("selectlocation").disabled=true;}
@@ -1048,12 +1048,12 @@ else if(document.getElementById("agree2").checked==true){console.log("text");var
 else if(document.getElementById("agree3").checked==true){console.log("email");var agree="Email me";}
 // var location=window.location.href;if(location.includes("orlando")==true)
 // {var pagelocation="Orlando, FL";console.log("",pagelocation);}
-if(location.includes("columbia")==true)
-{var pagelocation="Columbia, MD";console.log("",pagelocation);}
+// if(location.includes("columbia")==true)
+// {var pagelocation="Columbia, MD";console.log("",pagelocation);}
 // else if(location.includes("clawson")==true)
 // {var pagelocation="Clawson, MI";console.log("",pagelocation);}
-else if(location.includes("miami")==true)
-{var pagelocation="Miami, FL";console.log("",pagelocation);}
+// else if(location.includes("miami")==true)
+// {var pagelocation="Miami, FL";console.log("",pagelocation);}
 else if(location.includes("lasvegas")==true)
 {var pagelocation="Las Vegas, NV";console.log("",pagelocation);}
 else if(location.includes("lasvegas-mlk")==true)
@@ -1078,8 +1078,8 @@ else if(location.includes("corpuschristi")==true)
 // {var pagelocation="El Paso, TX";console.log("",pagelocation);}
 // else if(location.includes("farmers")==true)
 // {var pagelocation="Farmers Branch, TX";console.log("",pagelocation);}
-else if(location.includes("houston")==true)
-{var pagelocation="Houston";console.log("",pagelocation);}
+// else if(location.includes("houston")==true)
+// {var pagelocation="Houston";console.log("",pagelocation);}
 // else if(location.includes("lancaster")==true)
 // {var pagelocation="Lancaster, TX";console.log("",pagelocation);}
 else if(location.includes("macallen")==true)

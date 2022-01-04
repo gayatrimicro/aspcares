@@ -365,8 +365,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="wrap">
                            <br><br>
-                        <h1>Miami</h1>
-                        <ul class="online_shop_list">
+<!--                         <h1>Miami</h1>
+ -->                        <ul class="online_shop_list">
                             <!-- <li class="online_shop_item">
                                 <a href="https://accreditnet2.urac.org//uracportal/Directory/CompanyView/7606" target="_blank" rel="nofollow">
                                     <img src="../assets/images/logo3.jpg" alt="ASP Cares" />
@@ -382,7 +382,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <img src="../assets/images/logo11.jpg" alt="ASP Cares" />
                                 </a>
                             </li> -->
-                            <li class="online_shop_item">
+                           <!--  <li class="online_shop_item">
                                 <a href="https://www.achc.org/" target="_blank" rel="nofollow">
                                     <img src="../assets/images/logo1.jpg" alt="ASP Cares" />
                                 </a>
@@ -391,10 +391,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <a href="https://nabp.pharmacy/programs/verified-pharmacy-program/" target="_blank" rel="nofollow">
                                     <img src="../assets/images/logo11.jpg" alt="ASP Cares" />
                                 </a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
-                    <div class="wrap">
+              <!--       <div class="wrap">
                            <br><br>
                         <h1>Houston</h1>
                         <ul class="online_shop_list">
@@ -404,7 +404,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </a>
                             </li>
                         </ul>
-                    </div>
+                    </div> -->
 
                      <?php
                        include "../testimonials.php"
