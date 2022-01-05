@@ -29,14 +29,14 @@ var LocsA = [{
 //     icon: 'assets/images/map.svg'
 // }, 
 
-{
-    lat: 30.466492,
-    lon: -97.795007,
-    title: 'Austin, TX',
-    html: ['<a href="location/austin/"><h3 style="font-size:15px;color:black">Austin, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">13831 US Highway 183<br>Austin, TX 78750</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:512-649-5425" style="color: #1c61af;">512-649-5425</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:512-649-5436">512-649-5436</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/austin/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-}, 
+// {
+//     lat: 30.466492,
+//     lon: -97.795007,
+//     title: 'Austin, TX',
+//     html: ['<a href="location/austin/"><h3 style="font-size:15px;color:black">Austin, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">13831 US Highway 183<br>Austin, TX 78750</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:512-649-5425" style="color: #1c61af;">512-649-5425</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:512-649-5436">512-649-5436</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/austin/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 // {
 //     lat: 42.533870,
 //     lon: -83.155111,

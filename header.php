@@ -574,7 +574,7 @@ a{
                                     <li id="menu-item-2889" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2885">
                                         <a href="#"><span>Texas</span></a>
                                         <ul class="sub-menu-inner">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/austin/"><span>Austin, TX</span></a></li>
+                                       <!--      <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/austin/"><span>Austin, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/corpuschristi/"><span>Corpus Christi, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/dallas/"><span>Dallas, TX</span></a></li>
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li> -->
@@ -938,7 +938,7 @@ a{
                                                         <option value="503B Facility">503B Facility</option>
                                                         <!-- <option value="Albuquerque, NM">Albuquerque, NM</option> -->
                                                         <option value="Astoria, NY">Astoria, NY</option>   
-                                                        <option value="Austin, TX">Austin, TX</option>
+                                                    <!--     <option value="Austin, TX">Austin, TX</option> -->
                                                         <!-- <option value="Clawson, MI">Clawson, MI</option> -->
                                                        <!--  <option value="Columbia, MD">Columbia, MD</option> -->
                                                         <option value="Corpus Christi, TX">Corpus Christi, TX</option>
@@ -1578,10 +1578,10 @@ document.getElementById("selectlocation").disabled = true;
 //                     document.getElementById("selectlocation").value = "Dickson, TN";
 // document.getElementById("selectlocation").disabled = true;
 //                 }
-                else if(location.includes("austin") == true){
-                    document.getElementById("selectlocation").value = "Austin, TX";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("austin") == true){
+//                     document.getElementById("selectlocation").value = "Austin, TX";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("corpuschristi") == true){
                     document.getElementById("selectlocation").value = "Corpus Christi, TX";
 document.getElementById("selectlocation").disabled = true;
@@ -1931,11 +1931,11 @@ document.getElementById("asksuccess").style.display = "block";
                     //     var pagelocation = "Dickson, TN";
                     //     console.log("",pagelocation);
                     // }
-                    else if(location.includes("austin") == true)
-                    {
-                        var pagelocation = "Austin, TX";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("austin") == true)
+                    // {
+                    //     var pagelocation = "Austin, TX";
+                    //     console.log("",pagelocation);
+                    // }
                     else if(location.includes("corpuschristi") == true)
                     {
                         var pagelocation = "Corpus Christi, TX";
