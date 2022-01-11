@@ -16,21 +16,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta charset="utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-    <title>Alternative Treatments for HIV | Complementary Therapies for HIV and AIDS
+    <title>Medications to Treat Various Cardiovascular Diseases
 </title>
     <meta name="author" content="Daniella Johnson"> 
-    <meta name="description" content="With the side effects of medicines, it is advisable to use alternative or complementary health treatments and therapies along with side effects medical care. Visit us now">
+    <meta name="description" content="Medicines can help keep your symptoms under control, and also helps to prevent or treat a heart condition. Find out what these medicines are, how they should be taken">
     <!-- Open Graph data -->
-    <meta property="og:title" content="Alternative Treatments for HIV | Complementary Therapies for HIV and AIDS" />
+    <meta property="og:title" content="Medications to Treat Various Cardiovascular Diseases" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.aspcares.com/blog/alternative-and-complementary-treatments-therapies-for-hiv-aids/" />    
-    <meta property="og:image" content="https://www.aspcares.com/assets/images/hiv-aids.jpg" />
-    <meta property="og:description" content="With the side effects of medicines, it is advisable to use alternative or complementary health treatments and therapies along with side effects medical care. Visit us now" />
+    <meta property="og:url" content="https://www.aspcares.com/blog/common-medications-to-treat-cardiovascular-diseases/" />    
+    <meta property="og:image" content="https://www.aspcares.com/assets/images/cardiovascular-diseases.jpg" />
+    <meta property="og:description" content="Medicines can help keep your symptoms under control, and also helps to prevent or treat a heart condition. Find out what these medicines are, how they should be taken" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="AspCares" />
-    <meta name="twitter:title" content="Alternative Treatments for HIV | Complementary Therapies for HIV and AIDS" />
-    <meta name="twitter:description" content="With the side effects of medicines, it is advisable to use alternative or complementary health treatments and therapies along with side effects medical care. Visit us now" />
-    <link rel="canonical" href="https://www.aspcares.com/blog/alternative-and-complementary-treatments-therapies-for-hiv-aids/" />
+    <meta name="twitter:title" content="Medications to Treat Various Cardiovascular Diseases" />
+    <meta name="twitter:description" content="Medicines can help keep your symptoms under control, and also helps to prevent or treat a heart condition. Find out what these medicines are, how they should be taken" />
+    <link rel="canonical" href="https://www.aspcares.com/blog/common-medications-to-treat-cardiovascular-diseases/" />
     <meta name="twitter:card" content="summary" />
     
     <link rel="alternate" href="" hreflang="en-us" />
@@ -685,7 +685,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <ul class="breadcrumb">
                                     <li><a href="https://aspcares.com/">Home</a></li>
                                     <!--  <li><a href="https://www.aspcares.com/blog/">Blogs</a></li> -->
-                                    <li>Alternative Treatment for HIV
+                                    <li> Cardiac Medicines
 
 
 </li>
@@ -700,7 +700,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </ul>
                             </div> -->
 
-                            <h1 lang="en" class="article_title find">Alternative Treatment for HIV
+                            <h1 lang="en" class="article_title find"> Cardiac Medicines
 </h1>
                             <div class="article_social">
                                 <nav class="footer_sns_wrap">
@@ -742,110 +742,105 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
   </style>
   
-  <p class="product_desc"><b class="find">Alternative Treatments for HIV: Coping with the Effect of Medication</b> </p>
-  <p class="product_desc"><a href="https://www.aspcares.com/speciality/hiv-aids/"><b> HIV</b></a> is a pandemic that is affecting us for four decades. HIV medicines provide a chance to live longer, healthier lives and reduce the risk of HIV transmission. But, these medicines can sometimes cause side effects. The side effects of HIV medicines can be easily manageable, but a few can be serious.</p>
-  <p class="product_desc">Generally, the benefits of HIV medicines outweigh the risk of side effects. Additionally, fresher HIV medicines cause fewer side effects than medicines used in the past. With advancements in<a href="https://www.aspcares.com/blog/hiv-treatment-plan/"><b> HIV treatment</b></a>, people are less likely to have side effects from HIV medicines.</p>
+  <p class="product_desc"><b class="find">Medications to Treat Various Cardiovascular Diseases
+</b> </p>
+  <p class="product_desc">Millions of people in the United States take some kind of heart medicine. People require various cardiac medicines to strengthen their hearts, lower cholesterol, prevent blood clots, or stabilize heart rhythms. The cardiac medicines are usually life-giving and powerful. A small drop in your blood pressure reading can reduce your risk of having a heart attack.</p>
+  <p class="product_desc"><a href="https://www.aspcares.com/speciality/cardiovascular-disease/"> <b>Heart disease</b></a> is caused when the blood vessels of the heart are damaged due to blockage or are diseased. Fatty acid gets deposited in the blood vessels known as plaque that leads to blood clots or blockage of the vessels. These can lead to serious heart problems like heart attack, heart rhythm problems, or congestive heart failure. Treating heart disease is important as it can lead to failure of the heart ultimately leading to death.</p>
+  <p class="product_desc">Treatment of heart disease involves lifestyle changes including exercise, food habits, and daily routine along with medication to treat the blockage or damage.
+</p>
    <br>
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/hiv-aids.jpg" alt="Physical or Body therapies for HIV Treatment">
+ <img src="../../assets/images/cardiovascular-disease.jpg" alt="Common medication for cardiac diseases">
  <br>
 <br>
 
 <br>
 </div>
  
-<p class="product_desc"><b class="find">Do all HIV medicines cause the same side effects?</b></p>
-<p class="product_desc">The side effects from HIV medicines usually last only a few days or weeks. The side effects commonly include nausea, fatigue, and trouble sleeping. These are usually some short-term side effects of HIV medicines.</p>
-<p class="product_desc">But, some of the other side effects from HIV medicines can lead to problems that may not appear for months or years after starting a medicine. These may include, high cholesterol which is a risk factor for heart disease. Developing another medical condition or taking other medicines can increase the risk of side effects from HIV medicines. The drug-drug interactions between HIV medicines or with other medicines a person is taking can also cause side effects.</p>
+<p class="product_desc">Common medication for cardiac diseases:</p>
+    <ul>
+        <li>
+<p class="product_desc"><b> Beta Blockers –</b> These are helpful to treat heart attack, heart failure, some arrhythmias, and angina pain. In a stressful situation, the beta-blockers block the effect of adrenaline. They are also effective in the treatment of high blood pressure as they lower the heart rate and reduce the strength of heart muscle contraction. These medicines help improve blood flow to the heart, reduce chest pain, and prevent more damage to the heart. Common beta-blockers used are atenolol (Tenormin), propranolol (Inderal), metoprolol (Betaloc), bisoprolol (Cardicor), and sotalol (Betapace).
+<br><br>
+There are various risks involved in taking beta-blockers like they may make it difficult for people with diabetes to recognize signs of low blood sugar like a rapid heartbeat. The beta-blocker should not be stopped abruptly as it increases the risk of heart problems. The doctor will stop the beta-blockers gradually.</p></li>
+<li><p class="product_desc"><b> Anti-coagulant or blood thinners –</b> Plaque formation is the main problem with heart diseases. These help in the prevention of coagulation of blood thus prolonging the clotting time, thus preventing the formation of blood clots. Due to delayed clotting time, the blood does not form clots in the vessels. Some anticoagulants prevent the body from making clotting factors. The anticoagulants do not break the existing clots but prevent their formation. Common anti-coagulant used is warfarin, heparin, dabigatran, rivaroxaban, and apixaban. Some herbs that contain salicylate (cinnamon, cayenne pepper, dill, ginger, turmeric, and thyme) also help in blood thinning.</p></li>
+<li><p class="product_desc"><b>   Calcium channel blockers –</b> Calcium is essential for the movement of all muscles, including the heart. These help in regulating the amount of calcium in blood vessels and muscles of the heart. Thus, reducing the blood pressure and relaxing the vessels. Calcium regulation makes the heartbeat less force and relaxes the muscles of the heart. Calcium channel blockers are used to treat high blood pressure, chest pain (angina) caused by the reduced blood supply to the heart muscle, and some arrhythmias (abnormal heart rhythms). Common medicines for calcium regulation are - amlodipine (Norvasc), diltiazem (Cardizem), and nifedipine (Procardia).</p></li>
+
 
     <br>
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/hiv-aids1.jpg"  
- alt="Aromatherapy for HIV Treatment">
+ <img src="../../assets/images/cardiovascular-disease1.jpg"  
+ alt="A Doctor Prescribes How Medicines are taken.">
  <br>
 <br>
 
 <br>
 </div>
 
-<p class="product_desc"><b class="find">What are the Alternative treatments for HIV?</b></p>
-<p class="product_desc">With side effects of medicines, many people use alternative or complementary health treatments along with side effects medical care. These therapies are usually used alongside the more standard medical care you receive.</p>
-<p class="product_desc">Along with medicines many people with<a href="https://www.aspcares.com/blog/10-things-you-should-know-about-prep-and-hiv/"><b> HIV or AIDS</b></a> use complementary and alternative medicine (CAM) in combination with traditional medical treatments. This helps to improve their health and well-being and can relieve some symptoms of HIV infection or AIDS. However, these treatments are not proven to treat or cure HIV or AIDS.</p>
-<p class="product_desc">Common complementary therapies include:</p>
 <ul>
-    <li><p class="product_desc">Physical therapies include yoga, massage, and acupuncture.</p></li>
- <li><p class="product_desc">Relaxation techniques include meditation and visualization.</p></li>
- <li><p class="product_desc">Herbal medicines are derived from plants.</p></li>
+<li><p class="product_desc"><b>   Lowering Cholesterol –</b> High Level of cholesterol causes the plaque to built-up which leads to narrowed or blocked blood vessels. The blocked blood vessels or narrowing can cause heart attack, stroke, or other serious problems. Plaque deposition leads to serious heart problems like stroke or heart attack. Statins are the most commonly used medicine to Lower “Bad” cholesterol or LDL and increase the amount of “Good” cholesterol or HDL. It is available under brand names like Lipitor, Zocor, and Crestor.</p></li>
 </ul>
 
  <br>
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/hiv-aids2.jpg"  
- alt="HIV Drug Side Effects">
+ <img src="../../assets/images/cardiovascular-disease2.png"  
+ alt="Heart Disease and Risks Factors">
  <br>
 <br>
 
 <br>
 </div>
-<p class="product_desc">In the effects medical case of complementary therapies, your health is looked at from a holistic point of view. Consider your body as working as one big system, from a holistic viewpoint, everything you do – like food to being stressed - affects your health and well-being.</p>
- <p class="product_desc"><b class="find">How do Alternate Therapies Work?</b></p>
-<p  class="product_desc">These therapies are proven to make immune systems stronger and to make healthy people feel better in general. People suffering from HIV might use these therapies to help deal with symptoms of the disease or side effects from the medicines that treat the disease.</p>
 
 
 <bR><br>
-  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/hiv-aids4.jpg" alt="7 Coping Mechanisms Tips">
-<br>
-
-</div>
+ 
    </div>
 
 
 <br>
       <div class="product_header_cell product_header_img">
- <img src="../../assets/images/hiv-aids3.jpg" alt="Acupuncture for HIV Treatment">
+ <img src="../../assets/images/cardiovascular-disease4.jpg" alt="Cardiovascular Diseases">
 <br>
 
 <br>
 <br>
-<p  class="product_desc">These complementary therapies provide positive results, but, some of the common CAM treatments are proven to improve the symptoms of HIV and related illnesses. Sometimes, these treatments might be worth a try for someone with HIV infection or AIDS. Some of the complementary treatments include:</p>
 <ul>
-    <li><p class="product_desc"><b>Physical or Body therapies -</b> These therapies include various activities such as yoga, massage, and aromatherapy that focus on promoting healing and well-being. Some of the various therapies  </p>
-
-        <ul>
-            <li><p  class="product_desc"><b>Yoga and massage therapy:</b> This may help reduce pain, along with improving feelings of overall health and reduce anxiety and depression. These have also been shown to improve levels of CD4 cells, which are immune cells that are attacked by HIV. Yoga includes breathing exercises, stretching and strengthening poses, and meditation. Massage therapy helps to deal with the stress and side effects that go along with having an illness, including HIV.</p></li>
-            <li><p  class="product_desc"><b>Acupuncture:</b> This may help reduce nausea and other treatment side effects. Acupuncture involves placing thin, solid needles into various pressure points on the body according to ancient Chinese medical practice. This also helps relieve symptoms of HIV and side effects from the medicine, like fatigue and nausea as well as release chemicals in the body that can help relieve pain.</p></li>
-            <li><p  class="product_desc"><b>Aromatherapy:</b> This is based on the theory that smells can change the way you feel. The old extracted from plants are used in aromatherapy, and they can be inhaled (breathed in) or used in baths or massages. Aromatherapy helps to deal with stress or to help with fatigue. Sometimes, the oils used in aromatherapy can be very strong and even harmful.</p></li>
-        </ul></li>
-     <li><p class="product_desc"> <b>Relaxation Therapies -</b> Therapies, such as meditation and visualization, focus on mind and imagination can promote overall health and well-being. In this section, you can read about some examples of how you can use relaxation therapies to reduce stress and relax.</p>
-        <ul>
-            <li><p class="product_desc"><b>Meditation:</b> This is a method of concentration that allows your mind and body to become very relaxed. Meditation increases the level of focus and is quiet for HIV patients. Meditation involves deep breathing and paying attention to your body and mind. People with HIV undergo mental turmoil and can use meditation to relax. Meditation helps them to cope up with the stress that comes with any illness. Meditation can help you to calm down and focus if you are feeling overwhelmed.</p></li>
-            <li><p class="product_desc"><b>Visualization:</b> This method helps people feel more relaxed and less anxious. HIV patients who use visualization imagine that they are in a safe, relaxing place. Focusing on a safe, comfortable place can help HIV people feel less stress, and even lessen the pain or side effects from HIV or the medicines you are taking.</p></li>
-        </ul>
-            <li><p class="product_desc"><b> Herbal medicine -</b> A brief course of various herbs may support immunity in people with HIV. Milk thistle is used to improve liver function and does not interact significantly with antivirals. It is important to consult the healthcare provider as herbs may interact with conventional HIV treatments. This would allow the healthcare provider to monitor for any drug interactions or side effects.</p></li>
-            <li><p class="product_desc"><b> Medical marijuana -</b> Loss of appetite is common among people with HIV. Some of the antiviral medications can upset the stomach and make it harder to keep up with scheduled medication doses. Alternatively, medical marijuana can help reduce pain, control nausea, and increase appetite. But, medical marijuana is legal only in certain states.</p></li>
-            <li><p class="product_desc"><b>  Supplements –</b> People with HIV need supplements to reduce the side-effects of HIV medicines, which include:</p>
-                <ul>
-      <li><p class="product_desc">Calcium and vitamin D helps improve bone health.</p></li>
-      <li><p class="product_desc">Fish oil helps reduce cholesterol.</p></li>
-      <li><p class="product_desc">Selenium helps to slow the progression of HIV.</p></li>
-      <li><p class="product_desc">Vitamin B-12 helps improve the health of pregnant women.</p></li>
-      <li><p class="product_desc">Whey or soy protein helps with weight gain.</p></li>
-                </ul>
-            </li>
-
-            
-       
-     </li>
+    <li>
+        <p class="product_desc"> <b>  ACE inhibitors -</b> Angiotensin-converting enzyme reduces the artery-constricting hormone angiotensin. ACE inhibitors help in relaxing the arteries and controlling blood pressure. These help in keeping the blood vessels open and prevent narrowing or constriction of the arteries. These are given to patients with recent heart attacks, congestive heart failure, or hypertension. These are available under the brand name Prinivil and Accupril.</p></li>
+        <li>
+        <p class="product_desc"> <b>  Vasodilators –</b> These help in relaxing the blood vessels and prevent the blood pressure to fall. They also help in increasing the supply of oxygen-rich blood to the heart. Often used for the treatment of high blood pressure, heart failure, angina, and heart attacks. Also known as nitrates. Commonly used vasodilators are isosorbide, dinitrate, and hydralazine.</p></li>
+  <li> <p class="product_desc"> <b>     Diuretics –</b> It helps in reducing the excess fluid and sodium in the body thus reducing the load on the heart. It also decreases the fluid deposition in the lungs as well as other parts of the body. Doctors usually prescribe diuretics to control blood pressure and reduce swelling in the body. Commonly available under the medical name as amiloride, chlorothiazide, Lasix, Lozol, and Aldactone.</p></li>
+  <li> <p class="product_desc"> <b>   Digitalis –</b> This is a combination of diuretics and ACE inhibitors. It helps in increasing the amount of calcium required by the cells of the heart, thus increasing the amount of blood pumped by the heart. These also work by slowing certain electrical signals sent within the heart. Commonly used for heart failure or atrial fibrillation. Available under brand name digoxin (Lanoxin).
+</p></li>
 </ul>
+<p  class="product_desc"><b class="find">How are medicines taken?</b></p>
+<p class="product_desc">Heart medicines come in many shapes and sizes.</p>
+<ul>
+    <li><p class="product_desc"><b>By mouth or orally:</b> Major heart medicines are taken orally such as tablets, capsules, or liquids, which you swallow or take dissolved in water. </p>
+</li>
+     <li><p class="product_desc"> <b>Under your tongue or sublingually:</b> The tablet is put under your tongue and allowed to dissolve, or you spray the medicine directly under your tongue.</p>
+   
+            <li><p class="product_desc"><b>Into the vein or intravenously:</b> The heart medication is injected directly into a vein, or given in a diluted form through an intravenous drip.</p></li>
+            <li><p class="product_desc"><b> Into the muscle or intramuscularly:</b> The heart medication is injected into the muscle, like the buttock or thigh.</p></li>
+            <li><p class="product_desc"><b>Under the skin or subcutaneously:</b> It is given by an injection just under the skin.</p> </li>
+            <li><p class="product_desc"><b>Self-adhesive patch:</b> These are put as a patch containing the medicine on your skin, and the medicine is absorbed gradually.</p> </li>
+            <li><p class="product_desc"><b>Aerosol spray:</b> You spray the medicine under your tongue.</p> </li>
 
- 
+</ul>
+<bR>    <br>
+ <div class="product_header_cell product_header_img">
+ <img src="../../assets/images/cardiovascular-disease3.jpg" alt="Heart Health Care Tips">
+<br>
+
+</div>
+<bR>
+ <p class="product_desc">The medication for heart disease makes a huge difference in the health of the heart and the condition of the patient. It is important to make lifestyle changes to prevent heart diseases from occurring again as well as strengthen the heart. The medications are available at leading online pharmacies and delivered to the patient’s doorstep.</p>
 
 
 
@@ -854,20 +849,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <p class="product_desc"><b class="find">Outlook</b></p>
 
-<p class="product_desc"><a href="https://www.aspcares.com/blog/understanding-hiv-medications/"><b> HIV and AIDS medication</b></a> can cause various side effects, and some alternative treatments could help provide relief. But, people with HIV should talk to the healthcare provider before considering alternative treatment options. Alternate or complementary therapies can help reduce any potential drug interactions and perhaps suggest other options that could help reduce symptoms. These include physical therapies such as yoga and acupuncture, relaxation techniques such as meditation, and herbal medicines.</p>
+<p class="product_desc">All heart medicines may cause side effects. But, these are usually temporary and disappear after a short time. You should contact your consultant if you’re experiencing side effects. The consultant might adjust the dosage or prescribe a different medication to improve the side effects you’re experiencing. The cardiac medicines can help keep your symptoms under control and prevent or treat a heart condition.</p>
 <br>
 <p class="product_desc"><b class="find">People Also Read:
 </b></p>
 <ul>
     <li>
-<p class="product_desc"><a href="https://www.aspcares.com/blog/hiv-treatment-and-prevention/"><b>HIV Treatment and Prevention</b></a></p></li>
+<p class="product_desc"><a href="https://www.aspcares.com/blog/how-to-take-care-post-heart-attack/"><b>How To Take Care Post Heart Attack?</b></a></p></li>
  <li>
-<p class="product_desc"><a href="https://www.aspcares.com/blog/understanding-hiv-medications/"><b>Understanding HIV Medications</b></a></p></li>
+<p class="product_desc"><a href="https://www.aspcares.com/blog/know-about-medicare-insurance-and-types-of-insurance-benefits/"><b>Know About Health Care Insurance Plans</b></a></p></li>
 </ul>
-<!-- 
-<p class="product_desc">If you or anyone you know is suffering from addiction management, our expert providers at <a href="https://www.aspcares.com/"><b>ASP Cares</b></a>  will take care of your health and help you recover. </p>
+
+<p class="product_desc">If you or anyone you know is suffering from cardiovascular disease, our expert providers at  <a href="https://www.aspcares.com/"><b>ASP Cares</b></a>  will take care of your health and help you recover. </p>
 <p class="product_desc">Call us on <a href="tel:2104174567"><b>(210)-417-4567</b></a> to <a href="https://www.aspcares.com/"><b>book an appointment</b></a> with our specialists.</p>
- -->
+
 
 
 
