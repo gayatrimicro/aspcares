@@ -553,6 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                                <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/pain-relievers.jpg" alt="Common medication for cardiac diseases" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Pain Management: Types and Treatment, Risks & Complications </h2>
+                                        <p class="product_desc">Pain medicine is available in many forms. Pain management strategies include pain medicines, physical therapies. Learn more about various types of pain and pain relievers.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="pain-relievers-types-what-they-treat-risks-and-complications/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                             <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/cardiovascular-disease.jpg" alt="Common medication for cardiac diseases" />
