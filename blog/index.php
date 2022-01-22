@@ -553,6 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                               <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/prostate-cancer.jpg" alt="What is Prostate Cancer?" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Prostate Cancer </h2>
+                                        <p class="product_desc">Prostate cancer is cancer of the prostate gland. When cancer starts in the prostate, it is called prostate cancer. Discover its risks, symptoms, and treatments.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="prostate-cancer-risks-causes-symptoms-and-treatments/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                                 <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/pain-relievers.jpg" alt="Common medication for cardiac diseases" />
