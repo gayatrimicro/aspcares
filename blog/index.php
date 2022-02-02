@@ -553,6 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                              <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/chronic-pain.jpg" alt="Prevent Chronic Pain after Acute Pain" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title"> Chronic Pain vs Acute Pain </h2>
+                                        <p class="product_desc">Acute pain has been referred to as pain with a duration of around 2-3 months, while chronic pain has a duration which might be more than 6 months. Visit us now!</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="chronic-pain-vs-acute-pain-treatment-and-prevention/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                                <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/prostate-cancer.jpg" alt="What is Prostate Cancer?" />
