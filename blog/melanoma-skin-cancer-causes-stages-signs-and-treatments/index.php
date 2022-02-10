@@ -856,7 +856,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <li><p class="product_desc"><b>Lymphadenectomy:</b> In situations where melanoma has spread, the expulsion of the lymph nodes close to the primary diagnosed site might be required. This can prevent the spread to a different region of your body.</p></li>
     <li><p class="product_desc"><b>Metastasectomy:</b> This is used to remove small melanoma bits from organs.</p></li>
     <li><p class="product_desc"><b>Targeted cancer therapy:</b> The drugs are used to attack specific cancer cells, leaving healthy cells untouched.</p></li>
-    <li><p class="product_desc"><b>Targeted cancer therapy:</b> The drugs are used to attack specific cancer cells, leaving healthy cells untouched.</p></li>
+    <li><p class="product_desc"><b>Radiation Therapy:</b> This includes treatments with high-energy rays to attack cancer cells and shrink tumors.</p></li>
     <li><p class="product_desc"><b>Immunotherapy:</b> This would stimulate your immune system to help fight cancer.</p></li>
 </ul>
 <p class="product_desc">Unlike other cancer inside the body, it is easier to access the cancerous tissues and remove them completely. Thus, surgery is done before various therapies to remove the cancerous tissue. Surgery not only removes the cancerous tissue but also nearby non-cancerous tissue so that cancer may not develop again.</p>
