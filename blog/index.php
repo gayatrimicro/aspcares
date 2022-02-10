@@ -555,6 +555,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
                               <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/melanoma-skin-cancer.jpg" alt="Stages of Melanoma" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Melanoma</h2>
+                                        <p class="product_desc"> Melanoma is an uncommon kind of skin malignant growth that is serious. Get information on melanoma signs, treatment, and prognosis.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="melanoma-skin-cancer-causes-stages-signs-and-treatments/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                                    <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/chronic-pain.jpg" alt="Prevent Chronic Pain after Acute Pain" />
                                     </div>
                                     <!-- .product_header_cell -->
