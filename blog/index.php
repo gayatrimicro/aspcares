@@ -553,6 +553,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                          <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/effects-of-covid-191.jpg" alt="Stages of Melanoma" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">The emerging psychological adverse effects of COVID-19</h2>
+                                        <p class="product_desc"> Are you aware of the unknown and surging psychological and psychiatric influences of COVID-19? The impact is grave. You are required to be brave.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="the-emerging-psychological-adverse-effects-of-covid-19/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
                               <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/melanoma-skin-cancer.jpg" alt="Stages of Melanoma" />
