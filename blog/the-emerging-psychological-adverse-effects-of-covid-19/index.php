@@ -738,8 +738,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
   </style>
   
-                            <h2  class=" find"> Measure your mental health equation along with COVID</h2><br>
-                            <h3 class=" find">  Social Distancing can be equally challenging</h3>
+                            <h2  class=" find"> Measure your mental health equation along with COVID</h2>
   <p class="product_desc"><b class="find">What would be the subsequent impact of COVID on psychological and psychiatric influences in the USA?</b> </p>
   <p class="product_desc">The surging mental health repercussions of COVID-19 as well as social distancing were very intense beyond imagination. There is a dire need and necessity for prevention as well as early intervention by mental health professionals with respect to psychological impact of COVID post pandemic</p>
   <p class="product_desc">Since the first tragic case of novel coronavirus disease 2019 (COVID-19) was detected in December 2019. It had spread over massively the major parts of the world as well as a galvanized global action. This has brought unprecedented endeavors to institute the practice of physical social distancing in countries across the globe resulting in changes in national behavioral patterns as well as shutdowns of normal routine day-to-day functioning operations in the country as regards psychological impact of COVID post pandemic.</p>
@@ -776,6 +775,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  
 
 <p class="product_desc">As regards the COVID-19 pandemic, it seems likely that there would be considerable increases in anxiety as well as depression, substance use, loneliness as well as domestic violence. Moreover, with schools closed, there is a very real possibility of an epidemic of child abuse as well. This concern is so vital that the UK has proposed psychological first aid guidance from Mental Health UK. While the literature does not clear about the science of population-level prevention, it has resulted in the conclusion of three pivotal steps, which could be taken in the present scenario which can provide assistance in proactively preparing for the indispensable rise in mental health conditions and related sequelae that are subsequent episodes after witnessing this pandemic. There are prevalent devastating psychological impacts of COVID 19 post pandemic.</p>
+                        
+                        <bR>    <h3 class=" find">  Social Distancing can be equally challenging</h3>
+
 <p class="product_desc">Many research analysts and observers have noted that outreach that engages voice and or video is superior to email and text messaging. Additional tenacious efforts must be executed to make sure that connections with people who are peculiarly marginalized as well as isolated consisting of the elderly, undocumented immigrants, homeless persons and those suffering from mental illness. Social media could also</p>
 
 
