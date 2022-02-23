@@ -555,6 +555,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
                           <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/alcohol-and-drugs.jpg" alt="8 Ways to Support Liver Functions Naturally" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title"> Alcohol-Related Liver Disease: How it affects the Liver? </h2>
+                                        <p class="product_desc"> Alcohol and drugs can harm the liver and due to which it causes drug-induced liver disease. Learn the signs and symptoms and how consuming it affects the liver!</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="alcohol-and-drugs-related-liver-disease-and-ways-to-repair/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                                   <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/effects-of-covid-191.jpg" alt="Stages of Melanoma" />
                                     </div>
                                     <!-- .product_header_cell -->
