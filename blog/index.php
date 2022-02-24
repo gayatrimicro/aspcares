@@ -555,6 +555,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
                           <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/pain-management-new-guidelines-implications1.jpg" alt="Heal your pain, heal your wounds in the name of the Lord" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title"> Pain Management New Guidelines Implications </h2>
+                                        <p class="product_desc"> Are you aware of the repercussions of new pain management guidelines and amendments? Encounter pain by accepting pain graciously in the name of the Lord.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="pain-management-new-guidelines-implications/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                                  <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/alcohol-and-drugs.jpg" alt="8 Ways to Support Liver Functions Naturally" />
                                     </div>
                                     <!-- .product_header_cell -->
