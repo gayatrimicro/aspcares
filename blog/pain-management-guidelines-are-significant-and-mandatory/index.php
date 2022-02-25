@@ -16,21 +16,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta charset="utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-    <title>Pain Management New Guidelines Implications</title>
+    <title>Pain Management Guidelines are significant and mandatory</title>
     <meta name="author" content="Shermin D’souza"> 
-    <meta name="description" content="Alcohol and drugs can harm the liver and due to which it causes drug-induced liver disease. Learn the signs and symptoms and how consuming it affects the liver!">
-    <meta name="keywords" content="Pain Management Guidelines WHO, Guidelines on Pain Management, Chronic Pain Management Guidelines 2021, Pain Management Guidelines 2021, Chronic Pain Management Guidelines 2020, NICE guidelines on pain management in dementia, Guidelines on Pain Management, Guidelines on pain management and Palliative Care.">
+    <meta name="description" content="Do you know pain breaks you but builds you as well? Build yourself with inner strength as catered by ASP Cares">
+    <meta name="keywords" content="Pain Management Guidelines WHO, Guidelines on Pain Management, Chronic Pain Management Guidelines 2021, Pain Management Guidelines 2021, Chronic Pain Management Guidelines 2020, NICE guidelines on pain management in dementia, Guidelines on Pain Management, Guidelines on pain management and Palliative Care">
     <!-- Open Graph data -->
-    <meta property="og:title" content="Pain Management New Guidelines Implications" />
+    <meta property="og:title" content="Pain Management Guidelines are significant and mandatory" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.aspcares.com/blog/pain-management-new-guidelines-implications/" />    
-    <meta property="og:image" content="https://www.aspcares.com/assets/images/pain-management-new-guidelines-implications.jpg" />
-    <meta property="og:description" content="Alcohol and drugs can harm the liver and due to which it causes drug-induced liver disease. Learn the signs and symptoms and how consuming it affects the liver!" />
+    <meta property="og:url" content="https://www.aspcares.com/blog/pain-management-guidelines-are-significant-and-mandatory/" />    
+    <meta property="og:image" content="https://www.aspcares.com/assets/images/pain-management-guidelines-are-significant-and-mandatory.jpg" />
+    <meta property="og:description" content="Do you know pain breaks you but builds you as well? Build yourself with inner strength as catered by ASP Cares" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="AspCares" />
-    <meta name="twitter:title" content="Pain Management New Guidelines Implications" />
-    <meta name="twitter:description" content="Alcohol and drugs can harm the liver and due to which it causes drug-induced liver disease. Learn the signs and symptoms and how consuming it affects the liver!" />
-    <link rel="canonical" href="https://www.aspcares.com/blog/pain-management-new-guidelines-implications/" />
+    <meta name="twitter:title" content="Pain Management Guidelines are significant and mandatory" />
+    <meta name="twitter:description" content="Do you know pain breaks you but builds you as well? Build yourself with inner strength as catered by ASP Cares" />
+    <link rel="canonical" href="https://www.aspcares.com/blog/pain-management-guidelines-are-significant-and-mandatory/" />
     <meta name="twitter:card" content="summary" />
     
     <link rel="alternate" href="" hreflang="en-us" />
@@ -685,7 +685,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <ul class="breadcrumb">
                                     <li><a href="https://aspcares.com/">Home</a></li>
                                     <!--  <li><a href="https://www.aspcares.com/blog/">Blogs</a></li> -->
-                                    <li>Pain makes you a “CHAMPION”. It never goes in vain.</li>
+                                    <li> Overcome Pain with Pain Management Guidelines WHO</li>
                                 </ul>
                             </div>
                     <div class="article_header">
@@ -697,7 +697,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </ul>
                             </div> -->
 
-                            <h1 lang="en" class="article_title find"> Pain makes you a “CHAMPION”. It never goes in vain.</h1>
+                            <h1 lang="en" class="article_title find">  Overcome Pain with Pain Management Guidelines WHO</h1>
                             <div class="article_social">
                                 <nav class="footer_sns_wrap">
                                     <ul class="footer_sns">
@@ -739,46 +739,55 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </style>
   
                       <h2 class="find">ARTICLE ASPCARES </h2>  
-                    <p class="product_desc"><b class="find">Could new guidance change how we treat chronic pain? - Pain Management ASPCares Perspective- PART ONE </b></p>
-  <p class="product_desc"><b>Pain Management Perspectives- The ASP Cares way</b> </p>
+                       <p class="product_desc"><b class="find">Could new guidance change how we treat chronic pain?- Pain Management ASP Cares Perspective </b></p>  
+  <p class="product_desc"><b>Pain Management Perspectives -  The ASP Cares way</b> </p>
 
-  <p class="product_desc">Pain is the greatest teacher. Pain is the greatest motivation ever faced by the human species. The pain never goes in vain if channelized into a positive perspective. Athletes encounter excruciating pain while showcasing their country. A soldier becomes an honorable warrior when he battles for his country. True patriotism emerges from real pain. A woman accomplishes motherhood through labor pain. All beautiful and pleasant achievements in life are procured through hardships of pain. Pain can be perceived as penance if embarked in the right positive direction with alignment of Pain Management Guidelines WHO</p>
+  <p class="product_desc">Victory over pain is the highest victory one can accomplish ever. It was Lord Jesus who accepted pain gracefully and graciously. What cannot be cured needs to be endured! Pain has been positively personified with Lord Jesus's crucifixion. As portrayed by the Lord’s life, pain draws us near to God, makes us humble and virtues of empathy, sympathy, compassion, and true love emerge in our hearts and actions.</p>
    <br>
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/pain-management-new-guidelines-implications.png" alt="Heal your pain, heal your wounds in the name of the Lord">
+ <img src="../../assets/images/pain-management-guidelines-are-significant-and-mandatory.png" alt="Pain Management Guidelines WHO">
  <br>
 <br>
 
 <br>
 </div>
-  <p class="product_desc">Again, when pain is neck pain and back pain ASP Cares suggests that it should not be ignored, not even at an early young age. The reason is a stitch in time saves the night. The young motivation can be tempting you to ignore the pain and avoid visiting orthopedic and physiotherapists. But prevention is always better than cure. A HEALTHY YOU would be a NEW YOU even in your retiring old age. This article discusses about guidelines on pain management as well as implications of chronic pain management guidelines 2021</p>
+<p class="product_desc"><b class="find">Let us consider the drastic new guidance amendments for chronic pain treatment as per the chronic pain management guidelines 2021?</b></p>
+  <p class="product_desc">Since the incidence of opioid misuse has arisen rapidly. It has been known that for some patients with chronic pain nothing else would work. This was the concluding part of the previous series. Hence now it is high time to identify the substitutes and evidence-based alternative mechanisms with reference to pain management guidelines WHO.</p>
 
   
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/pain-management-new-guidelines-implications1.jpg"  
- alt="Shun your back and body pain with evidence based alternatives">
+ <img src="../../assets/images/pain-management-guidelines-are-significant-and-mandatory1.jpg"  
+ alt="Chronic Pain Management Guidelines 2021">
  <br>
 <br>
 
 <br>
 </div>
- <p class="product_desc"><b class="find">How can new guidance influence the treating mechanisms of chronic pain- pain management perspectives?
-</b></p>
+ <p class="product_desc"><b class="find">Evidence-based alternative mechanisms:</b></p>
 
-<p class="product_desc">In April, the health regulatory authorities launched their first and foremost guidance on the management of chronic pain for various general practitioners working in the nation. Notwithstanding some of the recommendations similar to taking a more personalized approach to managing chronic pain have been accepted and welcomed. Others on the contrary consisting of the guidance on pain medication are being met with serious concern by some of them. So what would the new guidance imply for you with respect to pain management guidelines 2021</p>
-<p class="product_desc">As a known fact when Victoria Abbott Fleming encountered an accident down a flight of thirty concrete stairs at work in the year 2003, somewhat miraculously she was fortunate enough that she didn’t break any bones. However, damage to some soft tissues in her left leg left her in persistent excruciating pain in the absence of Pain Management Guidelines WHO</p>
-<p class="product_desc">Doctors failed to understand why her pain was constant and persistent and was becoming so severe. She had consulted lots of health care specialists, doctors, and physios as well as tried intense multiple treatments right from Transcutaneous Electrical Nerve Stimulation (TENS) machine to spinal cord stimulators. As she recalled, it took a time duration of seven months and thirty-nine different doctors to identify a concrete answer. And she was finally diagnosed with complex regional pain syndrome with reference to chronic pain management guidelines 2021.</p>
-<p class="product_desc">Complex regional pain syndrome (CRPS) occurs when the body responds much more strongly and intensely to an injury as compared to the normal peculiar response that is generally anticipated. Its exact cause and trigger are still unknown but the brain's signals to the affected component of the body, typically a limb, can somewhat be changed with reference to Chronic pain management guidelines 2020</p>
+<p class="product_desc">Notwithstanding, the recommendations and advice for substitutes and alternative treatments incorporated in the guidance have shown substantial evidence of benefit for some individuals having chronic primary pain medical history with regards to guidelines on pain management.</p>
+<p class="product_desc">For instance, doctors can recommend antidepressants even if patients have not been diagnosed with depression just after talking about the relative benefits as well as harms. Evidence has recommended that certain specific types of antidepressants might assist in improving sleep, pain, distress as well as all-pervasive lifestyle and quality of life for people encountering long-term pain problems and concerns as regards NICE guidelines on pain management in dementia</p>
+<p class="product_desc">Other alternative treatments that have been portrayed to be sound and influential in managing chronic primary pain and the guidelines recommendations consist of cognitive behavioral therapy as well as acceptance and commitment therapy (ACT), mindfulness, acupuncture as well as exercise in alignment with pain management guidelines WHO. </p>
 
 
-<p class="product_desc">Majorly people with complex regional pain syndrome can hold their lives comparatively normally, with regular intake of painkillers as well as psychological support if required. However, as discussed Victoria’s state was peculiarly aggressive and subsequently, she was compelled to have both her legs amputated above the knee. Notwithstanding that, she still survives with daily chronic pain eighteen years after her accident. It adversely affects every aspect of her life and that can really become dreadful to anybody who gets victimized by such a tragic event. It takes a massive toll on her mental health as per NICE guidelines on pain management in dementia.</p>
+
+<p class="product_desc">With the onset of the launch of the guidance Dr. Paul Chrisp, director of the center for Guidelines at NICE opined that everyone aspires to this guideline to create a positive influence and drastic relief transition to individuals suffering from chronic pain as well as their families and carers which also gets reflected in their mental health crisis as per the NICE guidelines on pain management in dementia</p>
                   
                       
 
+<p class="product_desc">It emphasizes accomplishing an understanding of how pain is influencing an individual's life and those surrounding them. And moreover, knowing them about what is significant to the person, is the first preliminary step in developing an effective care and support plan that recognizes and treats an individual's pain in a valid and unique mechanism that proves to be a personalized and customized mechanism to them with regards to Pain Management Guidelines 2021.</p>
+
+      
+<p class="product_desc">The known fact that guidance on chronic long-term pain management in accordance with pain management guidelines has been published for the first and foremost time is itself a positive move in the chronic pain management arena. This guidance has given due recognition to right appropriate chronic pain treatment whatever is its source or underlying cause. This cropping underlying trigger can seem to be debilitating. And moreover, treatment of such chronic pain needs a formalized as well as much considered outlook considering pain management guidelines in the right perspective.</p>
+<p class="product_desc">Consequently, this evidence-based alternative mechanism duly acknowledges the very fact that pain is inevitably individualistic and a subject matter. How General Practitioners as well as other healthcare professionals care for their patients and treat them must also be appreciated as an evidence-based alternative in its truest sense. Consecutively pain management guidelines must be adhered to review diverse treatment therapies and mechanisms.</p>
+<p class="product_desc"><b class="find">Repercussions of Drug Withdrawal:</b></p>
+<p class="product_desc">As opined by Victoria who chairs the BPS's Patient Voice Committee as well as who established the charity Burning Nights CRPS Support, some people have successfully withdrawn their drugs as prescribed by their General Practitioners as proposed by the pain management guidelines persistently. As per her perspective patients have to appeal and stringently stick to it about the decision of drug withdrawal since most of the individuals are struggling with the adverse repercussions of drug withdrawal. The majority of the people fail to advocate for themselves. As forecasted by Victoria and allied health expert professionals, these repercussions would compel us in witnessing a lot more allied mental problems as an outcome of drug withdrawal in accordance with the NICE guidelines on pain management in dementia</p>
+
+<p class="product_desc">According to Victoria, she is very well aware of the psychological influence of living with chronic pain as she has been a victim and patient of chronic illness subsequently to the Chronic Pain Management Guidelines 2020 a lot of transition in the perspectives of pain have been </p>
 <bR><br>
  
    </div>
@@ -786,36 +795,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <br>
       <div class="product_header_cell product_header_img">
- <img src="../../assets/images/pain-management-new-guidelines-implications3.jpg" alt="Change your perception towards Pain change your life">
+ <img src="../../assets/images/pain-management-guidelines-are-significant-and-mandatory2.jpg" alt="Evidence based alternative mechanisms as per NICE guidelines on pain management in dementia">
 <br>
 
 <br>
 <br>
-<p class="product_desc">It has been observed by health professionals that victoria takes fifty-six tablets in a day consisting of the strong opioid painkiller, fentanyl, and gabapentin all of these belonging to a category of drugs known as gabapentinoids that are deployed to treat the epilepsy disease as reported by the National Institute of Health and Care Excellence (NICE) could witness doctors withdrawing these drugs, leaving patients high and dry and with lack of apt substitute or alternative which was a crucial rational behind NICE guidelines on pain management in dementia.</p>
 
-<p class="product_desc"><b  class="find">Overview of the New Guidelines:</b></p>
-      
-<p class="product_desc">Under the new guidelines on pain management, the general practitioners are advised that they should not commence treatment with the very common type of used medicines. These medicines consist of opioids as well as gabapentinoids for individuals suffering from chronic primary pain (pain that involves no explicit alternative or where the pain, as well as its impact, becomes disproportionate to any popular cause because they could become harmful in accordance with the guidelines on pain management and Palliative Care.</p>
-<p class="product_desc">Health Specialist consultants in pain medicine as well as members of the council of the British Pain Society (BPS) states that notwithstanding the blanket withdrawal of painkillers from patients who have been with the consistent intake of them for a very long time which is expressly not recommendable or advisable. This lack of clarity implies the misrepresentation, misinterpretation as well as misunderstanding of the guidance catered by the new guidelines with reference to pain management guidelines WHO</p>
+<p class="product_desc">witnessed.  She oozes out that there are days that she cannot move at all. And she is in so much agony that she doesn't want to exist. She comments further that there is no end in sight and you fall into that creeping depression which is in fact just spiraling. Suicide ideation is quite natural and regular in CRPS patients suffering from prolonged chronic pain illness. These symptoms are common as per the NICE guidelines on pain management in dementia</p> 
 
-
-<p class="product_desc">Unfortunately, the new guidelines on pain management and Palliative Care are in an open-ended misrepresentation. A General Practitioner might advise a patient who had encountered chronic primary pain for prolonged years that they cannot intake these drugs and that's not the case. The cropping concern and issue are that persons would be threatened with withdrawal of analgesics when it is inappropriate.</p>
 <br>
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/pain-management-new-guidelines-implications2.jpg"  
- alt="Manage your Pain, Manage your Sedentary Lifestyle">
+ <img src="../../assets/images/pain-management-guidelines-are-significant-and-mandatory3.jpg"  
+ alt="Pain will perturb you just follow pain management guidelines">
  <br>
 <br>
 
 <br>
 </div>
-   <p class="product_desc">Patients who have an intake of these particular types of pain medication over a prolonged and consistent period need to be monitored closely and with due care as well as diligence with respect to pain management guidelines WHO. These medications cause side effects like constipation, nausea, drowsiness as well as slowed breathing. A more serious probable peril is addiction and overdose. Thus the bottom line is that NICE  National Institute of Health and Care Excellence is striving with their best endeavors to make the doctors aware of the significance of avoiding prescribing these drugs specifically with respect to NICE guidelines on pain management in dementia. Moreover, the NICE is in its tenacious efforts to make it difficult for doctors to make these drugs feasible for prescription and further use. It is being understood why NICE is striving to make it not feasible for doctors to prescribe these medications. As opined by health professional specialists since the incidence of opioid misuse has arisen rapidly. It has been known that for some patients with chronic pain nothing else would work in accordance with pain management guidelines 2021.</p> 
+   
+   <p class="product_desc">Again Victoria is afraid about the well-being of new chronic primary pain patients, who no longer are left with the alternative of being offered drugs on NICE's 'do not prescribe' list. Also, moreover stronger and more stringent medications like the ones taken by Victoria. That drug intake list consists of non-steroidal, anti-inflammatory drugs (NSAIDs- such as ibuprofen), milder opioids (like codeine), and even paracetamol. Drug withdrawal therapy though associated with excruciating pain is one of the backbone pillar under the NICE guidelines on pain management in dementia</p> 
+   <p class="product_desc">As per the point of view of NICE, the underlying reason and cause which compelled people to depend and get addicted to these medications right for the first time are not advisable. There exists little or negligible evidence that they create a positive reflection on people's lives. But at the same time do not cause any potential harm like sickening addiction in accordance with NICE guidelines on pain management in dementia</p> 
 
-<p class="product_desc"><b class="find">Conclusion:</b></p>
+<p class="product_desc">However, medical health specialists offered some reassurance to patients who presently depend on painkillers. People should not be worried about when the health professionals ask these patients to simply stop taking their regular medicines without delivering them with substitutes and evidence-based alternative mechanisms or safer and effective means and options with reference to Chronic Pain Management Guidelines 2020</p>
+<p class="product_desc"><b class="find">Health Professionals Advice and Recommendations:</b></p>
 
-<p class="product_desc">Remain hooked on with the remaining part of this article to procure more insights, perspectives and new guidelines on pain management as well as chronic pain treatment.</p>
+
+<p class="product_desc">NICE recommends that patients on medications that are not recommended in the guidelines must seek medical advice from their doctor to review their prescribing procedures as an integral component of the shared decision-making process under NICE guidelines on pain management in dementia</p>
+<p class="product_desc">This could involve acknowledging a plan to continue medicine intake if they benefit at a safe dose and minimal harms in the form of side-effects or assist them to reduce and prohibit the medicine if possible and feasible as stated by medical health specialist professionals as promoted by the Chronic Pain Management Guidelines 2020</p>
+<p class="product_desc">These varied and diverse discussions must be appropriately explored for any potential problems about allied withdrawal symptoms.</p>
+<p class="product_desc">The Health Professional community echoes with the solemn advice that the guidance must be implemented in discussion with patients. And any recommendations depending on their individual circumstances as well as needs must be managed by a specialist pain clinic. Especially for anyone witnessing chronic pain for a prolonged period under the care and diligence of a consultant in pain medicine abiding the Chronic Pain Management Guidelines 2020</p>
+<p class="product_desc">In medical aspects and parameters where General Practitioners are not able to refer directly into a pain service. They can rather than refer to another appropriate specialist in a musculoskeletal or rheumatology clinic for instance from where an onward referral to a pain consultant can be made as advocated by the pain management guidelines WHO.</p>
+<p class="product_desc">All the health specialist pain experts motivate people to attempt the alternative treatments that NICE advises and recommends which might be of great assistance to some people suffering from chronic pain. The health regulatory authorities also commented that they support the inclusion of antidepressants, psychological therapies, acupuncture as well as group-based exercise in the guidance which can be addressed and sorted out by the NICE guidelines on pain management in dementia</p>
+<p class="product_desc">The scenario is not black and white as concluded by health pain specialist experts. These health professionals acknowledge the risks and inherent perils of these drugs but with certain specific patients, it is equally important to know and understand the harmful effects of not giving them the medication. Hence strict new medical guidance on the part of health pain specialist professionals must be ruled out in the present circumstances in conjunction with pain management guidelines WHO.</p>
 
 
 <br>
