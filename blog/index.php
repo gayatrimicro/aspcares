@@ -559,7 +559,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
-                                        <h2 class="product_title">  Pain Management Guidelines are significant and mandatory. </h2>
+                                        <h2 class="product_title">  Pain Management Guidelines are significant and mandatory </h2>
                                         <p class="product_desc">Do you know pain breaks you but builds you as well? Build yourself with inner strength as catered by ASP Cares</p>
                                     
                                         <br>

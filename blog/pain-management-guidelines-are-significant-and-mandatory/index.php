@@ -738,7 +738,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
   </style>
   
-                      <h2 class="find">ARTICLE ASPCARES </h2>  
+                     <!--  <h2 class="find">ARTICLE ASPCARES </h2> -->  
                        <p class="product_desc"><b class="find">Could new guidance change how we treat chronic pain?- Pain Management ASP Cares Perspective </b></p>  
   <p class="product_desc"><b>Pain Management Perspectives -  The ASP Cares way</b> </p>
 

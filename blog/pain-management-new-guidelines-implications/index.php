@@ -738,8 +738,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     }
   </style>
   
-                      <h2 class="find">ARTICLE ASPCARES </h2>  
-                    <p class="product_desc"><b class="find">Could new guidance change how we treat chronic pain? - Pain Management ASPCares Perspective- PART ONE </b></p>
+                   <!--    <h2 class="find">ARTICLE ASPCARES </h2>   -->
+                    <p class="product_desc"><b class="find">Could new guidance change how we treat chronic pain? - Pain Management ASPCares Perspective </b></p>
   <p class="product_desc"><b>Pain Management Perspectives- The ASP Cares way</b> </p>
 
   <p class="product_desc">Pain is the greatest teacher. Pain is the greatest motivation ever faced by the human species. The pain never goes in vain if channelized into a positive perspective. Athletes encounter excruciating pain while showcasing their country. A soldier becomes an honorable warrior when he battles for his country. True patriotism emerges from real pain. A woman accomplishes motherhood through labor pain. All beautiful and pleasant achievements in life are procured through hardships of pain. Pain can be perceived as penance if embarked in the right positive direction with alignment of Pain Management Guidelines WHO</p>
