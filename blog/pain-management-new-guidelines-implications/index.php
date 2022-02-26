@@ -815,9 +815,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <p class="product_desc"><b class="find">Conclusion:</b></p>
 
-<p class="product_desc">Remain hooked on with the remaining part of this article to procure more insights, perspectives and new guidelines on pain management as well as chronic pain treatment.</p>
-
-
+<p class="product_desc">Remain hooked on with the remaining part of this article to procure more insights, perspectives and <a href="https://www.aspcares.com/blog/pain-management-guidelines-are-significant-and-mandatory/"><b>  new guidelines on pain management as well as chronic pain treatment.</b></a></p>
+<p class="product_desc"><a href="https://www.aspcares.com/blog/pain-management-guidelines-are-significant-and-mandatory/"><b>Pain Management Guidelines are significant and mandatory</b></a></p>        
 <br>
 <!-- 
 <p class="product_desc"><b class="find">People Also Read:
