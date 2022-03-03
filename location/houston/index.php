@@ -360,10 +360,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <br>
                                 <br>
                                 <h1>Contact Us   </h1>
+                                <p><b>Pharmacy</b></p>
                                 <p>
-                                    Phone : &nbsp;&nbsp;<!-- 832-500-3565 / 888-724-6522 --><a herf="tel:+1 214-475-6078" id="call">214-475-6078</a>
+                                    Phone : &nbsp;&nbsp;832-500-3565 / 888-724-6522<!-- <a herf="tel:+1 214-475-6078" id="call">214-475-6078</a> -->
                                     <br> Fax : &nbsp;&nbsp;832-500-3566 / 888-724-9210
-                                    <br> Email : &nbsp;&nbsp;info@aspcares.com
+                                    <br> Email : &nbsp;&nbsp;fannin@aspcareshouston.com
+                                </p>
+
+                                <br>
+                                <p><b>Billing/LOP</b></p>
+                                <p>
+                                    Phone : &nbsp;&nbsp;832-427-1960
+                                    <br> Fax : &nbsp;&nbsp;832-835-0258
+                                    <br> Email : &nbsp;&nbsp;Lop@aspcareshouston.com
                                 </p>
                                 
                                 <!-- <div class="product_btn"> -->
