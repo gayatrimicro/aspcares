@@ -553,6 +553,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                          <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/is-bioidentical-hormone-replacement-therapy-right-and-safe-for-you.jpg" alt="Heal your pain, heal your wounds in the name of the Lord" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">  Bioidentical Hormone Replacement Therapy</h2>
+                                        <p class="product_desc">Bioidentical hormone replacement therapy can boost your hormone levels to improve your overall health. Discover its benefits, risks and usage.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="is-bioidentical-hormone-replacement-therapy-right-and-safe-for-you/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+
                          <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/pain-management-guidelines-are-significant-and-mandatory3.jpg" alt="Heal your pain, heal your wounds in the name of the Lord" />
