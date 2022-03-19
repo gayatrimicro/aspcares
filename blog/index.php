@@ -553,6 +553,22 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                         <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/breast-cancer-causes-symptoms-and-treatments.jpg" alt="Heal your pain, heal your wounds in the name of the Lord" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">   Breast Cancer: Symptoms, Risks, Treatment, and Causes</h2>
+                                        <p class="product_desc">Breast cancer is an intrusive cancer in females. Treatments include surgery, radiation, chemotherapy and hormone therapy. Learn about treatment options for breast cancer.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="breast-cancer-causes-symptoms-and-treatments/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+
                           <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/is-bioidentical-hormone-replacement-therapy-right-and-safe-for-you.jpg" alt="Heal your pain, heal your wounds in the name of the Lord" />
