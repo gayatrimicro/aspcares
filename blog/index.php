@@ -555,6 +555,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
                          <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/advantages-and-disadvantages-of-doorstep-delivery-of-medicines1.jpg" alt="Doorstep Delivery of Medicines" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">   Doorstep Delivery of Medicines: Advantages & Disadvantages</h2>
+                                        <p class="product_desc">In COVID pandemic, the doorstep delivery of medicines has been very helpful to elderly people, critical patients, etc. Discover its advantages and disadvantages.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="advantages-and-disadvantages-of-doorstep-delivery-of-medicines/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                                   <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/breast-cancer-causes-symptoms-and-treatments.jpg" alt="Heal your pain, heal your wounds in the name of the Lord" />
                                     </div>
                                     <!-- .product_header_cell -->
