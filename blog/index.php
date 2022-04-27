@@ -553,6 +553,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
+                            <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/role-of-pharmacy-in-prevention-of-hiv-through-prep.jpg" alt="PrEP for HIV prevention" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title"> PrEP for HIV prevention | Importance of Pharmacy</h2>
+                                        <p class="product_desc">HIV is still a serious health issue in major parts of the world, including the United States. PrEP helps protect the people not infected with HIV. Visit us !
+</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="role-of-pharmacy-in-prevention-of-hiv-through-prep/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+
                          <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/investigating-the-management-of-anaphylaxis-in-pharmacy.jpg" alt="Severe Allergic Reaction: Anaphylaxis" />
