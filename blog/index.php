@@ -555,6 +555,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
                                 <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders-3.png" alt="All About To Know Hemophilia" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">  Hemophilia: Causes, Symptoms and Diagnosis </h2>
+                                        <p class="product_desc"> Hemophilia is an uncommon, acquired bleeding problem where blood can't clot regularly at the site of an injury or injury. Call us at (210)-417-4567 to book an appointment.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="hemophilia-and-pharmacists-role-in-managing-bleeding-disorders/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                                <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/infusion-therapy-and-importance-of-pharmacists-during-in-home-setup.jpg" alt="PrEP for HIV prevention" />
                                     </div>
                                     <!-- .product_header_cell -->
