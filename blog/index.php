@@ -555,7 +555,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
                                 <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
-                                        <img src="../assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders-3.png" alt="All About To Know Hemophilia" />
+                                        <img src="../assets/images/pharmacist-role-in-back-pain-symptoms-management-1.jpg" alt="All About To Know Hemophilia" />
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
@@ -570,7 +570,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                   </div>
                                 <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
-                                        <img src="../assets/images/pharmacist-role-in-back-pain-symptoms-management-1.jpg" alt="PrEP for HIV prevention" />
+                                        <img src="../assets/images/infusion-therapy-and-importance-of-pharmacists-during-in-home-setup.jpg" alt="PrEP for HIV prevention" />
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
