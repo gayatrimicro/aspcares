@@ -555,11 +555,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
                                 <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
-                                        <img src="../assets/images/pharmacist-role-in-back-pain-symptoms-management-1.jpg" alt="All About To Know Hemophilia" />
+                                        <img src="../assets/images/pharmacist-role-in-back-pain-symptoms-management-2.jpg" alt="All About To Know Hemophilia" />
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
-                                        <h2 class="product_title">  Pharmacist’s Role in Back Pain Management| Symptoms and Causes </h2>
+                                        <h2 class="product_title">  Pharmacist’s Role in Back Pain Management | Symptoms and Causes </h2>
                                         <p class="product_desc"> Wound care in pharmacy is critical as pharmacists are much of the time the touching reason behind health care communication for people needing support here.</p>
                                     
                                         <br>
