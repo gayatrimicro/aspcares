@@ -553,24 +553,56 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                        <!--  articles end -->
                 <div class="product_header prod-div" style="">
                     <div class="wrap">
-                                <div class="product_header_table blog">
+                             <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/breast-cancer-role-of-pharmacist-awareness-and-treatment1.jpg" alt="Pharmacist’s Importance Role In Breast Cancer" />
                                     </div>
                                     <!-- .product_header_cell -->
                                     <div class="product_header_cell product_header_txt">
-                                        <h2 class="product_title"> Pharmacist’s importance in Breast Cancer | Awareness & Treatment</h2>
-                                        <p class="product_desc">The clinical pharmacist plays a critical part in assisting ladies with breast cancer accomplish the most ideal therapy results and assist with decreasing the effect.
-
-</p>
+                                        <h2 class="product_title">Pharmacist’s importance in Breast Cancer | Awareness & Treatment </h2>
+                                        <p class="product_desc">The clinical pharmacist plays a critical part in assisting ladies with breast cancer accomplish the most ideal therapy results and assist with decreasing the effect.</p>
                                     
                                         <br>
                                         <a lang="en" href="breast-cancer-role-of-pharmacist-awareness-and-treatment/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
                                         <br>
                                     
                                     </div>
+                                  </div>      
+                          
+                             <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/pharmacist-role-in-back-pain-symptoms-management-2.jpg" alt="PrEP for HIV prevention" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Pharmacist’s Role in Back Pain Management | Symptoms and Causes </h2>
+                                        <p class="product_desc"> Wound care in pharmacy is critical as pharmacists are much of the time the touching reason behind health care communication for people needing support here.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="pharmacist-role-in-back-pain-symptoms-management/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
                                   </div>
-                                    <div class="product_header_table blog">
+
+
+
+                                <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders-3.png" alt="PrEP for HIV prevention" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">  Hemophilia: Causes, Symptoms and Diagnosis </h2>
+                                        <p class="product_desc"> Hemophilia is an uncommon, acquired bleeding problem where blood can't clot regularly at the site of an injury or injury. Call us at (210)-417-4567 to book an appointment.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="hemophilia-and-pharmacists-role-in-managing-bleeding-disorders/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div>
+                                <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/infusion-therapy-and-importance-of-pharmacists-during-in-home-setup.jpg" alt="PrEP for HIV prevention" />
                                     </div>
