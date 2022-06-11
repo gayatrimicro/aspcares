@@ -16,20 +16,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta charset="utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-    <title> Hemophilia: Causes, Symptoms and Diagnosis </title>
+    <title> Glaucoma Disease: The Pharmacist's Role in Prevention</title>
     <meta name="author" content="Daniella Johnson"> 
-    <meta name="description" content="Hemophilia is an uncommon, acquired bleeding problem where blood can't clot regularly at the site of an injury or injury. Call us at (210)-417-4567 to book an appointment.">
+    <meta name="description" content="Glaucoma is a disease that damages your eye's optic nerve. This nerve is essential for your eye health. Pharmacists can help a patient in order to prevent the disease.">
     <!-- Open Graph data -->
-    <meta property="og:title" content="hemophilia-and-pharmacists-role-in-managing-bleeding-disorders" />
+    <meta property="og:title" content="Glaucoma Disease: The Pharmacist's Role in Prevention" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.aspcares.com/blog/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders/" />    
-    <meta property="og:image" content="https://www.aspcares.com/assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders-3.png" />
-    <meta property="og:description" content="Hemophilia is an uncommon, acquired bleeding problem where blood can't clot regularly at the site of an injury or injury. Call us at (210)-417-4567 to book an appointment." />
+    <meta property="og:url" content="https://www.aspcares.com/blog/glaucoma-disease-and-how-pharmacists-help-people-in-treatment" />    
+    <meta property="og:image" content="https://www.aspcares.com/assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders.jpg" />
+    <meta property="og:description" content="Glaucoma is a disease that damages your eye's optic nerve. This nerve is essential for your eye health. Pharmacists can help a patient in order to prevent the disease." />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="AspCares" />
-    <meta name="twitter:title" content="hemophilia-and-pharmacists-role-in-managing-bleeding-disorders" />
-    <meta name="twitter:description" content="Hemophilia is an uncommon, acquired bleeding problem where blood can't clot regularly at the site of an injury or injury. Call us at (210)-417-4567 to book an appointment." />
-    <link rel="canonical" href="https://www.aspcares.com/blog/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders/" />
+    <meta name="twitter:title" content="Glaucoma Disease: The Pharmacist's Role in Prevention" />
+    <meta name="twitter:description" content="Glaucoma is a disease that damages your eye's optic nerve. This nerve is essential for your eye health. Pharmacists can help a patient in order to prevent the disease." />
+    <link rel="canonical" href="https://www.aspcares.com/blog/glaucoma-disease-and-how-pharmacists-help-people-in-treatment" />
     <meta name="twitter:card" content="summary" />
     
     <link rel="alternate" href="" hreflang="en-us" />
@@ -686,7 +686,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <ul class="breadcrumb">
                                     <li><a href="https://aspcares.com/">Home</a></li>
                                     <!--  <li><a href="https://www.aspcares.com/blog/">Blogs</a></li> -->
-                                    <li>Hemophilia: Causes, Symptoms and Diagnosis </li>
+                                    <li>Glaucoma</li>
                                 </ul>
                             </div>
                     <div class="article_header">
@@ -698,7 +698,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 </ul>
                             </div> -->
 
-                            <h1 lang="en" class="article_title find">Hemophilia</h1>
+                            <h1 lang="en" class="article_title find">Glaucoma</h1>
                             <div class="article_social">
                                 <nav class="footer_sns_wrap">
                                     <ul class="footer_sns">
@@ -738,184 +738,140 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       margin-top: 0px !important;
     }
   </style>
- <p class="product_desc"><b class="find">Hemophilia: Treatment regime in Modern World</b></p>
+ <p class="product_desc"><b class="find">What is Glaucoma?</b></p>
 
- <p class="product_desc">Envision an existence of unpredictable pain, with internal joint and muscle bleeding requiring medical interference and never-ending intravenous administration of medicine. <a href="https://www.aspcares.com/speciality/hemophilia/"><b>Hemophilia</b></a> is an uncommon, acquired bleeding problem where blood can't clot regularly at the site of an injury or injury. The issue happens because specific blood clotting factors are missing or don't work as expected. Since a clot doesn't form, extensive bleeding can be caused by a cut or wound, referred to as outer bleeding. Bleeding inside the body, called internal bleeding, can happen too, particularly in muscles and in joints like the hips and knees.
- </p>
- <p class="product_desc">There is a wide range of <a href="https://www.aspcares.com/blog/comprehensive-hemophilia-treatment-centers/"><b>treatments for hemophilia,</b></a> and research is still going on for advanced treatment options. Every individual might respond to the treatment in a specific manner, so it is vital to work intimately with your hematologist and pharmacist to track down a treatment that works best for you.
- </p>
- <p class="product_desc">The principal treatment for hemophilia is known as substitution treatment. This concentrates of thickening variable VIII (for hemophilia A) or coagulating factor IX (for hemophilia B) are gradually dribbled or infused into a vein. These mixtures assist with supplanting the thickening variable that is absent or low.
- </p>
+ <p class="product_desc">Glaucoma is a condition leading to fluid pressure rising inside the eye. Without treatment, it can harm the optic nerve and lead to vision loss. Glaucoma is a common condition. Glaucoma affected white people after the age of 60 and Black and Hispanic people after the age of 40 is the best bet. </p>
+ <p class="product_desc">The symptoms of the most widely recognized type — open-point glaucoma — begin gradually and are difficult to take note of. Anyhow, an ophthalmologist might identify changes during an eye test. </p>
+ <p class="product_desc">Glaucoma is a condition that harms your eye's optic nerve. It worsens after some time. It's often connected to the development of pressure inside your eye. Glaucoma will in general disagree with families. You ordinarily don't get it until some other time throughout everyday life. The expanded pressure in your eye, called intraocular pressure, can harm your optic nerve, which sends pictures to your mind. On the off chance that the harm deteriorates, glaucoma can cause extremely durable vision loss or even all-out visual deficiency within a couple of years. </p>
+ <p class="product_desc">The vast majority with glaucoma have no early symptoms or torment. Visit your eye specialist routinely so they can analyze and treat glaucoma before you have long-haul vision loss. There is no cure for glaucoma, yet treatment can slow or stop its movement. </p>
   <br>
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders-3.png" alt="All About To Know Hemophilia">
+ <img src="../../assets/images/glaucoma-disease-and-how-pharmacists-help-people-in-treatment.jpg" alt="Glaucoma: Pharmacists' Vision And Care">
  <br>
 <br>
 
 <br>
 </div>
   
-<p class="product_desc"><b class="find">What are the <a href="https://www.aspcares.com/blog/complications-of-hemophilia/"><b>causes leading to Hemophilia?</b></a></b></p>
+<p class="product_desc"><b class="find">What is the reason for Glaucoma to happen?</b></a></b></p>
 
-<p class="product_desc">Whenever you bleed, the body commonly pools blood cells together to form a clot to stop the bleeding. Clotting factors are proteins in the blood that work with cells known as platelets to develop clots. Hemophilia happens while a clotting factor is missing or levels of the clotting factor are low.</p>
-
-<p class="product_desc"><b>Congenital hemophilia:</b> Hemophilia is typically acquired, meaning an individual is brought into the world with the issue (congenital). Congenital hemophilia is ordered by the sort of clotting factor that is low. The most widely recognized type is hemophilia A, related with a low degree of variable 8. Another most normal type is hemophilia B, related to a low degree of component 9.</p>
-<p class="product_desc"><b>Acquired hemophilia:</b> You may develop hemophilia with no family background of the problem. This is called obtained hemophilia. Obtained hemophilia is an assortment of conditions that happens when an individual's resistant framework assaults clotting factor 8 or 9 in the blood. It may be related with:</p>
+<p class="product_desc">The rear of your eye constantly makes an unmistakable fluid called watery humor. As this fluid is made, it fills the forward portion of your eye. Then, at that point, it leaves your eye through directs in your cornea and iris. Assuming these channels are hindered or to some extent blocked, the regular pressure in your eye, which is known as the intraocular pressure (IOP), may increment. As your IOP builds, your optic nerve might become harmed. As harm to your nerves advances, you might start losing sight in your eye. The pressure in your eye increase and the reason behind it is not known yet. But, specialists accept at least one of these variables might assume a part:</p>
 <ul>
-    <li><p class="product_desc">Pregnancy</p></li>
-    <li><p class="product_desc">Autoimmune conditions</p></li>
-    <li><p class="product_desc">Cancer</p></li>
-    <li><p class="product_desc">Multiple sclerosis</p></li>
-    <li><p class="product_desc">Drug reactions</p></li>
+    <li><p class="product_desc">Dilating eye drops.</p></li>
+    <li><p class="product_desc">Blocked or restricted drainage in your eye.</p></li>
+    <li><p class="product_desc">Medications, such as corticosteroids.</p></li>
+    <li><p class="product_desc">Poor or reduced blood flow to your optic nerve.</p></li>
+    <li><p class="product_desc">High or elevated blood pressure.</p></li>
+
 </ul>
-<p class="product_desc"><b>Hemophilia inheritance:</b> In the most widely recognized sorts of hemophilia, the broken quality is situated on the X chromosome. Everybody has two sex chromosomes, one from each parent. Females acquire an X chromosome from the mother and an X chromosome from the dad. Guys acquire an X chromosome from the mother and a Y chromosome from the dad.
-</p>
+<p class="product_desc">People with diabetes are two times as liable to get glaucoma. Other risk factors include:</p>
+<ul>
+    <li><p class="product_desc">Family history of glaucoma.</p></li>
+    <li><p class="product_desc">Farsightedness or hyperopia (for closed-angle glaucoma).</p></li>
+    <li><p class="product_desc">High blood pressure (hypertension).</p></li>
+    <li><p class="product_desc">Long-term use of corticosteroids.</p></li>
+    <li><p class="product_desc">Nearsightedness or myopia (for open-angle glaucoma).</p></li>
+    <li><p class="product_desc">Previous eye injury or surgery.</p></li>
+</ul>
+<p  class="product_desc"><b class="find">What are the signs and symptoms of Glaucoma?</b></p>
+<p class="product_desc">The most well-known kind of glaucoma is essential open-point glaucoma. It has no signs or symptoms aside from continuous vision loss. Therefore, you should go to yearly far-reaching eye tests so your ophthalmologist, or eye-trained professional, can screen any progressions in your vision. Acute-angle conclusion glaucoma, which is otherwise called slender point glaucoma, is a health-related crisis. Consult your doctor right away assuming you experience any of the accompanying symptoms:</p>
+
+<ul>
+    <li><p class="product_desc"><a href="https://www.aspcares.com/blog/telehealth-for-pain-management-and-the-advantages-of-telemedicine/"> Severe eye pain</a></p></li>
+    <li><p class="product_desc">Nausea</p></li>
+    <li><p class="product_desc">Vomiting</p></li>
+    <li><p class="product_desc">Redness in your eye</p></li>
+    <li><p class="product_desc">Sudden vision disturbances</p></li>
+    <li><p class="product_desc">Seeing colored rings around lights</p></li>
+    <li><p class="product_desc">Sudden blurred vision</p></li>
+</ul>
 <div class="product_header_cell product_header_img">
     <br>
- <img src="../../assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders-1.jpg" alt="Causes of Hemophilia ">
+ <img src="../../assets/images/glaucoma-disease-and-how-pharmacists-help-people-in-treatment1.jpg" alt="Causes Of Glaucoma">
  <br>
 <br>
 
 <br>
 </div>
 
-<p class="product_desc"><b class="find">What are the Symptoms of Hemophilia? </b></p>
+<p class="product_desc"><b class="find">Pharmacist Vision about Glaucoma</b></p>
 
-<p class="product_desc">Signs and symptoms of hemophilia change, contingent upon your degree of clotting factors. If your clotting-factor level is somewhat decreased, you could drain solely after a medical procedure or injury. On the off chance that your deficiency is serious, you can bleed easily for no reason.</p>
+<p class="product_desc">Glaucoma is a relatively common ophthalmologic disease influencing the adult population. Since glaucoma can stay asymptomatic for such a long time, many people don't understand they have it until the disease declines; moderate visual-field loss is peripheral and typically asymmetric, taking into consideration pay of the impacted eye to address any visual unsettling influences.</p>
+<p class="product_desc">As of now, there is no remedy for glaucoma, and deep-rooted treatment is generally expected to deal with this condition.<a href="https://www.aspcares.com/blog/finding-pharmacy/"><b> Pharmacists</b></a> are undeniably arranged to help patients about the significance to remember routine eye tests and to survey and assist with further developing adherence to glaucoma medications, decreasing glaucoma-related visual deficiency.</p>
 
-<p class="product_desc">Signs and symptoms of impulsive bleeding include:</p>
-<ul>
-    <li><p class="product_desc">Unexplained and extreme bleeding from cuts or wounds.</p></li>
-    <li><p class="product_desc">Extreme bleeding after a medical procedure or dental work.</p></li>
-    <li><p class="product_desc">Numerous huge or profound injuries.</p></li>
-    <li><p class="product_desc">Surprising bleeding after inoculations.</p></li>
-    <li><p class="product_desc">Pain, swelling, or tightness in your joints.</p></li>
-    <li><p class="product_desc">Blood in your urine or stool.</p></li>
-    <li><p class="product_desc">Nosebleeds without a known reason.</p></li>
-    <li><p class="product_desc">In babies, unexplained irritability.</p></li>
-    <li><p class="product_desc">Bleeding into the mind.</p></li>
-</ul>
+<p class="product_desc">Although the possibility of permanent vision loss because of glaucoma is exceptionally startling to numerous patients, early location and treatment can assist with lessening the possibilities of this happening. While focusing on patients with glaucoma, the goals of treatment incorporate bringing down intraocular pressure (IOP), preventing further</p>
 
 <br>
 <br>
  <div class="product_header_cell product_header_img">
- <img src="../../assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders-4.jpg" alt="Signs and Symptoms of Hemophilia ">
+ <img src="../../assets/images/glaucoma-disease-and-how-pharmacists-help-people-in-treatment2.jpg" alt="Sign And Symptoms Of Glaucoma">
  <br>
 </div>
 
 
  
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-
- 
-
   </div>
 
 
 <br>
       <div class="product_header_cell product_header_img">
  
+<br>
 
+    <img src="../../assets/images/glaucoma-disease-and-how-pharmacists-help-people-in-treatment3.png" alt="Glaucoma Symptoms">
 <br>
 <br>
-<p class="product_desc">A direct bump on the head can cause bleeding into the cerebrum for certain individuals who have extreme hemophilia. This may include signs and symptoms, such as:</p>
-<ul>
-    <li><p class="product_desc">Painful, prolonged headache</p></li>
-    <li><p class="product_desc">Repeated vomiting</p></li>
-    <li><p class="product_desc">Sleepiness or lethargy</p></li>
-    <li><p class="product_desc">Double vision</p></li>
-    <li><p class="product_desc">Sudden weakness or clumsiness</p></li>
-    <li><p class="product_desc">Convulsions or seizures</p></li>
+<br>
+<p class="product_desc">
+ harm to the optic nerve, and preventing further visual-work loss while expanding the patient's satisfaction with insignificant adverse impacts from treatment. As of now, there are a few classes of medications that can be utilized for the administration of essential open-point glaucoma (POAG).
+<p class="product_desc"><b class="find">How can Pharmacists help people suffering from Glaucoma?</b></p>
+<p class="product_desc">Pharmacists can assume a significant part in distinguishing risk factors and alluding patients to eye-care experts for fitting screening and assessment. Pharmacists can teach patients how to appropriately control eye drops and about common secondary effects, and they can resolve questions relating to their treatment routine. Pharmacists are prescription specialists and can assist patients with seeing the significance of adherence to their medications by making sense of the advantages of the treatment. They can assist patients with creating ways of making sure to utilize their eye drops and remind them, assuming they are utilizing different drops of a similar prescription or are ingraining more than one medicine, to space the organization by no less than 5 minutes. By and large, the effect a drug specialist can make on a patient's life just by these little mediations can life-change. This advising focuses and instructive tips can assist patients with seeking the treatment they need and forestall irreversible visual impairment.</p>
+
+
+
     
-</ul>
+<p class="product_desc"><b class="find">Treatment of Glaucoma</b></p>
 
-    <br>
-
-    <img src="../../assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders-2.jpg" alt="
-Diagnosis and Management of Hemophilia
-">
-<br>
-<p class="product_desc"><b class="find">The Pharmacist’s Role in Management of Hemophilia</b></p>
-
-<p class="product_desc">The role of the pharmacist in the management of hemophilia keeps on growing as new items keep on being created. <a href="https://www.aspcares.com/blog/finding-a-hemophilia-pharmacist/"><b>Pharmacists</b></a> assume a significant part in drug determination, infection the board, and training. Schooling will be fundamental for patients as well as for the doctors who treat these patients. The pharmacist's role is to be the medication master on all illness states; in this manner, as hemophilia meds become progressively more designated, pharmacists should keep awake to date so they can make ideal proposals to medical care suppliers. Doctors have communicated that they need a superior comprehension of new hemophilia medicines; subsequently, pharmacists should be ready to stay up to date with momentum research and contextualize the important data.
-</p>
-
-
-<p class="product_desc"><b class="find">Treatment of Hemophilia</b></p>
-
-<p class="product_desc">Treatment relies upon the sort and seriousness of the problem. It comprises substitution treatment, in which human plasma concentrates or recombinant (created from DNA) types of the clotting factors VIII or IX are given to supplant the blood clotting factors that are absent or insufficient.</p>
-
+<p class="product_desc">The goal of glaucoma treatment is to reduce IOP to stop any additional eyesight loss. Typically, your doctor will begin treatment with prescription eye drops. If these don’t work or more advanced treatment is needed, your doctor may suggest one of the following treatments:</p>
 <ul>
-    <li><p class="product_desc">Blood factor concentrates are produced using given human blood that has been dealt with and screened to diminish the gamble of communicating irresistible infections, like hepatitis and HIV.</p></li>
-    <li><p class="product_desc">Recombinant clotting factors, which are made in the research center and not from human blood, are normally utilized today.</p></li>
-    <li><p class="product_desc">Recombinant FVIII and FIX items, changed to endure longer in the dissemination, are currently accessible. They required less regular dosing for prophylaxis or anticipation of bleeding.</p></li>
-    <li><p class="product_desc">More current non-factor items are likewise being created for prophylactic use in hemophilia. These enjoy the benefit of the significantly less successive organization, and now and again don't need intravenous organization.</p></li>
-    <li><p class="product_desc">During substitution treatment, the clotting factors are infused or mixed (dribbled) into a patient's vein in the arm or a port in the chest. Normally, individuals with gentle or direct hemophilia don't require substitution treatment except if they will have a medical procedure. The hormone acquainted can animate the body with a discharge clotting factor. It very well may be infused gradually into a vein or utilized as a nasal shower.</p></li>
+<li ><p class="product_desc"><B>Eye Drops:</B> Glaucoma treatment frequently begins with prescription eyedrops. These can assist with decreasing eye pressure by further developing how fluid channels from your eye or by decreasing how much fluid your eye makes.</p></li>
+<li ><p class="product_desc"><B> Oral Medication:</B> At the point when eyedrops alone don't bring your eye pressure down to the ideal level, your PCP may likewise recommend an oral medicine, typically a carbonic anhydrase inhibitor.</p></li>
+<li ><p class="product_desc"><B> Laser treatment:</B> Your eye specialist utilizes a laser (the solid beam of light) to assist with working on fluid seepage from your eye. While the laser can supplement the utilization of eye drops, it may not supplant it. The outcomes of laser medicine change, however, can endure as long as five years. Some laser medicines can likewise be revised.</p></li>
+<li><p class="product_desc"><b>Surgery:</b> Surgery is one more method for reducing eye pressure. It is more intrusive yet can likewise accomplish preferred eye pressure control quicker over drops or laser. Surgery can assist with dialing back vision loss, however, it can't reestablish lost vision or fix glaucoma. There are many sorts of medical procedures for glaucoma, and contingent upon the particular kind and seriousness, your eye specialist might pick one over another.</p></li>
 </ul>
+
+
 <div class="product_header_cell product_header_img">
     <br>
- <img src="../../assets/images/hemophilia-and-pharmacists-role-in-managing-bleeding-disorders-5.jpg" alt="Treatment of Hemophilia ">
+ <img src="../../assets/images/glaucoma-disease-and-how-pharmacists-help-people-in-treatment4.png" alt="Effect Of Glaucoma On Vision">
  <br>
 <br>
 
 <br>
 </div>
-<p class="product_desc">Other therapies include:</p>
-<ul>
-    <li><p class="product_desc"><b>Desmopressin:</b> This is useful in mild hemophilia. The hormone introduced can stimulate the body to release more clotting factors. It can be injected slowly into a vein or used as a nasal spray.</p></li>
-    <li><p class="product_desc"><b>Emicizumab (Hemlibra):</b> This is a more current medication that does exclude clotting factors. This medication can assist with forestalling bleeding episodes in individuals with hemophilia A.</p></li>
-    <li><p class="product_desc"><b>Clot-preserving medications:</b> These are also known as antifibrinolytics. These drugs assist with keeping clots from separating.</p></li>
-    <li><p class="product_desc"><b>Fibrin sealants:</b> These can be applied directly to wound place destinations to advance clotting and recuperating. Fibrin sealants are particularly helpful for dental work.</p></li>
-    <li><p class="product_desc"><b>Physical therapy:</b> It can ease signs and symptoms assuming internal bleeding has harmed your joints. Serious harm could require a medical procedure.</p></li>
-    <li><p class="product_desc"><b>First aid for minor cuts:</b> Utilizing pressure and a wrap will for the most part deal with the bleeding. For little areas of bleeding underneath the skin, utilize an ice pack. Ice pops can be utilized to dial back minor bleeding in the mouth.</p></li>
-</ul>
 
 
 
 <p class="product_desc"><b class="find">Outlook</b></p>
 
-<p class="product_desc">People suffering from hemophilia can hope to have a life expectancy and way of life that is generally typical, for however long they are taught about their condition and have sufficient treatment. The view of people with inhibitors is less confident, particularly for the people who are viewed as high responders. Specialty pharmacists can assist with br  idging that separation and truly with the provisions that the patient is utilizing, sort of make that association, and guarantee that the family knows the exact thing item they're getting and precisely how that functions.
-</p>
+<p class="product_desc">While there isn't a remedy for glaucoma, medicines can monitor eye pressure and forestall vision loss. Eye tests can come down with the disease early and save your sight. On the off chance that you're at high risk for glaucoma, ask your eye specialist how frequently you want screenings. On the off chance that you have glaucoma, utilizing day-to-da eyedrops as recommended means quite a bit. You can likewise get some information about laser medicines and surgery choices. With legitimate consideration, you can hold glaucoma back from deteriorating and causing irreversible vision loss or visual deficiency.</p>
  
-<p class="product_desc"><b><i>If you or anyone you know is suffering from hemophilia, our expert providers at <a href="https://www.aspcares.com/"><b>ASP Cares</b></a> will take care of your health and help you recover.</b></i></p>
+<div class="product_header_cell product_header_img">
+    <br>
+ <img src="../../assets/images/glaucoma-disease-and-how-pharmacists-help-people-in-treatment5.jpg" alt="Diagnosis and Treatment Of Glaucoma">
+ <br>
+<br>
+
+<br>
+</div>
+<p class="product_desc"><b><i>If you or anyone you know is suffering from glaucoma, our expert providers at <a href="https://www.aspcares.com/"><b>ASP Cares</b></a> will take care of your health and help you recover.</b></i></p>
 <p class="product_desc"><b><i>Call us at (210)-417-4567 to <a href="https://www.aspcares.com/"><b>book an appointment</b></a> with our specialists.</b></i> </p>
 
 <p class="product_desc"><b class="find">People Also Read:</b></p>
-<p class="product_desc"><a href="https://www.aspcares.com/blog/hemophilia-medication-plan/"><span><i class="fa fa-arrow-right" aria-hidden="true"></i></span><b>  Hemophilia Medication Plan: All About Hemophilia</b></a></p>
-<p class="product_desc"><a href="https://www.aspcares.com/blog/hemophilia-diagnosis/"><span><i class="fa fa-arrow-right" aria-hidden="true"></i></span><b>  Hemophilia Diagnosis</b></a></p>
+<p class="product_desc"><a href="https://www.aspcares.com/blog/telehealth-for-pain-management-and-the-advantages-of-telemedicine/"><span><i class="fa fa-arrow-right" aria-hidden="true"></i></span><b> Telehealth and impact on Pain Management</b></a></p>
+<p class="product_desc"><a href="https://www.aspcares.com/blog/overview-of-worker-compensation-treatment/"><span><i class="fa fa-arrow-right" aria-hidden="true"></i></span><b> Learn About Workers Compensation Treatment & Benefits</b></a></p>
 
 
 

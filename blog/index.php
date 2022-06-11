@@ -555,6 +555,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap">
                              <div class="product_header_table blog">
                                 <div class="product_header_cell product_header_img">
+                                        <img src="../assets/images/glaucoma-disease-and-how-pharmacists-help-people-in-treatment.jpg" alt="Glaucoma: Pharmacists' Vision And Care" />
+                                    </div>
+                                    <!-- .product_header_cell -->
+                                    <div class="product_header_cell product_header_txt">
+                                        <h2 class="product_title">Glaucoma Disease: The Pharmacist's Role in Prevention  </h2>
+                                        <p class="product_desc">Glaucoma is a disease that damages your eye's optic nerve. This nerve is essential for your eye health. Pharmacists can help a patient in order to prevent the disease.</p>
+                                    
+                                        <br>
+                                        <a lang="en" href="glaucoma-disease-and-how-pharmacists-help-people-in-treatment/" class="jt_btn jt_underline_btn jt_underline_btn_primary u1"><span style="color: #ee2a32;">READ MORE</span></a>
+                                        <br>
+                                    
+                                    </div>
+                                  </div> 
+                                      <div class="product_header_table blog">
+                                <div class="product_header_cell product_header_img">
                                         <img src="../assets/images/breast-cancer-role-of-pharmacist-awareness-and-treatment1.jpg" alt="Pharmacist’s Importance Role In Breast Cancer" />
                                     </div>
                                     <!-- .product_header_cell -->
