@@ -62,7 +62,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <link rel='stylesheet' id='responsive-sub-css' href='../../assets/css/help.css' type='text/css' media='all' />
    
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type='text/javascript' src='../../assets/js/jquery.js'></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script type='text/javascript' src='../../assets/js/jquery-migrate.min.js'></script>
@@ -350,7 +350,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <br>
                                 <h1>Contact Us   </h1>
                                 <p>
-                                    Phone : &nbsp;&nbsp;<!-- 361-221-4778 --><a herf="tel:+1 214-475-6078" id="call">214-475-6078</a>
+                                    Phone : &nbsp;&nbsp;361-221-4778
                                     <br> Fax : &nbsp;&nbsp;361-237-1748
                                     <br> Email : &nbsp;&nbsp;info@aspcares.com
                                 </p>
@@ -396,26 +396,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="wrap">
                             <div class="product_header_table">
                                 <div class="product_header_cell product_header_img">
-                                    <img src="../../assets/images/nicole.png" alt="" />
+                                    <img src="../../assets/images/Marisa.png" alt="" />
                                 </div>
                                 <!-- .product_header_cell -->
                                 <div class="product_header_cell product_header_txt">
-                                    <h2 class="product_title">NICOLE WILSON</h2>
+                                    <!-- <h2 class="product_title">NICOLE WILSON</h2> -->
+                                    <h2 class="product_title">Marisa Rinche PharmD, RPh</h2>
                                     <p class="product_desc">
-                                        Nicole Wilson is our Pharmacist in Charge at ASP Cares Corpus Christi. Nicole received her doctorate in pharmacy from Texas A&M Health Science Center Rangel College of Pharmacy in Kingsville, Texas. She is a Corpus Christi native.</p>
+                                        Marisa Rinche is the pharmacist in charge at ASP Cares Corpus Christi,TX.  She lives in Rockport, TX where she was born and raised.</p>
                                     <p class="product_desc">
-                                        Nicole was selected to represent Rangel College of Pharmacy student body during their SACS and ACPE Accreditation. In 2013, she was awarded APhA's Ron L. Williams Memorial Fund: Supporting Student Drug Education of Alcoholism and other Drug Dependencies. She also represented her college in Salt Lake City Utah at a summer program on Addiction and Recovery in 2013.</p>
-                                    <p class="product_desc">
-                                        Nicole served as delegate for SNPhA at a National Conference in 2012 and was also delegate at the Texas Pharmacy Association Leadership Symposium in 2013.
-                                    </p>
-                                    <p class="product_desc">
-                                        Nicole attributes her passion and love for her job to her great grandmother who struggled with Alzheimer's throughout her childhood. After watching her great grandmother go through the physical, mental, and emotional battle associated with Alzheimer's, she has always felt compelled to help patients and their family members fully understand disease states, medication therapy, and help ease their transition in caring for a new diagnosis.
-                                    </p>
-                                    <p class="product_desc">
-                                        Nicole believes in quality patient care and strives to build strong patient relationships. She is also hopeful for the advances of medicine and technology in the medical field.
-                                        <br>
-                                     
-                                    </p>
+                                        Marisa graduated from Texas A&M University in 2009 with a bachelors of science degree in Biomedical Sciences and received her doctorate of pharmacy in 2018 from Texas A&M Health Science Center Rangel College of Pharmacy in College Station, TX.</p>
+                                    
                                     <br><br><br><br>
                                     <!-- <a class="btn btn-block btn-social btn-linkedin jt_btn jt_btn_primary product_shop c1">
             <span class="fa fa-linkedin"></span> <span style="margin-left: 30px; color: white; letter-spacing: 0.5px">Follow</span>
