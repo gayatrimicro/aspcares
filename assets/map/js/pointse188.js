@@ -227,14 +227,23 @@ var LocsA = [{
 //     zoom: 8,
 //     icon: 'assets/images/map.svg'
 // }, 
+// {
+//     lat: 29.442720,
+//     lon: -98.470970,
+//     title: 'SA Grayson',
+//     html: ['<a href="location/SA Grayson/"><h3 style="font-size:15px;color:black">SA Grayson</h3></a>', '<p style="font-size:15px;margin-bottom:5px">818 E Grayson Ste A<br>San Antonio, TX, 78208</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(210) 598-2678" style="color: #1c61af;">(210) 598-2678</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(210) 255-8358">(210) 255-8358</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/sa-cinnamon-creek/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// },29.4491646936431, -98.49512632883535
 {
-    lat: 29.442720,
-    lon: -98.470970,
-    title: 'SA Grayson',
-    html: ['<a href="location/SA Grayson/"><h3 style="font-size:15px;color:black">SA Grayson</h3></a>', '<p style="font-size:15px;margin-bottom:5px">818 E Grayson Ste A<br>San Antonio, TX, 78208</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(210) 598-2678" style="color: #1c61af;">(210) 598-2678</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(210) 255-8358">(210) 255-8358</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/sa-cinnamon-creek/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+    lat: 29.4491646936431,
+    lon: -98.49512632883535,
+    title: 'San Antonio',
+    html: ['<a href="location/sa-cinnamon-creek/"><h3 style="font-size:15px;color:black">San Antonio</h3></a>', '<p style="font-size:15px;margin-bottom:5px">120 West Ashby Pl<br>San Antonio, TX 78212</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(210) 598-2678" style="color: #1c61af;">(210) 598-2678</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(210) 255-8358">(210) 255-8358</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/sa-cinnamon-creek/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}, {
+}, 
+{
     lat: 32.332342,
     lon: -95.288535,
     title: 'Tyler, TX',

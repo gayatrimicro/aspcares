@@ -57,7 +57,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <link rel='stylesheet' id='responsive-sub-css' href='../../assets/css/help.css' type='text/css' media='all' />
    
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type='text/javascript' src='../../assets/js/jquery.js'></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script type='text/javascript' src='../../assets/js/jquery-migrate.min.js'></script>
@@ -252,7 +252,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                  <div class="bread">
                                 <ul class="breadcrumb">
                                <li><a href="https://aspcares.com/">Home</a></li>
-                        <li>SA Grayson</li>
+                        <!-- <li>SA Grayson</li> -->
+                        <li>San Antonio</li>
                                 </ul>
 
                             </div>
@@ -266,7 +267,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h1 lang="en" class="article_title">SA - Stone Oak</h1>
                     </div> -->
                     <!-- .wrap -->
-                      <h1 lang="en" class="article_title ct">SA Grayson</h1>
+                      <!-- <h1 lang="en" class="article_title ct">SA Grayson</h1> -->
+                      <h1 lang="en" class="article_title ct">San Antonio</h1>
                 </div>
                 <div class="gap1">
                     <div class="wrap">
@@ -300,7 +302,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                             </div>
                                             <div class="around_slider_item">
                                                 <a href="https://goo.gl/maps/q4qgwD82MEm" target="_blank">
-                                                <img src="../../assets/images/oak2.jpg" alt="discover-cafe-03" />
+                                                <img src="../../assets/images/san-antonio.png" alt="discover-cafe-03" />
                                             </a>
                                             </div>
                                         </div>
@@ -319,12 +321,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </figure>
                             <div class="academy_intro_txt">
                                 <h1>Address   </h1>
-                                <p>
+                                <!-- <p>818 E Grayson Ste A San Antonio,<br>TX 78208<br> -->
+                                <p>120 West Ashby Pl,<br> San Antonio, TX 78212<br>
 
-818 E Grayson Ste A San Antonio,<br>
-TX 78208<br>
-
-                                    <a lang="en" href="https://www.google.com/maps/place/8627+Cinnamon+Creek+Dr+Building+100+Suite+B,+San+Antonio,+TX+78240,+USA/@29.5223913,-98.5829183,17z/data=!3m1!4b1!4m5!3m4!1s0x865c675023fd723b:0xb93c3785f7c1f2bb!8m2!3d29.5223913!4d-98.5807296" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                    <!-- <a lang="en" href="https://www.google.com/maps/place/8627+Cinnamon+Creek+Dr+Building+100+Suite+B,+San+Antonio,+TX+78240,+USA/@29.5223913,-98.5829183,17z/data=!3m1!4b1!4m5!3m4!1s0x865c675023fd723b:0xb93c3785f7c1f2bb!8m2!3d29.5223913!4d-98.5807296" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> -->
+                                        <a lang="en" href="https://goo.gl/maps/2GFw8yD2r9pTeswR7" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> 
+                                        <i class="fa fa-map-marker" aria-hidden="true"></i>
                                 <span style="color: rgb(238, 42, 50);">DIRECTIONS</span></a>
                                 </p>
                                 <br>
@@ -341,7 +343,7 @@ TX 78208<br>
                                 <br>
                                 <h1>Contact Us   </h1>
                                 <p>
-                                    Phone : &nbsp;&nbsp;<!-- (210) 598-2678 --><a herf="tel:+1 214-475-6078" id="call">214-475-6078</a>
+                                    Phone : &nbsp;&nbsp;(210) 598-2678
                                     <br> Fax : &nbsp;&nbsp;(210) 255-8358
                                     <br> Email : &nbsp;&nbsp;info@aspcares.com
 
@@ -390,21 +392,22 @@ TX 78208<br>
                         <div class="wrap">
                             <div class="product_header_table">
                                 <div class="product_header_cell product_header_img">
-                                    <img src="../../assets/images/krishna.png" alt="" />
+                                    <img src="../../assets/images/Margaret.png" alt="" />
                                 </div>
                                 <!-- .product_header_cell -->
                                 <div class="product_header_cell product_header_txt">
-                                    <h2 class="product_title">KRISHNA PATEL</h2>
+                                    <!-- <h2 class="product_title">KRISHNA PATEL</h2> -->
+                                    <h2 class="product_title">Margaret Adjeji</h2>
                                     <p class="product_desc">
-                                        Krishna Patel is the Pharmacist-in-Charge at the ASP Cares location in San Antonio. With more than a decade of experience in the retail pharmacy setting, Krishna is not only well versed in dispensing prescription orders but understands the important role she plays in the delivery of patient care. This includes counseling for medication safety and performing medication therapy management to ensure patients receive optimal health outcomes. </p>
-                                    <p class="product_desc">
+                                        <!-- Krishna Patel is the Pharmacist-in-Charge at the ASP Cares location in San Antonio. With more than a decade of experience in the retail pharmacy setting, Krishna is not only well versed in dispensing prescription orders but understands the important role she plays in the delivery of patient care. This includes counseling for medication safety and performing medication therapy management to ensure patients receive optimal health outcomes.  --></p>
+                                   <!--  <p class="product_desc">
                                        Patient safety and providing care of unparalleled quality are of utmost importance to Krishna and the team at ASP Cares. She enjoys going the extra mile to take care of patients and build strong relationships</p>
                                    
                                     <p class="product_desc">
                                        Krishna holds a bachelor’s degree in pharmacy and has been a licensed pharmacist in both North Carolina and Texas since 2007.
                                        
                                      
-                                    </p>
+                                    </p> -->
                                     <br> <br>
               
                                 </div>
