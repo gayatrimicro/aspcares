@@ -260,7 +260,8 @@
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li>
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li> -->
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Grayson</span></a></li>
+                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Grayson</span></a></li> -->
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>San Antonio</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/503bfacility/"><span>503B Facility SA, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/tyler/"><span>Tyler, TX</span></a></li>
                                         </ul>
