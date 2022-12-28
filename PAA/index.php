@@ -272,7 +272,7 @@ Patient Assistance<br> Program (PAP)
                         <!-- .wrap -->
                     </div> 
                 </div>
-<br><br>
+                <br><br>
 
                 <!-- .article_body -->
                  <?php
@@ -287,7 +287,7 @@ Patient Assistance<br> Program (PAP)
 
 
       <?php 
-        include "../accreditation.php";
+       // include "../accreditation.php";
         ?>
         
        <?php 

@@ -395,7 +395,7 @@ ASP Cares provides medications for patients seeking to overcome addiction to hel
         <!-- .main_container -->
       
     <?php 
-      include "../../accreditation.php";
+   //  include "../../accreditation.php";
       ?>
     
       

@@ -4,14 +4,15 @@
 
 
 
-var LocsA = [{
-    lat: 29.623591,
-    lon: -95.597566,
-    title: '503B Facility',
-    html: ['<a href="location/503bfacility/"><h3 style="font-size:15px;color:black">503B Facility</h3></a>', '<p style="font-size:15px;margin-bottom:5px">2414 Babcock Rd, Ste 106, <br>San Antonio, TX 78229-4870<br>(Bexar County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(210)-417-4567" style="color: #1c61af;">(210)-417-4567</a>, <a href="tel:888-412-5929" style="color: #1c61af;">888-412-5929</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:210-858-6007">210-858-6007</a>, <a style="color: #1c61af;" href="tel:888-413-1021">888-413-1021</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/503bfacility/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
-}, 
+var LocsA = [
+// {
+//     lat: 29.623591,
+//     lon: -95.597566,
+//     title: '503B Facility',
+//     html: ['<a href="location/503bfacility/"><h3 style="font-size:15px;color:black">503B Facility</h3></a>', '<p style="font-size:15px;margin-bottom:5px">2414 Babcock Rd, Ste 106, <br>San Antonio, TX 78229-4870<br>(Bexar County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(210)-417-4567" style="color: #1c61af;">(210)-417-4567</a>, <a href="tel:888-412-5929" style="color: #1c61af;">888-412-5929</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:210-858-6007">210-858-6007</a>, <a style="color: #1c61af;" href="tel:888-413-1021">888-413-1021</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/503bfacility/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 // {
 //     lat: 35.165939,
 //     lon: -106.591016,
@@ -195,14 +196,15 @@ var LocsA = [{
     html: ['<a href="location/macallen/"><h3 style="font-size:15px;color:black">McAllen, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1401 E. Ridge Rd, Unit B<br>McAllen, Texas 78503-1525<br>(Hidalgo County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:844-800-9617" style="color: #1c61af;">844-800-9617</a>, <a href="tel:(817) 900-9088" style="color: #1c61af;">(817) 900-9088</a>, <a href="tel:(817) 900-9088" style="color: #1c61af;">(817) 900-9088</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:956-284-6689">956-284-6689</a>, <a style="color: #1c61af;" href="tel:844-800-9618">844-800-9618</a>, <a style="color: #1c61af;" href="tel:844-800-9618">844-800-9618</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/macallen/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}, {
-    lat: 35.532391,
-    lon: -97.577614,
-    title: 'Oklahoma City',
-    html: ['<a href="location/oklahoma/"><h3 style="font-size:15px;color:black">Oklahoma City</h3></a>', '<p style="font-size:15px;margin-bottom:5px">3405 NW Expwy, Oklahoma City,<br> OK 73112-4419 (Oklahoma County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:405-607-3995" style="color: #1c61af;">405-607-3995</a>, <a href="tel:888-507-0673" style="color: #1c61af;">888-507-0673</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:405-607-3998">405-607-3998</a>, <a style="color: #1c61af;" href="tel:888-507-0693">888-507-0693</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/oklahoma/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
-    zoom: 8,
-    icon: 'assets/images/map.svg'
 }, 
+// {
+//     lat: 35.532391,
+//     lon: -97.577614,
+//     title: 'Oklahoma City',
+//     html: ['<a href="location/oklahoma/"><h3 style="font-size:15px;color:black">Oklahoma City</h3></a>', '<p style="font-size:15px;margin-bottom:5px">3405 NW Expwy, Oklahoma City,<br> OK 73112-4419 (Oklahoma County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:405-607-3995" style="color: #1c61af;">405-607-3995</a>, <a href="tel:888-507-0673" style="color: #1c61af;">888-507-0673</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:405-607-3998">405-607-3998</a>, <a style="color: #1c61af;" href="tel:888-507-0693">888-507-0693</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/oklahoma/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+//     zoom: 8,
+//     icon: 'assets/images/map.svg'
+// }, 
 // {
 //     lat: 28.366770,
 //     lon: -81.425909,

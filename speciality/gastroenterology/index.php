@@ -392,7 +392,7 @@ Support
       
       
       <?php 
-      include "../../accreditation.php";
+    //  include "../../accreditation.php";
       ?>
     
       

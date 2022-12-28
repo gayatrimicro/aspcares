@@ -387,7 +387,7 @@ Medications-for-Pain-Management</a> </p>
         <!-- .main_container -->
       
     <?php 
-      include "../../accreditation.php";
+    //  include "../../accreditation.php";
       ?>
     
       

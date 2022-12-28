@@ -377,7 +377,7 @@ ASP Cares provides medications for wound care patients so that they can enjoy ac
         <!-- .main_container -->
       
     <?php 
-      include "../../accreditation.php";
+    //  include "../../accreditation.php";
       ?>
     
       

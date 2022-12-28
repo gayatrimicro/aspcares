@@ -432,7 +432,7 @@ Support
         <!-- .main_container -->
       
     <?php 
-      include "../../accreditation.php";
+    //  include "../../accreditation.php";
       ?>
     
       

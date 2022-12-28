@@ -330,7 +330,7 @@ RESPECT</b>
             </main>
             <!-- .main_container -->
             <?php 
-     include "../../accreditation.php"
+     //include "../../accreditation.php"
      ?>
             <?php 
       include "../../footer.php"

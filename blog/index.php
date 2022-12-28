@@ -2429,7 +2429,7 @@ Besides being Dental Hygiene Awareness Month, it is also American Pharmacists Mo
 <section id="bottom_scroll" style="width:100%;float:left;">
 
 <?php 
-     include "../accreditation.php"
+    // include "../accreditation.php"
      ?>
         <!-- .main_container -->
       <?php

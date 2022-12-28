@@ -472,7 +472,7 @@ http://www.cancer.net/coping-with-cancer/finding-support-and-information</p></a>
         <!-- .main_container -->
       
     <?php 
-      include "../../accreditation.php";
+    //  include "../../accreditation.php";
       ?>
     
       

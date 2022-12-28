@@ -360,17 +360,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                     </div>
                      <!--  shop supplemetns start -->
-               <div class="main_section main_recommend">
-                   <!--  <div class="main_section_head">
-                       
-                    </div> -->
+               <!-- <div class="main_section main_recommend">
+                   
                     <div class="main_section_body">
                         <div class="">
                             <div class="main_recommend_wrap">
-                                <figure>
+                                <figure> -->
                                     <!-- <iframe allowfullscreen frameborder="0" height="510" src="https://www.youtube.com/embed/O3YH7ejIQFg?rel=0" width="100%"></iframe> -->
 
-                                   <a href="https://us.fullscript.com/welcome/aspcares" target="_blank">
+                                   <!-- <a href="https://us.fullscript.com/welcome/aspcares" target="_blank">
                                    <div class="container4">
                                     
                                     <img src="../../assets/images/supplyment.jpg" class="size4">
@@ -387,9 +385,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                                 </figure>
                             </div>
-                        </div><!-- .wrap -->
-                    </div><!-- .main_section_body -->
-                </div>
+                        </div>
+                    </div>
+                </div> -->
                <!-- shop supplements end -->
                     <link rel="stylesheet" href="../../assets/css/mapbox.css">
                     <div class="product_header">
@@ -437,7 +435,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         </main>
             <?php 
-     include "../../accreditation.php"
+     //include "../../accreditation.php"
      ?>
         <!-- .main_container -->
       

@@ -334,13 +334,13 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 </div>
 <nav lang=en class=menu_container>
 <ul id=menu class=menu>
-<li id=menu-item-1257 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257 clr4"><a href="https://us.fullscript.com/welcome/aspcares" target=_blank><span class=clr4>SHOP SUPPLEMENTS</span></a>
-</li>
-<li id=menu-item-1257 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>ABOUT</span></a>
+<!-- <li id=menu-item-1257 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257 clr4"><a href="https://us.fullscript.com/welcome/aspcares" target=_blank><span class=clr4>SHOP SUPPLEMENTS</span></a>
+</li> -->
+<!-- <li id=menu-item-1257 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>ABOUT</span></a>
 <ul class=sub-menu>
 <li id=menu-item-2883 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883 n1"><a href="/accreditations/"><span>Accreditations</span> </a></li>
 </ul>
-</li>
+</li> -->
 <li id=menu-item-1259 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>LOCATIONS</span></a>
 <ul class="sub-menu n1">
 <!-- <li id=menu-item-2883 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883">
@@ -388,12 +388,12 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/astoria/"><span>Astoria, NY</span></a></li>
 </ul>
 </li> -->
-<li id=menu-item-2883 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883">
+<!-- <li id=menu-item-2883 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883">
 <a href="#"><span>Oklahoma</span></a>
 <ul class=sub-menu-inner>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/oklahoma/"><span>Oklahoma City, OK</span></a></li>
 </ul>
-</li>
+</li> -->
 <!-- <li id=menu-item-2884 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884">
 <a href="#"><span>Tennessee</span></a>
 <ul class=sub-menu-inner>
@@ -412,12 +412,12 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston-bellfort/"><span>Houston - Bellfort</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li> -->
-<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
+<!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Grayson</span></a></li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>San Antonio</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/503bfacility/"><span>503B Facility SA, TX</span></a></li>
+<!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/503bfacility/"><span>503B Facility SA, TX</span></a></li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/tyler/"><span>Tyler, TX</span></a></li>
 </ul>
 </li>
@@ -450,8 +450,8 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <li id=menu-item-2884 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884 n1"><a href="/lop/"><span>LOP</span></a></li>
 </ul>
 </li>
-<li id=menu-item-1257 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="http://503bfacility.com/" target=_blank><span>503B</span></a>
-</li>
+<!-- <li id=menu-item-1257 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="http://503bfacility.com/" target=_blank><span>503B</span></a>
+</li> -->
 <li id=menu-item-1257 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>SERVICES</span></a>
 <ul class=sub-menu>
 <li id=menu-item-2883 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883 n1"><a href="/340B/"><span>340B</span></a></li>
@@ -575,7 +575,7 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <label for=your_mail class=contact_form_label>Locations</label>
 <select name=selectlocation required id=selectlocation class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required">
 <option value="">Select Location</option>
-<option value="503B Facility">503B Facility</option>
+<!-- <option value="503B Facility">503B Facility</option> -->
 <!-- <option value="Albuquerque, NM">Albuquerque, NM</option> -->
 <option value="Astoria, NY">Astoria, NY</option>
 <!-- <option value="Austin, TX">Austin, TX</option> -->
@@ -591,9 +591,9 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <option value="Las Vegas, NV">Las Vegas, NV</option>
 <option value="Las Vegas, MLK, NV">Las Vegas, MLK, NV</option>
 <!-- <option value="Livingston, NJ">Livingston, NJ</option> -->
-<option value="McAllen, TX">McAllen, TX</option>
+<!-- <option value="McAllen, TX">McAllen, TX</option> -->
 <!-- <option value="Miami, FL">Miami, FL</option> -->
-<option value="Oklahoma City, OK">Oklahoma City, OK</option>
+<!-- <option value="Oklahoma City, OK">Oklahoma City, OK</option> -->
 <!-- <option value="Orlando, FL">Orlando, FL</option> -->
 <option value="Pasadena, TX">Pasadena, TX</option>
 <option value="San Antonio, TX">San Antonio, TX</option>
@@ -1241,9 +1241,9 @@ next
 </section>
 </div>
 <div class="main_section main_recommend">
-<div class=main_section_head>
-</div>
-<div class=main_section_body>
+<!-- <div class=main_section_head>
+</div> -->
+<!-- <div class=main_section_body>
 <div class="">
 <div class=main_recommend_wrap>
 <figure>
@@ -1259,7 +1259,7 @@ next
 </figure>
 </div>
 </div>
-</div>
+</div> -->
 </div>
 <div class="main_section main_recommend" style="padding: 70px 0 !important;">
 <div class=main_section_head>
@@ -1615,7 +1615,7 @@ Learn more about the value-added services we provide to our customers.
 </div>
 </div>
 </div>
-<div class="main_section main_recommend">
+<!-- <div class="main_section main_recommend">
 <div class=main_section_head>
 <div class=wrap>
 <h2 class=main_section_title lang=en>503B</h2>
@@ -1634,7 +1634,7 @@ Learn more about the value-added services we provide to our customers.
 </div>
 </div>
 </div>
-</div>
+</div> -->
 <div class="main_section main_meeting" style="padding-top: 37px; padding-bottom: 80px;">
 <div class="main_section_head our">
 <div class=wrap>
@@ -1764,12 +1764,12 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 <div class="main_section main_products" style="padding: 0 0 90px;">
 <div class=main_section_body>
 <div class=wrap>
-<div class=products_slider_list_container>
-<div class="slick-control slick1">
+<!-- <div class=products_slider_list_container> -->
+<!-- <div class="slick-control slick1">
 <button class="slick-arrows slick-prev products_list_slider_prev" type=button>PREV</button>
 <button class="slick-arrows slick-next products_list_slider_next" type=button>NEXT</button>
-</div>
-<div class=products_list_slider>
+</div> -->
+<!-- <div class=products_list_slider> -->
 <!-- <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
@@ -1778,7 +1778,8 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 </div>
 </div>
 </div> -->
-<div class=product_slider_item>
+
+<!-- <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
 <a href="https://www.achc.org/" target=_blank rel=nofollow>
@@ -1786,7 +1787,8 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 </a>
 </div>
 </div>
-</div>
+</div> -->
+
 <!-- <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
@@ -1795,7 +1797,8 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 </div>
 </div>
 </div> -->
-<div class=product_slider_item>
+
+<!-- <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
 <a href="https://www.jointcommission.org/" target=_blank rel=nofollow>
@@ -1810,7 +1813,8 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 <img src="/assets/images/t1.png" alt=logo /></a>
 </div>
 </div>
-</div>
+</div> -->
+
 <!-- <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
@@ -1826,14 +1830,16 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 </div>
 </div>
 </div> -->
-<div class=product_slider_item>
+
+<!-- <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
 <a href="https://www.pharmacypracticeaccredit.org/practices/specialty" target=_blank rel=nofollow>
 <img src="/assets/images/f7.png" alt=logo /></a>
 </div>
 </div>
-</div>
+</div> -->
+
 <!-- <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
@@ -1843,7 +1849,8 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 </div>
 </div>
 </div> -->
-<div class=product_slider_item>
+
+<!-- <div class=product_slider_item>
 <div class=products_slider_list_image_box>
 <div class=products_slider_list_image>
 <a href="https://nabp.pharmacy/programs/verified-pharmacy-program/" target=_blank rel=nofollow>
@@ -1851,10 +1858,11 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 </a>
 </div>
 </div>
-</div>
-</div>
-</div>
-</div>
+</div> -->
+
+<!-- </div>
+</div> -->
+<!-- </div> -->
 </div>
 </div>
 </div>

@@ -288,7 +288,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </main><!-- .main_container -->
         <?php 
-              include "../accreditation.php";
+              //include "../accreditation.php";
               ?><?php
               include "../footer.php"
               ?><?php 
