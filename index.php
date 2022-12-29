@@ -406,7 +406,8 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/austin/"><span>Austin, TX</span></a></li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/corpuschristi/"><span>Corpus Christi, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/dallas/"><span>Dallas, TX</span></a></li>
-<!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li> -->
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/weslaco/"><span>Weslaco, TX</span></a></li>
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/harlingen/"><span>Harlingen, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
@@ -416,12 +417,21 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Grayson</span></a></li> -->
-<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>San Antonio</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>San Antonio, TX</span></a></li>
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/503bfacility/"><span>503B Facility SA, TX</span></a></li> -->
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/tyler/"><span>Tyler, TX</span></a></li>
 </ul>
 </li>
+<li id="menu-item-2886" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2886">
+                                       <a href="#"><span>Maryland</span></a>
+                                        <ul class="sub-menu-inner">
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/maryland/"><span>Columbia</span></a></li>
+                                            
+                                        </ul>
+                                        
+                                    </li>
 </ul>
+
 </li>
 <li id=menu-item-1257 class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>SPECIALTIES</span></a>
 <ul class="sub-menu n2">
@@ -583,7 +593,8 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <!-- <option value="Columbia, MD">Columbia, MD</option>
  --><option value="Corpus Christi, TX">Corpus Christi, TX</option>
 <!-- <option value="Dickson, TN">Dickson, TN</option> -->
-<!-- <option value="El Paso, TX">El Paso, TX</option> -->
+<option value="El Paso, TX">El Paso, TX</option>
+<option value="Weslaco, TX">Weslaco, TX</option>
 <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
 <option value="Dallas, TX">Dallas, TX</option>
 <!-- <option value="Houston, TX">Houston, TX</option>
@@ -647,7 +658,7 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <div class=contact_form_column>
 <label for=your_mail class=contact_form_label>Locations</label>
 <select class=wpcf7-text onchange="selectPDF(this);">
-<!-- <option value="pdf/QUESTION 3.pdf">El Paso, TX </option> -->
+<option value="pdf/QUESTION 3.pdf">El Paso, TX </option>
 <option value="pdf/QUESTION 4.pdf">San Antonio, TX</option>
 <option value="pdf/QUESTION 5.pdf">Miami, FL</option>
 <option value="pdf/QUESTION 6.pdf">Tyler, TX</option>
@@ -994,7 +1005,8 @@ else if(location.includes("sa-stoneoak")==true){document.getElementById("selectl
 // else if(location.includes("dickson")==true){document.getElementById("selectlocation").value="Dickson, TN";document.getElementById("selectlocation").disabled=true;}
 // else if(location.includes("austin")==true){document.getElementById("selectlocation").value="Austin, TX";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("corpuschristi")==true){document.getElementById("selectlocation").value="Corpus Christi, TX";document.getElementById("selectlocation").disabled=true;}
-// else if(location.includes("el-Paso")==true){document.getElementById("selectlocation").value="El Paso, TX";document.getElementById("selectlocation").disabled=true;}
+ else if(location.includes("el-Paso")==true){document.getElementById("selectlocation").value="El Paso, TX";document.getElementById("selectlocation").disabled=true;}
+ else if(location.includes("weslaco")==true){document.getElementById("selectlocation").value="Weslaco, TX";document.getElementById("selectlocation").disabled=true;}
 // else if(location.includes("farmers")==true){document.getElementById("selectlocation").value="Farmers Branch, TX";document.getElementById("selectlocation").disabled=true;}
 // else if(location.includes("houston")==true){document.getElementById("selectlocation").value="Houston, TX";document.getElementById("selectlocation").disabled=true;}
 else if(location.includes("macallen")==true){document.getElementById("selectlocation").value="McAllen, TX";document.getElementById("selectlocation").disabled=true;}
@@ -1075,8 +1087,10 @@ else if(location.includes("oklahoma")==true)
 // {var pagelocation="Austin, TX";console.log("",pagelocation);}
 else if(location.includes("corpuschristi")==true)
 {var pagelocation="Corpus Christi, TX";console.log("",pagelocation);}
-// else if(location.includes("el-Paso")==true)
-// {var pagelocation="El Paso, TX";console.log("",pagelocation);}
+ else if(location.includes("el-Paso")==true)
+ {var pagelocation="El Paso, TX";console.log("",pagelocation);}
+else if(location.includes("weslaco")==true)
+ {var pagelocation="Weslaco, TX";console.log("",pagelocation);}
 // else if(location.includes("farmers")==true)
 // {var pagelocation="Farmers Branch, TX";console.log("",pagelocation);}
 // else if(location.includes("houston")==true)

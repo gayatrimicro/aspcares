@@ -18,21 +18,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta charset="utf-8" />
     <meta name="format-detection" content="telephone=no" />
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
-    <title>Specialty Pharmacy El Paso | Pharmacy El Paso | Asp Cares</title>
-    <meta name="description" content="Asp cares specialty pharmacy at el paso is dedicated to helping patient’s access medications &amp; therapies so they can enjoy active, fulfilling lives." />
+    <title>Specialty Pharmacy Weslaco | Pharmacy Weslaco | Asp Cares</title>
+    <meta name="description" content="Asp cares specialty pharmacy at Weslaco is dedicated to helping patient’s access medications &amp; therapies so they can enjoy active, fulfilling lives." />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="AspCares" />
-    <meta property="og:url" content="https://www.aspcares.com/location/el-Paso/" />
+    <meta property="og:url" content="https://www.aspcares.com/location/weslaco/" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Specialty Pharmacy El Paso | Pharmacy El Paso | Asp Cares" />
-    <meta property="og:description" content="Asp cares specialty pharmacy at el paso is dedicated to helping patient’s access medications &amp; therapies so they can enjoy active, fulfilling lives." />
+    <meta property="og:title" content="Specialty Pharmacy Weslaco | Pharmacy Weslaco | Asp Cares" />
+    <meta property="og:description" content="Asp cares specialty pharmacy at Weslaco is dedicated to helping patient’s access medications &amp; therapies so they can enjoy active, fulfilling lives." />
    
-    <meta name="twitter:title" content="Specialty Pharmacy El Paso | Pharmacy El Paso | Asp Cares" />
-    <meta name="twitter:description" content="Asp cares specialty pharmacy at el paso is dedicated to helping patient’s access medications &amp; therapies so they can enjoy active, fulfilling lives." />
+    <meta name="twitter:title" content="Specialty Pharmacy Weslaco | Pharmacy Weslaco | Asp Cares" />
+    <meta name="twitter:description" content="Asp cares specialty pharmacy at Weslaco is dedicated to helping patient’s access medications &amp; therapies so they can enjoy active, fulfilling lives." />
    
-    <link rel="canonical" href="https://www.aspcares.com/location/el-Paso/" />
+    <link rel="canonical" href="https://www.aspcares.com/location/weslaco/" />
     
-    <link rel="alternate" href="https://www.aspcares.com/location/el-Paso/" hreflang="en-us" />
+    <link rel="alternate" href="https://www.aspcares.com/location/weslaco/" hreflang="en-us" />
    
     <link rel='stylesheet' id='contact-form-7-css' href='../../assets/css/styles.css' type='text/css' media='all' />
     <link rel='stylesheet' id='layout-css' href='../../assets/css/shop.css' type='text/css' media='all' />
@@ -235,11 +235,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      "name" : "AspCares Texas",
       "address": {
           "@type" : "PostalAddress",
-          "streetAddress": "1015 N Zaragoza St., Suite C",
-          "addressLocality": "El Paso",
+          "streetAddress": "1400 N Westgate Dr Suite 200",
+          "addressLocality": "Weslaco",
           "addressRegion": "Texas",
-          "postalCode": "TX 79907-1822",
-          "telephone" : "(915) 860-7225"
+          "postalCode": "Weslaco, TX 78599",
+          "telephone" : "(956) 267-4131"
           },
       "openingHours": "",
       "image": "https://aspcares.com/assets/images/mobile_slider05.jpg",
@@ -265,7 +265,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                  <div class="bread">
                                 <ul class="breadcrumb">
                         <li><a href="https://aspcares.com/">Home</a></li>
-                        <li>El-Paso</li>
+                        <li>Weslaco</li>
                                 </ul>
 
                             </div>
@@ -279,7 +279,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <h1 lang="en" class="article_title">El Paso, TX</h1>
                     </div> -->
                     <!-- .wrap -->
-                      <h1 lang="en" class="article_title ct">El Paso, TX</h1>
+                      <h1 lang="en" class="article_title ct">Weslaco, TX</h1>
                 </div>
                 <div class="gap1">
                     <div class="wrap">
@@ -312,8 +312,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <img src="../../assets/images/Albu2.jpg" alt="discover-cafe-02" />
                                             </div>
                                             <div class="around_slider_item">
-                                                <a href="https://goo.gl/maps/QYCGBJquaoM2" target="_blank">
-                                                <img src="../../assets/images/elpaso.jpg" alt="discover-cafe-03" />
+                                                <a href="https://goo.gl/maps/fYLYTR2XQ5hjiGMJ8" target="_blank">
+                                                <img src="../../assets/images/weslaco.png" alt="discover-cafe-03" />
                                             </a>
                                             </div>
                                         </div>
@@ -333,10 +333,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="academy_intro_txt">
                                
                                <h1>Address   </h1>
-                                <p>1015 N Zaragoza St., Suite C,
-                                    <br> El Paso, TX 79907-1822 (El Paso County)
+                                <p>1400 N Westgate Dr Suite 200,
+                                    <br> Weslaco, TX 78599
                                     <br>
-                                    <a lang="en" href="https://goo.gl/maps/QYCGBJquaoM2" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                    <a lang="en" href="https://goo.gl/maps/fYLYTR2XQ5hjiGMJ8" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> <i class="fa fa-map-marker" aria-hidden="true"></i>
                                 <span style="color: rgb(238, 42, 50);">DIRECTIONS</span></a>
                                 </p>
                                 <br>
@@ -344,8 +344,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h1>Store & Pharmacy Hours</h1>
                                 <!-- <br> -->
                                 <p>
-                                    Monday-Friday : &nbsp;&nbsp;9am to 6pm
-                                    <br> Saturday : &nbsp;&nbsp;9am to 1pm
+                                    Monday-Friday : &nbsp;&nbsp;9am to 5pm
+                                    <br> Saturday : &nbsp;&nbsp;Closed.
                                     <br>Sunday :&nbsp;&nbsp; Closed.
                                     <br> Holidays :&nbsp;&nbsp; Call store for details</h1>
                                 </p>
@@ -353,8 +353,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <br>
                                 <h1>Contact Us   </h1>
                                 <p>
-                                    Phone : &nbsp;&nbsp;<!-- (915) 860-7225 --><a herf="tel:+1 214-475-6078" id="call">214-475-6078</a>
-                                    <br> Fax : &nbsp;&nbsp;(915) 860-7320
+                                    Phone : &nbsp;&nbsp;<!-- (915) 860-7225 --><a herf="tel:+1 956-267-4131" id="call">(956) 267-4131</a>
+                                   
                                     <br> Email : &nbsp;&nbsp;info@aspcares.com
                                 </p>
                                 

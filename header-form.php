@@ -250,7 +250,8 @@
                                         <ul class="sub-menu-inner">
                                            <!--  <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/austin/"><span>Austin, TX</span></a></li> -->
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/corpuschristi/"><span>Corpus Christi, TX</span></a></li>
-                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li> -->
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/el-Paso/"><span>El Paso, TX</span></a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/weslaco/"><span>Weslaco, TX</span></a></li>
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/farmers/"><span>Farmers Branch, TX</span></a></li> -->
                                            <!--  <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
 
@@ -261,7 +262,7 @@
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li>
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li> -->
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Grayson</span></a></li> -->
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>San Antonio</span></a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>San Antonio, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/503bfacility/"><span>503B Facility SA, TX</span></a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/tyler/"><span>Tyler, TX</span></a></li>
                                         </ul>
@@ -928,7 +929,8 @@
                                                         <option value="Corpus Christi, TX">Corpus Christi, TX</option>
                                                         <!-- <option value="Dickson, TN">Dickson, TN</option> -->
 
-                                                        <!-- <option value="El Paso, TX">El Paso, TX</option> -->
+                                                        <option value="El Paso, TX">El Paso, TX</option>
+                                                        <option value="Weslaco, TX">Weslaco, TX</option>
                                                         <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
                                                         <option value="Dallas, TX">Dallas, TX</option>
                                                        <!--  <option value="Houston, TX">Houston, TX</option> -->
@@ -1006,7 +1008,7 @@
                                                 <div class="contact_form_column">
                                                     <label for="your_mail" class="contact_form_label">Locations</label>
                                                     <select class="wpcf7-text" onchange="selectPDF(this);">
-                                                        <!-- <option value="pdf/QUESTION 3.pdf">El Paso, TX </option> -->
+                                                        <option value="pdf/QUESTION 3.pdf">El Paso, TX </option>
                                                         <option value="pdf/QUESTION 4.pdf">San Antonio, TX</option>
                                                         <option value="pdf/QUESTION 5.pdf">Miami, FL</option>
                                                         <option value="pdf/QUESTION 6.pdf">Tyler, TX</option>
@@ -1570,10 +1572,14 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "Corpus Christi, TX";
 document.getElementById("selectlocation").disabled = true;
                 }
-                // else if(location.includes("el-Paso") == true){
-                //     document.getElementById("selectlocation").value = "El Paso, TX";
-// document.getElementById("selectlocation").disabled = true;
-//                 }
+                 else if(location.includes("el-Paso") == true){
+                     document.getElementById("selectlocation").value = "El Paso, TX";
+ document.getElementById("selectlocation").disabled = true;
+                }
+                else if(location.includes("weslaco") == true){
+                     document.getElementById("selectlocation").value = "Weslaco, TX";
+ document.getElementById("selectlocation").disabled = true;
+                }
 //                 else if(location.includes("farmers") == true){
 //                     document.getElementById("selectlocation").value = "Farmers Branch, TX";
 // document.getElementById("selectlocation").disabled = true;
@@ -1924,11 +1930,16 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "Corpus Christi, TX";
                         console.log("",pagelocation);
                     }
-                    // else if(location.includes("el-Paso") == true)
-                    // {
-                    //     var pagelocation = "El Paso, TX";
-                    //     console.log("",pagelocation);
-                    // }
+                     else if(location.includes("el-Paso") == true)
+                     {
+                         var pagelocation = "El Paso, TX";
+                         console.log("",pagelocation);
+                     }
+                     else if(location.includes("weslaco") == true)
+                     {
+                         var pagelocation = "Weslaco, TX";
+                         console.log("",pagelocation);
+                     }
                     // else if(location.includes("farmers") == true)
                     // {
                     //     var pagelocation = "Farmers Branch, TX";
