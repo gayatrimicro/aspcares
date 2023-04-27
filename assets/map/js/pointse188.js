@@ -47,6 +47,14 @@ var LocsA = [
 //     icon: 'assets/images/map.svg'
 // }, 
 {
+    lat: 30.533379,
+    lon: -97.805063,
+    title: 'Cedar Park, TX',
+    html: ['<a href="location/cedar-park/"><h3 style="font-size:15px;color:black">1210 Cottonwood Creek Trail</h3></a>', '<p style="font-size:15px;margin-bottom:5px">#210, Cedar Park,<br> TX 78613, USA</p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/cedar-park/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+    zoom: 8,
+    icon: 'assets/images/map.svg'
+},
+{
     lat: 27.779102,
     lon: -97.396287,
     title: 'Corpus Christi, TX',
