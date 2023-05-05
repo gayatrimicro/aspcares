@@ -59,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <link rel='stylesheet' id='responsive-sub-css' href='../../assets/css/help.css' type='text/css' media='all' />
    
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type='text/javascript' src='../../assets/js/jquery.js'></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script type='text/javascript' src='../../assets/js/jquery-migrate.min.js'></script>

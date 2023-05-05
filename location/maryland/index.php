@@ -63,7 +63,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
        <link rel='stylesheet' id='responsive-sub-css' href='../../assets/css/help.css' type='text/css' media='all' />
    
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type='text/javascript' src='../../assets/js/jquery.js'></script>
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script type='text/javascript' src='../../assets/js/jquery-migrate.min.js'></script>
@@ -344,8 +344,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h1>Store & Pharmacy Hours</h1>
                                 <!-- <br> -->
                                 <p>
-                                    Monday-Friday : &nbsp;&nbsp;9am to 5pm
-                                    <br> Saturday : &nbsp;&nbsp;Closed.
+                                    Monday-Thrusday : &nbsp;&nbsp;9am to 6pm
+                                    <br> Friday : &nbsp;&nbsp;9am to 5pm
                                     <br>Sunday :&nbsp;&nbsp; Closed.
                                     <br> Holidays :&nbsp;&nbsp; Call store for details</h1>
                                 </p>
@@ -353,7 +353,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <br>
                                 <h1>Contact Us   </h1>
                                 <p>
-                                    Phone : &nbsp;&nbsp;<!-- (915) 860-7225 --><a herf="tel:+1 410-964-5500" id="call">(410) 964-5500</a>
+                                    Phone : &nbsp;&nbsp;<!-- (915) 860-7225 --><a herf="tel:+1 410-964-5500" id="call">(410) 964-5500</a> / <a herf="tel:+1 877-683-4512" id="call">(877) 683-4512</a>
+                                    <br>
+                                    Fax : &nbsp;&nbsp;<!-- (915) 860-7225 -->(410) 964-5511
                                    
                                     <br> Email : &nbsp;&nbsp;info@aspcares.com
                                 </p>

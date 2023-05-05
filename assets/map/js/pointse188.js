@@ -62,6 +62,14 @@ var LocsA = [
     zoom: 8,
     icon: 'assets/images/map.svg'
 }, 
+{
+    lat: 39.224825,
+    lon: -76.840916,
+    title: 'Maryland, MD',
+    html: ['<a href="location/maryland/"><h3 style="font-size:15px;color:black">Maryland, MD</h3></a>', '<p style="font-size:15px;margin-bottom:5px">5500 Knoll N Dr #140,<br>Columbia MD 21045</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:410-964-5500" style="color: #1c61af;">(410) 964-5500</a> <br> <a href="tel:877-683-4512" style="color: #1c61af;">(877) 683-4512</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:410-964-5511">(410) 964-5511</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/maryland/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+    zoom: 8,
+    icon: 'assets/images/map.svg'
+},
 // {
    
 //     lat: 39.224883,
@@ -79,6 +87,14 @@ var LocsA = [
     zoom: 8,
     icon: 'assets/images/map.svg'
 }, 
+{
+    lat: 31.712132,
+    lon: -106.311804,
+    title: 'El Paso, TX',
+    html: ['<a href="location/el-Paso/"><h3 style="font-size:15px;color:black">El Paso, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1015 N Zaragoza St., Suite C,<br>El Paso, TX 79907-1822 (El Paso County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(915) 860-7225" style="color: #1c61af;">(915) 860-7225</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(915) 860-7320">(915) 860-7320</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/el-Paso/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+    zoom: 8,
+    icon: 'assets/images/map.svg'
+},
 // {
 //     lat: 36.073193,
 //     lon: -87.384758,
@@ -167,7 +183,7 @@ var LocsA = [
     lat: 36.165634,
     lon: -115.171356,
     title: 'Las Vegas, NV',
-    html: ['<a href="location/lasvegas/"><h3 style="font-size:15px;color:black">Las Vegas, NV</h3></a>', '<p style="font-size:15px;margin-bottom:5px">501 S. Rancho Dr. G46<br>Las Vegas, NV 89106-4828<br>(Clark County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:702-912-4844" style="color: #1c61af;">702-912-4844</a>, <a href="tel:866-532-5638" style="color: #1c61af;">866-532-5638</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:702-912-4846">702-912-4846</a>, <a style="color: #1c61af;" href="tel:866-532-5647">866-532-5647</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/lasvegas/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+    html: ['<a href="location/lasvegas/"><h3 style="font-size:15px;color:black">Las Vegas, NV</h3></a>', '<p style="font-size:15px;margin-bottom:5px">501 S. Rancho Dr. G46<br>Las Vegas, NV 89106-4828<br>(Clark County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:866-532-5638" style="color: #1c61af;">(866) 532-5638</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:702-912-4846">702-912-4846</a>, <a style="color: #1c61af;" href="tel:866-532-5647">866-532-5647</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/lasvegas/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
 }, 
@@ -204,7 +220,8 @@ var LocsA = [
     html: ['<a href="location/macallen/"><h3 style="font-size:15px;color:black">McAllen, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1401 E. Ridge Rd, Unit B<br>McAllen, Texas 78503-1525<br>(Hidalgo County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:844-800-9617" style="color: #1c61af;">844-800-9617</a>, <a href="tel:(817) 900-9088" style="color: #1c61af;">(817) 900-9088</a>, <a href="tel:(817) 900-9088" style="color: #1c61af;">(817) 900-9088</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:956-284-6689">956-284-6689</a>, <a style="color: #1c61af;" href="tel:844-800-9618">844-800-9618</a>, <a style="color: #1c61af;" href="tel:844-800-9618">844-800-9618</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/macallen/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}, 
+},
+
 // {
 //     lat: 35.532391,
 //     lon: -97.577614,
@@ -257,10 +274,19 @@ var LocsA = [
     lat: 32.332342,
     lon: -95.288535,
     title: 'Tyler, TX',
-    html: ['<a href="location/tyler    /"><h3 style="font-size:15px;color:black">Tyler, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1109 East 5th Street, <br>Tyler, TX 75701-3318 (Smith County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:(903) 354-0231" style="color: #1c61af;">(903) 354-0231</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:(214) 347-4249">(214) 347-4249</a>, <a style="color: #1c61af;" href="tel:903-630-7262">903-630-7262</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/tyler/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+    html: ['<a href="location/tyler/"><h3 style="font-size:15px;color:black">Tyler, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1109 East 5th Street, <br>Tyler, TX 75701-3318 (Smith County)</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:903-354-0231" style="color: #1c61af;">903-354-0231</a></p><p style="margin-bottom:0px;font-size:15px">Fax : <a style="color: #1c61af;" href="tel:903-630-7262">903-630-7262</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/tyler/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
     zoom: 8,
     icon: 'assets/images/map.svg'
-}];
+}, 
+{
+    lat: 26.174728,
+    lon: -98.007881,
+    title: 'Weslaco, TX',
+    html: ['<a href="location/weslaco/"><h3 style="font-size:15px;color:black">Weslaco, TX</h3></a>', '<p style="font-size:15px;margin-bottom:5px">1400 N Westgate Dr Suite 200,<br>Weslaco, TX 78599</p><p style="font-size:15px;margin-bottom:0px">Phone : <a href="tel:956-246-4709" style="color: #1c61af;">(956) 246-4709</a></p><p style="margin-bottom:0px;font-size:15px">Email : <a style="color: #1c61af;" href="mailto:info@aspcares.com">info@aspcares.com</a></p><a lang="en" href="location/tyler/" class="jt_btn jt_underline_btn jt_underline_btn_primary marker-box-button"><span style="color: #1c62af;">READ MORE</span></a>'].join(''),
+    zoom: 8,
+    icon: 'assets/images/map.svg'
+}
+];
 var LocsAv2 = [{
     lat: 45.9,
     lon: 10.9,

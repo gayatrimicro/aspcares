@@ -339,8 +339,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h1>Store & Pharmacy Hours</h1>
                                 <!-- <br> -->
                                 <p>
-                                    Monday-Thursday : &nbsp;&nbsp;9am to 5pm
-                                    <br> Friday :&nbsp;&nbsp; 8am to 4pm
+                                    Monday-Friday : &nbsp;&nbsp;8am to 4pm
+                                    <!-- <br> Friday :&nbsp;&nbsp; 8am to 4pm -->
                                     <br>  Saturday-Sunday : &nbsp;&nbsp;Closed
                                     <br> Holidays :&nbsp;&nbsp; Call store for details</h1>
                                 </p>
@@ -348,7 +348,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <br>
                                 <h1>Contact Us   </h1>
                                 <p>
-                                    Phone : &nbsp;&nbsp;<!-- (903) 354-0231 --><a herf="tel:903 630 7263" id="call">903-630-7263</a><!-- <a herf="tel:+1 214-475-6078" id="call">214-475-6078</a> -->
+                                    Phone : &nbsp;&nbsp;<!-- (903) 354-0231 --><!-- <a herf="tel:903 630 7263" id="call">903-630-7263</a> --><a herf="tel:903-354-0231" id="call">(903) 354-0231</a>
+                                    <!-- <a herf="tel:+1 214-475-6078" id="call">214-475-6078</a> -->
                                     <br> Fax : &nbsp;&nbsp;903-630-7262
                                     <br> Email : &nbsp;&nbsp;info@aspcares.com
                                 </p>
@@ -402,12 +403,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <h2 class="product_title">ODELL HICKS</h2>
                                     <p class="product_desc">
                                     Odell Hicks is the Pharmacist-in-Charge at ASP Cares in Tyler where he and his pharmacy team provide patients with high-quality service in a dedicated, welcoming environment.</p>
-  <p class="product_desc">
-His favorite part of interacting with patients is being able to answer questions they have about their medications and helping them make educated decisions based on that knowledge. 
-</p>  <p class="product_desc">
-Odell received his Doctor of Pharmacy degree from the Texas A&amp;M Rangel College of Pharmacy where he was a member of Rho Chi, an international honor society for pharmaceutical sciences. He is also ACLS certified.
-</p>  <p class="product_desc">
-In his spare time, Odell enjoys taking part in live trivia and going to escape rooms. 
+                                          <p class="product_desc">
+                                        His favorite part of interacting with patients is being able to answer questions they have about their medications and helping them make educated decisions based on that knowledge. 
+                                        </p>  <p class="product_desc">
+                                        Odell received his Doctor of Pharmacy degree from the Texas A&amp;M Rangel College of Pharmacy where he was a member of Rho Chi, an international honor society for pharmaceutical sciences. He is also ACLS certified.
+                                        </p>  <p class="product_desc">
+                                        In his spare time, Odell enjoys taking part in live trivia and going to escape rooms. 
 
                                     </p><br><br>
                                     
@@ -420,7 +421,7 @@ In his spare time, Odell enjoys taking part in live trivia and going to escape r
                         <!-- .product_pager -->
 
                     </div>
-           
+                        <!-- <br><br> -->
                      <?php
                        include "../../testimonials.php"
                        ?>
