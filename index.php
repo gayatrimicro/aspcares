@@ -453,8 +453,8 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <li id=menu-item-2890 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2890"><a href="/speciality/wound-care/"><span>Wound Care</span></a></li>
 <li id=menu-item-2889 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2889"><a href="/speciality/hiv-aids/"><span>HIV / AIDS</span></a></li>
 <li id=menu-item-2887 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/prep/"><span>PrEP</span></a></li>
-<li id=menu-item-2887 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/hiv-prevention-medication/"><span>Hiv Prevention Medication</span></a></li>
-<li id=menu-item-2887 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/weightloss-diabetes-medications/"><span>Weightloss Diabetes Medications</span></a></li>
+<!-- <li id=menu-item-2887 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/hiv-prevention-medication/"><span>Hiv Prevention Medication</span></a></li>
+<li id=menu-item-2887 class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/weightloss-diabetes-medications/"><span>Weightloss Diabetes Medications</span></a></li> -->
 
 </ul>
 </li>

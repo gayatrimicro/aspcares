@@ -670,8 +670,8 @@ a{
                                
 
  <li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/prep/"><span>PrEP</span></a></li>  
- <li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/hiv-prevention-medication/"><span>Hiv Prevention Medication</span></a></li>
- <li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/weightloss-diabetes-medications/"><span>Weightloss Diabetes Medications</span></a></li>  
+ <!-- <li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/hiv-prevention-medication/"><span>Hiv Prevention Medication</span></a></li>
+ <li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887"><a href="/speciality/weightloss-diabetes-medications/"><span>Weightloss Diabetes Medications</span></a></li>   -->
    
 
                                    
