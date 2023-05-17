@@ -587,7 +587,7 @@ a{
                                              <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston-bellfort/"><span>Houston - Bellfort</span></a></li>
  -->
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li> -->
-                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li> -->
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li> -->
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li> -->
                                             <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Grayson</span></a></li> -->
@@ -971,7 +971,7 @@ a{
                                                         <option value="Las Vegas, NV">Las Vegas, NV</option>
                                                         <option value="Las Vegas, MLK, NV">Las Vegas, MLK, NV</option>
                                                         <!-- <option value="Livingston, NJ">Livingston, NJ</option> -->
-                                                        <!-- <option value="McAllen, TX">McAllen, TX</option> -->
+                                                        <option value="McAllen, TX">McAllen, TX</option>
                                                         <!--<option value="Miami, FL">Miami, FL</option>-->   
                                                         <!-- <option value="Oklahoma City, OK">Oklahoma City, OK</option> -->
                                                         <!-- <option value="Orlando, FL">Orlando, FL</option> -->

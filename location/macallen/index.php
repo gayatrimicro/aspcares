@@ -223,7 +223,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
      "name" : "AspCares Texas",
       "address": {
           "@type" : "PostalAddress",
-          "streetAddress": "1401 E. Ridge Rd, Unit B",
+          "streetAddress": "1401 E. Ridge Rd, Unit N",
           "addressLocality": "McAllen",
           "addressRegion": "Texas",
           "postalCode": "TX 78503-1525",
@@ -303,7 +303,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                 <img src="../../assets/images/vegas1.jpg" alt="discover-cafe-02" />
                                             </div>
                                             <div class="around_slider_item">
-                                                <a href="https://goo.gl/maps/f1BGBEkuAxM2" target="_blank">
+                                                <a href="https://goo.gl/maps/eLButGrqGyFdMuxW9" target="_blank">
                                                 <img src="../../assets/images/mc2.jpg" alt="discover-cafe-03" />
                                             </a>
                                             </div>
@@ -323,11 +323,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </figure>
                             <div class="academy_intro_txt">
                                 <h1>Address   </h1>
-                                <p>1401 E. Ridge Rd, Unit B
-                                    <br>McAllen, Texas 78503-1525 (Hidalgo County) 
+                                <p>1401 E. Ridge Rd, Unit N,
+                                    <br>McAllen, Texas 78503
                                     <br>
-                                    <a lang="en" href="https://goo.gl/maps/f1BGBEkuAxM2" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                <span style="color: rgb(238, 42, 50);">DIRECTIONS</span></a>
+                                    <a lang="en" href="https://goo.gl/maps/hZ7hLyNgqTNKxfoK9" target="_blank" class="store_btn jt_btn jt_underline_btn jt_underline_btn_primary"> <i class="fa fa-map-marker" aria-hidden="true"></i>
+                                    <span style="color: rgb(238, 42, 50);">DIRECTIONS</span></a>
                                 </p>
                                 <br>
                                 <br>
@@ -343,8 +343,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <br>
                                 <h1>Contact Us   </h1>
                                 <p>
-                                    Phone : &nbsp;&nbsp;<!-- 956-284-6687 / 844-800-9617 / (817) 900-9088 --><a herf="tel:+1 214-475-6078" id="call">214-475-6078</a>
-                                    <br> Fax : &nbsp;&nbsp;956-284-6689 / 844-800-9618 / (817) 900-9089
+                                    Phone : &nbsp;&nbsp;<!-- 956-284-6687 / 844-800-9617 / (817) 900-9088 -->
+                                    <!-- <a herf="tel:+1 214-475-6078" id="call">214-475-6078</a> -->
+                                    <a herf="tel:+1 956-284-6687" id="call">956-284-6687</a>
+                                    <br> Fax : &nbsp;&nbsp;956-284-6689 
+                                    <!-- / 844-800-9618 / (817) 900-9089 -->
                                     <br> Email : &nbsp;&nbsp;info@aspcares.com
                                 </p>
                                 

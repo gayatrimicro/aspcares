@@ -414,7 +414,7 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston/"><span>Houston, TX</span></a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/houston-bellfort/"><span>Houston - Bellfort</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/lancaster/"><span>Lancaster, TX</span></a></li> -->
-<!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li> -->
+<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/macallen/"><span>McAllen, TX</span></a></li>
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/martin-luther-king/"><span>Martin Luther King, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/sanantonio/"><span>San Antonio, TX</span></a></li> -->
 <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884"><a href="/location/sa-cinnamon-creek/"><span>SA Grayson</span></a></li> -->
@@ -607,7 +607,7 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 <option value="Las Vegas, NV">Las Vegas, NV</option>
 <option value="Las Vegas, MLK, NV">Las Vegas, MLK, NV</option>
 <!-- <option value="Livingston, NJ">Livingston, NJ</option> -->
-<!-- <option value="McAllen, TX">McAllen, TX</option> -->
+<option value="McAllen, TX">McAllen, TX</option>
 <!-- <option value="Miami, FL">Miami, FL</option> -->
 <!-- <option value="Oklahoma City, OK">Oklahoma City, OK</option> -->
 <!-- <option value="Orlando, FL">Orlando, FL</option> -->
@@ -1903,7 +1903,7 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 </nav>
 <div class=footer_info>
 <p>
-<span style="color: #bbc5ba; letter-spacing: 1px;">© 2020 ASP Cares&nbsp; | &nbsp;<a href="#">Privacy Policy </a> &nbsp;| &nbsp;<a href="#">Terms & Conditions</a> &nbsp; | &nbsp;<a href="/assets/HIPAA-Notice-of-Privacy-Practices.pdf" target=_blank>HIPAA NOTICE OF PRIVACY PRACTICES</a> &nbsp; | &nbsp;<a href="/blog">Blog</a></span>
+<span style="color: #bbc5ba; letter-spacing: 1px;">© 2023 ASP Cares&nbsp; | &nbsp;<a href="#">Privacy Policy </a> &nbsp;| &nbsp;<a href="#">Terms & Conditions</a> &nbsp; | &nbsp;<a href="/assets/HIPAA-Notice-of-Privacy-Practices.pdf" target=_blank>HIPAA NOTICE OF PRIVACY PRACTICES</a> &nbsp; | &nbsp;<a href="/blog">Blog</a></span>
 </p>
 <br>
 <p>
