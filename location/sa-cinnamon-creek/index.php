@@ -386,26 +386,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <!-- shop supplements end -->
   
                     <link rel="stylesheet" href="../../assets/css/mapbox.css">
+                    <br><br>
                    <div class="product_header">
                         <div class="wrap">
                             <div class="product_header_table">
                                 <div class="product_header_cell product_header_img">
-                                    <img src="../../assets/images/Margaret.png" alt="" />
+                                    <img src="../../assets/images/Raul Cabrialez.jpg" alt="" />
                                 </div>
                                 <!-- .product_header_cell -->
                                 <div class="product_header_cell product_header_txt">
                                     <!-- <h2 class="product_title">KRISHNA PATEL</h2> -->
-                                    <h2 class="product_title">Margaret Adjeji</h2>
+                                    <h2 class="product_title">Raul Cabrialez</h2>
                                     <p class="product_desc">
-                                        <!-- Krishna Patel is the Pharmacist-in-Charge at the ASP Cares location in San Antonio. With more than a decade of experience in the retail pharmacy setting, Krishna is not only well versed in dispensing prescription orders but understands the important role she plays in the delivery of patient care. This includes counseling for medication safety and performing medication therapy management to ensure patients receive optimal health outcomes.  --></p>
-                                   <!--  <p class="product_desc">
-                                       Patient safety and providing care of unparalleled quality are of utmost importance to Krishna and the team at ASP Cares. She enjoys going the extra mile to take care of patients and build strong relationships</p>
+                                        My name is Raul Cabrialez born in Laredo Tx.  Raised in San Antonio, Tx. since I was 5 yrs old.  Born to a family of 6 children. Me being number 4.</p>
+                                    <p class="product_desc">
+                                      I'm happy to say looking back at my journey in the medical field & being able to be part of Texas Specialty Clinics and  to be able to bring my life experience and medical knowledge of  20 yrs to Texas Specialty Clinics has been a blessing.  I have worked in ER, ICU, Internal medicine, Gastro, non-profit, and HIV Case Management, and opening up a clinic from scratch was a challenge. And now to be allowed to do it all again with Texas Specialty Clinic as a Clinical Assitant and be able to give it my all.  I'm proud of myself and grateful to Mr. Abdul for the opportunity to be part of this company.</p>
                                    
                                     <p class="product_desc">
-                                       Krishna holds a bachelor’s degree in pharmacy and has been a licensed pharmacist in both North Carolina and Texas since 2007.
-                                       
+                                      I stand tall and proud of how the Texas Specialty Clinic of San Antonio has blossomed into a beautiful clinic with an awesome team in it for the same cause.  To End HIV/AIDS epidemic and find a cure.  I care about it in my heart.  I have lost my dad and multiple friends throughout the years to HIV/AIDS.  My mother was able to continue the fight and took her medication. She lived with it for over 20 yrs.  And COVID was taken from me in 2021.  My mission in life was placed in my hands on April 7th, 2007.  Always remind others that HIV/AIDS does not discriminate & never treat others ugly.  Because that could be your mom, father, sister, brother.  Always be mindful that we are not God to judge others.
                                      
-                                    </p> -->
+                                    </p>
+                                    <br> <br>
+              
+                                </div>
+                                <!-- .product_header_cell -->
+                            </div>
+                            <!-- .product_header_table -->
+                        </div>
+                        <div class="wrap">
+                            <div class="product_header_table">
+                                <div class="product_header_cell product_header_img">
+                                    <img src="../../assets/images/Chris Rodriguez.jpg" alt="" />
+                                </div>
+                                <!-- .product_header_cell -->
+                                <div class="product_header_cell product_header_txt">
+                                    <!-- <h2 class="product_title">KRISHNA PATEL</h2> -->
+                                    <h2 class="product_title">Chris Rodriguez</h2>
+                                    <p class="product_desc">
+                               <!--          My name is Raul Cabrialez born in Laredo Tx.  Raised in San Antonio, Tx. since I was 5 yrs old.  Born to a family of 6 children. Me being number 4. -->
+                                    </p>
+                                    
                                     <br> <br>
               
                                 </div>
