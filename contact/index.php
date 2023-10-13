@@ -246,9 +246,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     }
 
     .article_header .article_title {
-    width: 50%;
-    margin-left: 20%;
-}
+        width: 50%;
+        margin-left: 20%;
+    }
+    @media only screen and (min-width: 1100px) {
+        .article_header .article_title{
+            margin-left: 5% !important;
+            text-align: left !important;
+            padding-left: 0% !important;
+        }
+        .country-address{
+            text-align: left !important;
+        }
+    }
+    @media only screen and (max-width: 600px) {
+        .article_header .article_title{
+            margin-left: 0px;
+        }
+    }
 </style>
 
 <script type="application/ld+json">
@@ -297,7 +312,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <div class="global_container">
         <?php
-        include "../header1.php"
+        include "../header.php"
         ?>
 
         <main class="main_container">
@@ -328,15 +343,20 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="wrap"><br>
                     <div class="country-address">
                                 <div>
-                                    <label class="proxi-th labelc">ASP Cares Corporate Headquarters</label>
-                                    <p class="proxi-th" style="color:#000">2657 NW 20th Street,
+                                    <label class="proxi-th labelc">ASP Cares Corporate Office</label>
+                                        <p class="proxi-th" style="color:#000">
+                                            13988 Diplomat Dr Suite 100,<br>
+                                            Farmers Branch, TX 75234
+                                            <!-- 2657 NW 20th Street,
                                         <br>Miami, FL 33142-7105,
-                                        <br> (Miami-Dade County)
+                                        <br> (Miami-Dade County) -->
                                         <br>Email : <a herf="mailto:info@aspcares.com">info@aspcares.com</a>
-                                        <br>Phone : <!-- <a herf="tel:(305) 856-0070">(305) 856-0070</a>, <a herf="tel:888-984-7155">888-984-7155</a> -->
-                                        <a herf="tel:+1 214-475-6078">214-475-6078</a>
-                                        <br>Fax : <a herf="tel:(305) 856-0072">(305) 856-0072</a>, <a herf="tel:305-397-2939">305-397-2939</a>
-                                    </p>
+                                        <br>Phone : 
+                                        <!-- <a herf="tel:(305) 856-0070">(305) 856-0070</a>, <a herf="tel:888-984-7155">888-984-7155</a> -->
+                                        <!-- <a herf="tel:+1 214-475-6078">214-475-6078</a> -->
+                                        <a herf="tel:+1 214-919-2520">214-919-2520</a>
+                                       <!--  <br>Fax : <a herf="tel:(305) 856-0072">(305) 856-0072</a>, <a herf="tel:305-397-2939">305-397-2939</a> -->
+                                    </p><br>
                                 </div>
                                 <!-- <div>
                                     <label class="proxi-th labelc">340B</label>
@@ -531,6 +551,7 @@ include "../search-popup.php"
     </script>
     
     <script type='text/javascript' src='../assets/js/scripts33a6.js?ver=4.9'></script>
+    
     <script type='text/javascript' src='../assets/js/jquery.easing.1.34e44.js?ver=1.3'></script>
     <script type='text/javascript' src='../assets/js/jquery-ui.min35d0.js?ver=1.12.1'></script>
     <script type='text/javascript' src='../assets/js/jquery.requestAnimationFrame.min804c.js?ver=0.1.2'></script>

@@ -40,6 +40,14 @@ a{
     line-height: 1.86 !important;
     color: red !important;
 }
+.contactmenutxt a{
+    font-weight: 400;text-transform: uppercase;
+}
+@media only screen and (max-width: 600px) {
+    .contactmenutxt a{
+        font-weight:bold
+    }
+}
  </style>
   <!-- Css for Adding Textfield  -->
                                                         <style type="text/css">
@@ -712,7 +720,8 @@ a{
                                     <li id="menu-item-2884" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2884 n1"><a href="/team/culture/"><span>Company Culture</span></a></li>
                                 </ul>
                             </li>
-
+                            <li id="menu-item-1257" class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257 contactmenutxt"><a href="/contact/" ><span>Contact Us</span></a>
+                            </li>
 
                          
                         </ul>
