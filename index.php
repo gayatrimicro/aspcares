@@ -1386,7 +1386,7 @@ Learn more about the value-added services we provide to our customers.
 <h2 class=main_section_title lang=en>PRIOR AUTHORIZATION ASSISTANCE</h2>
 </div></a>
 </li>
-<li>
+<!-- <li>
 <a href=340B>
 <figure>
 <img alt=STORE src="assets/images/meeting2.jpg">
@@ -1394,7 +1394,7 @@ Learn more about the value-added services we provide to our customers.
 <div class=main_meeting_txt>
 <h2 class=main_section_title lang=en>340B PROGRAM</h2>
 </div></a>
-</li>
+</li> -->
 <li>
 <a href=PAA>
 <figure>
