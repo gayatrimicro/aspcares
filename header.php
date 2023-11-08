@@ -545,7 +545,7 @@ a{
                                         <a href="#"><span>Nevada</span></a>
                                         <ul class="sub-menu-inner">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/lasvegas/"><span>Las Vegas, NV</span></a></li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/lasvegas-mlk/"><span>Las Vegas, MLK, NV</span></a></li>
+                                            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/lasvegas-mlk/"><span>Las Vegas, MLK, NV</span></a></li> -->
                                         </ul>
                                     </li>
                                     <!-- <li id="menu-item-2887" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2887">
@@ -978,14 +978,14 @@ a{
                                                         
                                                         <option value="Las Cruces, NM">Las Cruces, NM</option>
                                                         <option value="Las Vegas, NV">Las Vegas, NV</option>
-                                                        <option value="Las Vegas, MLK, NV">Las Vegas, MLK, NV</option>
+                                                        <!-- <option value="Las Vegas, MLK, NV">Las Vegas, MLK, NV</option> -->
                                                         <!-- <option value="Livingston, NJ">Livingston, NJ</option> -->
                                                         <option value="McAllen, TX">McAllen, TX</option>
                                                         <!--<option value="Miami, FL">Miami, FL</option>-->   
                                                         <!-- <option value="Oklahoma City, OK">Oklahoma City, OK</option> -->
                                                         <!-- <option value="Orlando, FL">Orlando, FL</option> -->
 
-                                                        <option value="Pasadena, TX">Pasadena, TX</option>
+                                                        <!-- <option value="Pasadena, TX">Pasadena, TX</option> -->
 
                                                         <option value="San Antonio, TX">San Antonio, TX</option>
                                                         <!-- <option value="San Antonio, TX">San Antonio, TX </option> -->
@@ -1588,10 +1588,10 @@ document.getElementById("selectlocation").disabled = true;
                     document.getElementById("selectlocation").value = "Las Vegas, NV";
 document.getElementById("selectlocation").disabled = true;
                 }
-                else if(location.includes("lasvegas-mlk") == true){
-                    document.getElementById("selectlocation").value = "Las Vegas, MLK, NV";
-document.getElementById("selectlocation").disabled = true;
-                }
+//                 else if(location.includes("lasvegas-mlk") == true){
+//                     document.getElementById("selectlocation").value = "Las Vegas, MLK, NV";
+// document.getElementById("selectlocation").disabled = true;
+//                 }
                 else if(location.includes("astoria") == true){
                     document.getElementById("selectlocation").value = "Astoria, NY";
 document.getElementById("selectlocation").disabled = true;
@@ -1934,11 +1934,11 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "Las Vegas, NV";
                         console.log("",pagelocation);
                     }
-                    else if(location.includes("lasvegas-mlk") == true)
-                    {
-                        var pagelocation = "Las Vegas, MLK NV";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("lasvegas-mlk") == true)
+                    // {
+                    //     var pagelocation = "Las Vegas, MLK NV";
+                    //     console.log("",pagelocation);
+                    // }
                     else if(location.includes("albuquerque") == true)
                     {
                         var pagelocation = "Albuquerque, NM";
@@ -2040,11 +2040,11 @@ document.getElementById("asksuccess").style.display = "block";
                         var pagelocation = "PrEP";
                         console.log("",pagelocation);
                     }
-                    else if(location.includes("503bfacility") == true)
-                    {
-                        var pagelocation = "503B Facility";
-                        console.log("",pagelocation);
-                    }
+                    // else if(location.includes("503bfacility") == true)
+                    // {
+                    //     var pagelocation = "503B Facility";
+                    //     console.log("",pagelocation);
+                    // }
                     else if(location.includes("tyler") == true)
                     {
                         var pagelocation = "Tyler, TX";
