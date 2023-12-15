@@ -198,6 +198,7 @@ and (min-device-width:768px){.gm-style .dropdown .wrap_controls{padding-bottom:2
 	.main_Ceo {
     background: #e7dcd4  no-repeat center center !important;
     background-size: cover;
+}
 </style>
 <?php
         include "header.php"
