@@ -996,7 +996,7 @@ next
 </div>
 </div> -->
 </div>
-<div class="main_section main_academy main_Ceo">
+<!-- <div class="main_section main_academy main_Ceo">
 <div class=wrap>
 <div class=main_academy_content>
 <h2 class=main_section_title lang=en>Abdul Hameed</h2>
@@ -1005,7 +1005,7 @@ next
 
 </div>
 </div>
-</div>
+</div> -->
 <div class="main_section main_recommend" style="padding: 70px 0 !important;">
 <div class=main_section_head>
 <div class=wrap>
@@ -1626,7 +1626,7 @@ These two ladies at ASP Cares went beyond and helped me with my medications! I c
 </nav>
 <div class=footer_info>
 <p>
-<span style="color: #bbc5ba; letter-spacing: 1px;">© 2023 ASP Cares&nbsp; | &nbsp;<a href="#">Privacy Policy </a> &nbsp;| &nbsp;<a href="#">Terms & Conditions</a> &nbsp; | &nbsp;<a href="/assets/HIPAA-Notice-of-Privacy-Practices.pdf" target=_blank>HIPAA NOTICE OF PRIVACY PRACTICES</a> &nbsp; | &nbsp;<a href="/blog">Blog</a></span>
+<span style="color: #bbc5ba; letter-spacing: 1px;">© 2024 ASP Cares&nbsp; | &nbsp;<a href="#">Privacy Policy </a> &nbsp;| &nbsp;<a href="#">Terms & Conditions</a> &nbsp; | &nbsp;<a href="/assets/HIPAA-Notice-of-Privacy-Practices.pdf" target=_blank>HIPAA NOTICE OF PRIVACY PRACTICES</a> &nbsp; <!-- | &nbsp;<a href="/blog">Blog</a> --></span>
 </p>
 <br>
 <p>
