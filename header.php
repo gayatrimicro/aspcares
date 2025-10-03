@@ -605,13 +605,13 @@ a{
                                         </ul>
 
                                     </li>
-                                    <li id="menu-item-2886" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2886">
+                                    <!-- <li id="menu-item-2886" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2886">
                                         <a href="#"><span>Maryland</span></a>
                                         <ul class="sub-menu-inner">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-2883"><a href="/location/maryland/"><span>Columbia</span></a></li>
                                             
                                         </ul>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </li>
                              <li id="menu-item-1257" class="menu-item-type-products menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1257"><a href="#"><span>SPECIALTIES</span></a>
@@ -970,7 +970,7 @@ a{
 
                                                         <option value="el-paso">El Paso</option>
                                                         <option value="weslaco">Weslaco</option>
-                                                        <option value="Maryland">Maryland</option>
+                                                        <!-- <option value="Maryland">Maryland</option> -->
                                                         <!-- <option value="Farmers Branch, TX">Farmers Branch, TX</option> -->
                                                         <option value="Dallas, TX">Dallas, TX</option>
 <!--                                                         <option value="Houston, TX">Houston, TX</option>
@@ -1624,10 +1624,10 @@ document.getElementById("selectlocation").disabled = true;
                      document.getElementById("selectlocation").value = "Weslaco, TX";
  document.getElementById("selectlocation").disabled = true;
                  }
-                 else if(location.includes("maryland") == true){
-                     document.getElementById("selectlocation").value = "Maryland";
- document.getElementById("selectlocation").disabled = true;
-                 }
+ //                 else if(location.includes("maryland") == true){
+ //                     document.getElementById("selectlocation").value = "Maryland";
+ // document.getElementById("selectlocation").disabled = true;
+ //                 }
 
 //                 else if(location.includes("farmers") == true){
 //                     document.getElementById("selectlocation").value = "Farmers Branch, TX";
@@ -1994,11 +1994,11 @@ document.getElementById("asksuccess").style.display = "block";
                          var pagelocation = "Weslaco, TX";
                          console.log("",pagelocation);
                      }
-                     else if(location.includes("maryland") == true)
-                     {
-                         var pagelocation = "Maryland";
-                         console.log("",pagelocation);
-                     }
+                     // else if(location.includes("maryland") == true)
+                     // {
+                     //     var pagelocation = "Maryland";
+                     //     console.log("",pagelocation);
+                     // }
                     // else if(location.includes("farmers") == true)
                     // {
                     //     var pagelocation = "Farmers Branch, TX";
